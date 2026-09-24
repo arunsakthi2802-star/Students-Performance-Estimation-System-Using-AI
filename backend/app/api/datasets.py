@@ -5,8 +5,7 @@ Project Owner: Nithyasri S
 """
 
 import io
-import os
-import pandas as pd
+import csv
 from typing import Optional
 from fastapi import APIRouter, Depends, HTTPException, status, UploadFile, File, Form
 from sqlalchemy.orm import Session
@@ -34,55 +33,63 @@ async def preview_and_validate_dataset(
     file: UploadFile = File(...),
     current_user: User = Depends(require_roles(["admin", "teacher"]))
 ):
-    if not (file.filename.endswith(".csv") or file.filename.endswith(".xlsx")):
+    if not file.filename.endswith(".csv"):
         raise HTTPException(
             status_code=status.HTTP_400_BAD_REQUEST,
-            detail="Unsupported file format. Please upload a .csv or .xlsx file."
+            detail="Please upload a valid .csv file."
         )
 
     contents = await file.read()
     try:
-        if file.filename.endswith(".csv"):
-            df = pd.read_csv(io.BytesIO(contents))
-        else:
-            df = pd.read_excel(io.BytesIO(contents))
+        text_stream = io.StringIO(contents.decode("utf-8-sig"))
+        reader = list(csv.DictReader(text_stream))
     except Exception as e:
-        raise HTTPException(status_code=400, detail=f"Failed to parse spreadsheet: {str(e)}")
+        raise HTTPException(status_code=400, detail=f"Failed to parse CSV file: {str(e)}")
 
-    total_rows = len(df)
-    missing_cols = [c for c in REQUIRED_COLUMNS if c not in df.columns]
+    if not reader:
+        return {
+            "filename": file.filename,
+            "total_rows": 0,
+            "valid_rows": 0,
+            "invalid_rows": 0,
+            "duplicate_count": 0,
+            "missing_columns": REQUIRED_COLUMNS,
+            "columns_found": [],
+            "validation_issues": ["CSV file is empty."],
+            "is_valid": False,
+            "preview_data": []
+        }
+
+    columns_found = list(reader[0].keys())
+    missing_cols = [c for c in REQUIRED_COLUMNS if c not in columns_found]
 
     issues = []
     if missing_cols:
         issues.append(f"Missing mandatory columns: {', '.join(missing_cols)}")
 
-    # Check duplicates
+    seen_ids = set()
     duplicate_count = 0
-    if "student_id" in df.columns:
-        duplicate_count = int(df["student_id"].duplicated().sum())
-        if duplicate_count > 0:
-            issues.append(f"Detected {duplicate_count} duplicate student_id records.")
-
-    # Check null values
-    null_counts = {col: int(df[col].isna().sum()) for col in df.columns if df[col].isna().sum() > 0}
-    if null_counts:
-        issues.append(f"Missing values found in columns: {null_counts}")
-
-    # Check numerical bounds
     invalid_rows = 0
-    if not missing_cols:
-        out_of_bounds = df[
-            (df["attendance_percentage"] < 0) | (df["attendance_percentage"] > 100) |
-            (df["internal_marks"] < 0) | (df["internal_marks"] > 100) |
-            (df["assignment_score"] < 0) | (df["assignment_score"] > 100) |
-            (df["practical_score"] < 0) | (df["practical_score"] > 100)
-        ]
-        invalid_rows = len(out_of_bounds)
-        if invalid_rows > 0:
-            issues.append(f"Found {invalid_rows} rows with marks/percentages outside legal range [0, 100].")
 
+    for row in reader:
+        sid = row.get("student_id", "").strip()
+        if sid:
+            if sid in seen_ids:
+                duplicate_count += 1
+            else:
+                seen_ids.add(sid)
+
+        try:
+            att = float(row.get("attendance_percentage", 0))
+            marks = float(row.get("internal_marks", 0))
+            if att < 0 or att > 100 or marks < 0 or marks > 100:
+                invalid_rows += 1
+        except ValueError:
+            invalid_rows += 1
+
+    total_rows = len(reader)
     valid_rows = max(0, total_rows - duplicate_count - invalid_rows)
-    preview_records = df.head(10).fillna("").to_dict(orient="records")
+    preview_records = reader[:10]
 
     return {
         "filename": file.filename,
@@ -91,7 +98,7 @@ async def preview_and_validate_dataset(
         "invalid_rows": total_rows - valid_rows,
         "duplicate_count": duplicate_count,
         "missing_columns": missing_cols,
-        "columns_found": list(df.columns),
+        "columns_found": columns_found,
         "validation_issues": issues,
         "is_valid": len(missing_cols) == 0 and invalid_rows == 0,
         "preview_data": preview_records
@@ -108,27 +115,28 @@ async def import_dataset(
 ):
     contents = await file.read()
     try:
-        if file.filename.endswith(".csv"):
-            df = pd.read_csv(io.BytesIO(contents))
-        else:
-            df = pd.read_excel(io.BytesIO(contents))
+        text_stream = io.StringIO(contents.decode("utf-8-sig"))
+        reader = list(csv.DictReader(text_stream))
     except Exception as e:
-        raise HTTPException(status_code=400, detail=f"Failed to read file: {str(e)}")
+        raise HTTPException(status_code=400, detail=f"Failed to read CSV file: {str(e)}")
 
-    missing_cols = [c for c in REQUIRED_COLUMNS if c not in df.columns]
+    if not reader:
+        raise HTTPException(status_code=400, detail="CSV file is empty.")
+
+    columns_found = list(reader[0].keys())
+    missing_cols = [c for c in REQUIRED_COLUMNS if c not in columns_found]
     if missing_cols:
         raise HTTPException(
             status_code=400,
             detail=f"Cannot import: File is missing required columns: {', '.join(missing_cols)}"
         )
 
-    # Clean missing values
-    df = df.dropna(subset=REQUIRED_COLUMNS)
-
     imported_count = 0
-    for _, row in df.iterrows():
-        sid = str(row["student_id"]).strip()
-        # Ensure student exists
+    for row in reader:
+        sid = str(row.get("student_id", "")).strip()
+        if not sid:
+            continue
+
         stu = db.query(Student).filter(Student.student_id == sid).first()
         if not stu:
             stu_name = str(row.get("name", f"Student {sid}")).strip()
@@ -143,14 +151,13 @@ async def import_dataset(
             db.add(stu)
             db.flush()
 
-        # Add or update academic record
         rec = db.query(AcademicRecord).filter(
             AcademicRecord.student_id == sid,
             AcademicRecord.subject_code == subject_code,
             AcademicRecord.semester == semester
         ).first()
 
-        target_score = float(row["final_score"]) if "final_score" in row and pd.notna(row["final_score"]) else None
+        target_score = float(row["final_score"]) if row.get("final_score") else None
 
         if not rec:
             rec = AcademicRecord(
@@ -184,12 +191,11 @@ async def import_dataset(
 
         imported_count += 1
 
-    # Record DatasetUpload audit
     upload_record = DatasetUpload(
         filename=file.filename,
-        row_count=len(df),
+        row_count=len(reader),
         valid_count=imported_count,
-        invalid_count=len(df) - imported_count,
+        invalid_count=len(reader) - imported_count,
         status="Successfully Ingested",
         uploaded_by=current_user.full_name
     )
