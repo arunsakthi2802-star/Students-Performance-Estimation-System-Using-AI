@@ -5,8 +5,6 @@ Project Owner: Nithyasri S
 """
 
 import os
-from pydantic_settings import BaseSettings
-
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 class Settings(BaseSettings):
@@ -30,6 +28,9 @@ class Settings(BaseSettings):
         "mongodb+srv://arshatestid_db:Abc123.%40@arshatest.exg6eut.mongodb.net/?appName=arshatest"
     )
     MONGODB_DB_NAME: str = os.getenv("MONGODB_DB_NAME", "student_performance_ai")
+
+    # Gemini AI Configuration
+    GEMINI_API_KEY: str = os.getenv("GEMINI_API_KEY", "")
     
     BACKEND_CORS_ORIGINS: list[str] = [
         "http://localhost:5173",
