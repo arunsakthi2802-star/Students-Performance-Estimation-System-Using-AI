@@ -51,7 +51,6 @@ export const EstimationStudio: React.FC = () => {
 
   useEffect(() => {
     fetchInitialData();
-    // Run an initial estimation with default parameters
     runEstimation();
   }, []);
 
@@ -102,25 +101,34 @@ export const EstimationStudio: React.FC = () => {
     setLoading(true);
     setError(null);
 
-    const payload = {
-      student_id: selectedStudentId || undefined,
-      student_name: studentName || undefined,
-      attendance_percentage: attendance,
-      internal_marks: internalMarks,
-      assignment_score: assignmentScore,
-      practical_score: practicalScore,
-      previous_semester_percentage: prevSemPercentage,
-      study_hours_per_week: studyHours,
-      assignment_completion_percentage: assignmentCompletion,
-      learning_activity_score: learningActivity,
-      model_override: modelOverride || undefined
+    const payload: any = {
+      attendance_percentage: Number(attendance),
+      internal_marks: Number(internalMarks),
+      assignment_score: Number(assignmentScore),
+      practical_score: Number(practicalScore),
+      previous_semester_percentage: Number(prevSemPercentage),
+      study_hours_per_week: Number(studyHours),
+      assignment_completion_percentage: Number(assignmentCompletion),
+      learning_activity_score: Number(learningActivity)
     };
+
+    if (selectedStudentId) payload.student_id = selectedStudentId;
+    if (studentName) payload.student_name = studentName;
+    if (modelOverride) payload.model_override = modelOverride;
 
     try {
       const res = await api.post('/ml/predict', payload);
       setEstimationResult(res.data);
     } catch (err: any) {
-      setError(err.response?.data?.detail || 'Estimation failed. Please verify input ranges.');
+      const detail = err.response?.data?.detail;
+      if (Array.isArray(detail)) {
+        const msgs = detail.map((d: any) => `${d.loc?.[d.loc.length - 1]}: ${d.msg}`).join(', ');
+        setError(`Validation Error: ${msgs}`);
+      } else if (typeof detail === 'string') {
+        setError(detail);
+      } else {
+        setError('Estimation failed. Please verify input ranges.');
+      }
     } finally {
       setLoading(false);
     }
@@ -137,6 +145,7 @@ export const EstimationStudio: React.FC = () => {
     setStudyHours(16.0);
     setAssignmentCompletion(80.0);
     setLearningActivity(72.0);
+    setModelOverride('');
   };
 
   const handlePrint = () => {
