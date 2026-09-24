@@ -57,14 +57,18 @@ export const EstimationStudio: React.FC = () => {
 
   const fetchInitialData = async () => {
     try {
-      const [stuRes, modelsRes] = await Promise.all([
-        api.get('/students', { params: { limit: 50 } }),
-        api.get('/ml/models')
-      ]);
-      setStudents(stuRes.data.items || []);
+      const modelsRes = await api.get('/ml/models');
       setAvailableModels(modelsRes.data.available_models || []);
     } catch (err) {
-      console.error('Failed to load initial studio data', err);
+      console.error('Failed to load available models', err);
+    }
+
+    try {
+      const stuRes = await api.get('/students', { params: { limit: 50 } });
+      setStudents(stuRes.data.items || []);
+    } catch (err) {
+      // Guest visitor (unauthenticated) - student selector is optional
+      setStudents([]);
     }
   };
 
@@ -79,7 +83,6 @@ export const EstimationStudio: React.FC = () => {
       setStudentName(stu.name);
 
       if (stu.academic_records && stu.academic_records.length > 0) {
-        // Average or latest values
         const rec = stu.academic_records[0];
         setAttendance(rec.attendance_percentage);
         setInternalMarks(rec.internal_marks);
@@ -380,7 +383,7 @@ export const EstimationStudio: React.FC = () => {
                 onChange={(e) => setModelOverride(e.target.value)}
                 className="w-full px-3 py-2 rounded-xl border border-slate-300 text-xs bg-white text-slate-800"
               >
-                <option value="">-- Active Champion (Linear Regression - R² 0.941) --</option>
+                <option value="">-- Google Gemini 1.5 Flash (Active AI Engine) --</option>
                 {availableModels.map((m) => (
                   <option key={m} value={m}>{m}</option>
                 ))}
