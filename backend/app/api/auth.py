@@ -4,6 +4,7 @@ Students Performance Estimation System Using AI
 Project Owner: Nithyasri S
 """
 
+from typing import Optional
 from fastapi import APIRouter, Depends, HTTPException, status
 from sqlalchemy.orm import Session
 from backend.app.core.database import get_db
@@ -41,6 +42,22 @@ def get_current_user(
         )
     return user
 
+def get_current_user_optional(
+    auth_credentials = Depends(security_bearer),
+    db: Session = Depends(get_db)
+) -> Optional[User]:
+    if not auth_credentials or not auth_credentials.credentials:
+        return None
+    try:
+        token = auth_credentials.credentials
+        payload = decode_access_token(token)
+        email: str = payload.get("sub")
+        if email:
+            return db.query(User).filter(User.email == email).first()
+    except Exception:
+        pass
+    return None
+
 def require_roles(allowed_roles: list[str]):
     def role_checker(current_user: User = Depends(get_current_user)) -> User:
         if current_user.role not in allowed_roles:
@@ -53,7 +70,6 @@ def require_roles(allowed_roles: list[str]):
 
 @router.post("/register", response_model=Token, status_code=status.HTTP_201_CREATED)
 def register(user_in: UserRegister, db: Session = Depends(get_db)):
-    # Check if user already exists
     existing = db.query(User).filter(User.email == user_in.email.lower()).first()
     if existing:
         raise HTTPException(
@@ -61,7 +77,6 @@ def register(user_in: UserRegister, db: Session = Depends(get_db)):
             detail="An account with this email address already exists."
         )
 
-    # If student role, check or create student record
     if user_in.role == "student" and user_in.student_id:
         existing_student = db.query(Student).filter(Student.student_id == user_in.student_id).first()
         if not existing_student:

@@ -9,7 +9,7 @@ from typing import Optional
 from fastapi import APIRouter, Depends, HTTPException, status, Query
 from sqlalchemy.orm import Session
 from backend.app.core.database import get_db
-from backend.app.api.auth import get_current_user, require_roles
+from backend.app.api.auth import get_current_user, get_current_user_optional, require_roles
 from backend.app.models.db_models import User, Student, PredictionHistory, ModelRegistry
 from backend.app.schemas.api_schemas import (
     PredictionRequest, PredictionResponse, PredictionHistoryOut
@@ -21,7 +21,7 @@ router = APIRouter(prefix="/ml", tags=["Gemini AI Estimation"])
 @router.post("/predict", response_model=PredictionResponse)
 def estimate_performance(
     req: PredictionRequest,
-    current_user: User = Depends(get_current_user),
+    current_user: Optional[User] = Depends(get_current_user_optional),
     db: Session = Depends(get_db)
 ):
     feature_dict = {
@@ -45,7 +45,8 @@ def estimate_performance(
         if stu:
             student_name = stu.name
 
-    # Save to PredictionHistory
+    # Save to PredictionHistory if authenticated user
+    performed_by_name = current_user.full_name if current_user else "Guest Simulation User"
     history = PredictionHistory(
         student_id=req.student_id,
         student_name=student_name,
@@ -61,7 +62,7 @@ def estimate_performance(
             "feature_impacts": result["feature_impacts"],
             "early_triggers": result["early_support_triggers"]
         }),
-        performed_by=current_user.full_name
+        performed_by=performed_by_name
     )
     db.add(history)
     db.commit()
@@ -70,7 +71,7 @@ def estimate_performance(
 
 @router.get("/models")
 def get_gemini_model_benchmarks(
-    current_user: User = Depends(get_current_user),
+    current_user: Optional[User] = Depends(get_current_user_optional),
     db: Session = Depends(get_db)
 ):
     gemini_models = ml_service.list_models()
