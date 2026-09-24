@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=sqlite:///./student_performance.db
+      - SECRET_KEY=super-secret-key-nithyasri-mca-project-2026-secure-jwt-token
+    volumes:
+      - ./backend/student_performance.db:/app/student_performance.db
+      - ./backend/app/ml/artifacts:/app/backend/app/ml/artifacts
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    depends_on:
+      - backend

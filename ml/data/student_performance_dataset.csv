@@ -1,0 +1,1201 @@
+student_id,name,department,semester,attendance_percentage,internal_marks,assignment_score,practical_score,previous_semester_percentage,study_hours_per_week,assignment_completion_percentage,learning_activity_score,final_score,performance_category,support_priority
+STU1001,Divya Devi,Artificial Intelligence & Data Science,2,72.7,68.8,83.8,72.8,71.4,24.1,86.1,74.4,80.1,Distinction,Good Standing
+STU1002,Yamini Subramanian,Information Technology,2,53.4,67.1,55.4,54.6,64.7,11.3,60.4,51.1,49.2,Pass / Average,Moderate Monitoring
+STU1003,Naveen Rao,Software Engineering,3,64.5,60.7,67.7,53.5,61.6,15.5,90.3,64.7,60.1,First Class,Good Standing
+STU1004,Naveen Balaji,Computer Science,2,89.5,58.3,69.4,42.2,57.4,16.9,82.9,62.5,60.5,First Class,Good Standing
+STU1005,Swetha Iyer,Computer Science,2,69.6,45.6,56.4,45.1,40.0,5.0,71.9,39.6,47.2,Pass / Average,Moderate Monitoring
+STU1006,Sanjay Natarajan,Computer Applications,4,81.9,77.4,82.5,63.3,71.5,11.9,77.5,70.2,70.0,First Class,Good Standing
+STU1007,Rahul Venkatesh,Computer Science,2,78.3,79.6,93.9,72.8,68.6,20.2,88.3,82.8,87.3,Distinction,Good Standing
+STU1008,Deepak Sharma,Software Engineering,3,72.0,67.3,77.7,49.8,56.7,18.8,78.6,65.0,62.1,First Class,Good Standing
+STU1009,Yamini Natarajan,Computer Science,1,81.1,71.8,91.9,69.3,59.8,17.9,78.4,62.5,70.6,First Class,Good Standing
+STU1010,Pooja Menon,Information Technology,3,75.1,77.5,80.3,68.6,56.8,17.5,79.8,77.6,68.6,First Class,Good Standing
+STU1011,Deepak Kumar,Computer Science,2,85.7,99.0,95.9,81.8,95.7,24.1,100.0,95.2,90.7,Distinction,Good Standing
+STU1012,Ganesh Sundaram,Computer Applications,3,82.2,77.2,91.4,57.8,64.9,18.0,89.4,54.2,77.9,First Class,Good Standing
+STU1013,Ananya Rao,Computer Applications,5,87.3,72.3,96.3,66.8,84.4,19.3,87.9,54.1,77.0,First Class,Good Standing
+STU1014,Vikram Pillai,Software Engineering,4,77.6,61.5,69.6,49.0,64.3,9.8,79.4,48.5,59.1,Pass / Average,Moderate Monitoring
+STU1015,Meera Subramanian,Artificial Intelligence & Data Science,3,85.5,77.6,80.3,62.8,56.4,20.0,84.3,79.9,75.2,First Class,Good Standing
+STU1016,Pooja Sharma,Software Engineering,3,85.0,81.8,83.9,69.5,62.2,17.7,88.9,70.6,74.4,First Class,Good Standing
+STU1017,Ananya Chopra,Computer Science,3,63.0,65.0,62.6,54.9,45.6,18.5,74.9,39.8,61.5,First Class,Good Standing
+STU1018,Swetha Balaji,Information Technology,5,87.5,83.1,86.6,66.5,66.5,20.6,98.4,62.6,77.9,First Class,Good Standing
+STU1019,Aditi Rao,Computer Science,2,59.1,64.1,78.5,59.4,63.6,17.9,80.6,60.4,66.4,First Class,Good Standing
+STU1020,Yamini Patel,Computer Applications,4,58.9,38.9,49.5,45.8,45.8,10.7,74.2,36.1,44.1,Needs Support,High Academic Priority
+STU1021,Aarav Patel,Information Technology,2,93.8,86.7,77.7,67.2,69.9,20.0,96.1,67.6,79.3,First Class,Good Standing
+STU1022,Naveen Menon,Software Engineering,2,89.0,64.8,76.5,83.7,56.3,19.5,97.3,74.8,79.9,First Class,Good Standing
+STU1023,Nithya Ramesh,Computer Science,5,89.6,91.2,92.0,81.1,91.8,23.2,100.0,88.4,98.5,Distinction,Good Standing
+STU1024,Kavya Sharma,Artificial Intelligence & Data Science,1,76.8,70.6,84.3,70.4,66.8,15.5,79.8,78.0,74.4,First Class,Good Standing
+STU1025,Arun Krishnan,Information Technology,3,83.8,99.0,96.2,86.8,92.1,30.3,100.0,97.4,97.6,Distinction,Good Standing
+STU1026,Sanjay Balaji,Computer Science,3,63.0,77.8,81.8,59.1,57.0,28.9,100.0,62.2,77.9,First Class,Good Standing
+STU1027,Bhavya Balaji,Software Engineering,2,88.6,90.0,88.3,78.0,84.6,24.2,97.5,91.6,92.2,Distinction,Good Standing
+STU1028,Kavya Kumar,Information Technology,6,82.6,76.3,87.3,81.4,77.8,22.1,94.4,80.3,82.9,Distinction,Good Standing
+STU1029,Deepak Rao,Artificial Intelligence & Data Science,3,74.4,67.0,65.2,56.2,66.0,13.6,74.0,58.9,64.4,First Class,Good Standing
+STU1030,Swetha Devi,Software Engineering,5,71.8,78.0,69.1,71.1,77.8,21.9,83.4,85.4,77.0,First Class,Good Standing
+STU1031,Madhav Iyer,Artificial Intelligence & Data Science,2,72.0,67.3,71.4,55.3,65.4,17.6,94.9,72.8,69.4,First Class,Good Standing
+STU1032,Ishaan Gopal,Software Engineering,1,61.3,52.1,55.8,42.7,63.3,11.6,65.3,50.0,53.1,Pass / Average,Moderate Monitoring
+STU1033,Harini Sundaram,Artificial Intelligence & Data Science,5,61.0,68.3,62.9,40.6,65.9,15.8,85.1,59.1,65.2,First Class,Good Standing
+STU1034,Ananya Sundaram,Artificial Intelligence & Data Science,1,89.6,74.3,69.8,56.4,71.3,19.1,100.0,84.2,79.2,First Class,Good Standing
+STU1035,Vignesh Ramachandran,Information Technology,3,91.7,92.3,100.0,57.8,78.9,21.1,95.7,89.1,92.4,Distinction,Good Standing
+STU1036,Kavya Rao,Software Engineering,6,80.2,99.0,100.0,89.4,87.2,27.7,100.0,90.3,93.8,Distinction,Good Standing
+STU1037,Pooja Natarajan,Artificial Intelligence & Data Science,1,74.4,73.7,81.8,73.2,56.0,20.1,78.7,66.1,73.2,First Class,Good Standing
+STU1038,Surya Gopal,Computer Applications,1,75.3,71.1,61.3,48.5,50.6,15.1,79.9,49.9,60.4,First Class,Good Standing
+STU1039,Rohit Subramanian,Computer Science,4,78.7,78.3,84.2,88.9,71.2,18.6,88.2,66.9,81.3,Distinction,Good Standing
+STU1040,Nithya Menon,Information Technology,5,77.9,72.5,76.9,68.0,70.4,14.5,95.4,71.1,74.0,First Class,Good Standing
+STU1041,Varun Rao,Computer Applications,6,89.1,94.2,100.0,82.3,87.5,29.0,98.3,87.7,94.7,Distinction,Good Standing
+STU1042,Keerthana Menon,Artificial Intelligence & Data Science,4,76.7,99.0,99.8,72.7,79.5,23.3,100.0,79.6,90.7,Distinction,Good Standing
+STU1043,Deepak Devi,Information Technology,4,80.3,66.6,55.3,70.7,64.9,10.4,81.7,83.2,67.1,First Class,Good Standing
+STU1044,Yamini Ramesh,Computer Applications,4,78.2,85.1,67.4,71.2,71.9,17.2,85.5,65.2,79.4,First Class,Good Standing
+STU1045,Bhavya Kumar,Software Engineering,2,81.2,41.7,59.2,40.4,40.0,15.9,89.6,52.5,48.9,Pass / Average,Moderate Monitoring
+STU1046,Deepak Balaji,Computer Science,5,69.3,69.0,76.4,62.4,51.7,21.1,91.7,69.4,74.5,First Class,Good Standing
+STU1047,Bhavya Natarajan,Computer Applications,4,60.7,40.3,57.5,34.3,44.1,10.7,53.6,48.3,41.3,Needs Support,High Academic Priority
+STU1048,Naveen Sundaram,Computer Science,3,63.8,83.9,72.1,65.0,83.4,10.0,73.9,72.7,76.8,First Class,Good Standing
+STU1049,Yamini Venkatesh,Computer Applications,5,79.9,64.0,64.4,63.1,55.3,12.0,84.7,73.1,63.3,First Class,Good Standing
+STU1050,Naveen Krishnan,Artificial Intelligence & Data Science,1,81.5,95.2,99.1,89.9,79.1,19.7,99.6,71.2,91.3,Distinction,Good Standing
+STU1051,Bhavya Devi,Computer Applications,6,56.6,58.8,60.2,58.2,47.7,10.2,59.6,43.5,53.4,Pass / Average,Moderate Monitoring
+STU1052,Nithya Krishnan,Artificial Intelligence & Data Science,6,85.7,72.4,64.0,47.6,64.3,16.1,89.9,62.8,70.9,First Class,Good Standing
+STU1053,Ganesh Patel,Artificial Intelligence & Data Science,3,75.1,61.1,61.5,43.0,64.1,16.9,65.8,57.6,63.6,First Class,Good Standing
+STU1054,Varun Sharma,Computer Applications,1,82.6,75.8,59.4,56.2,65.2,11.7,87.2,62.5,67.1,First Class,Good Standing
+STU1055,Vikram Ramachandran,Computer Science,2,81.2,53.0,45.0,43.2,53.2,7.5,88.0,63.6,57.5,Pass / Average,Moderate Monitoring
+STU1056,Aarav Reddy,Computer Applications,3,69.2,35.3,42.2,32.0,40.0,12.1,70.6,29.8,48.2,Pass / Average,Moderate Monitoring
+STU1057,Sanjay Chopra,Artificial Intelligence & Data Science,3,66.6,39.0,63.2,53.9,40.0,12.7,76.4,65.4,53.5,Pass / Average,Moderate Monitoring
+STU1058,Ananya Reddy,Computer Applications,6,67.7,50.6,54.5,56.4,40.6,7.5,76.3,52.0,54.8,Pass / Average,Moderate Monitoring
+STU1059,Kavya Murugan,Information Technology,3,91.2,84.7,92.0,80.0,79.0,18.5,97.1,72.2,84.7,Distinction,Good Standing
+STU1060,Pranav Rao,Computer Science,2,85.4,95.2,100.0,75.4,90.7,27.2,100.0,100.0,99.5,Distinction,Good Standing
+STU1061,Swetha Sharma,Artificial Intelligence & Data Science,1,90.7,66.0,74.2,62.3,75.5,21.8,100.0,79.5,76.6,First Class,Good Standing
+STU1062,Rahul Krishnan,Computer Applications,2,77.1,52.5,41.5,64.0,41.7,8.5,74.3,52.0,54.7,Pass / Average,Moderate Monitoring
+STU1063,Aarav Krishnan,Software Engineering,2,74.5,67.6,71.2,80.3,83.0,18.8,82.3,62.5,83.9,Distinction,Good Standing
+STU1064,Ananya Balaji,Information Technology,5,56.5,50.4,63.5,60.7,59.4,16.9,75.0,62.6,59.5,Pass / Average,Moderate Monitoring
+STU1065,Sanjay Natarajan,Computer Science,6,86.2,94.1,94.2,64.0,81.0,25.9,100.0,88.9,89.5,Distinction,Good Standing
+STU1066,Rahul Gopal,Information Technology,3,80.2,97.3,90.3,61.6,70.5,22.5,100.0,71.8,95.9,Distinction,Good Standing
+STU1067,Ananya Natarajan,Computer Applications,3,78.0,64.4,80.9,68.4,51.3,16.6,88.8,55.8,70.3,First Class,Good Standing
+STU1068,Sanjay Balaji,Information Technology,6,80.5,70.1,88.5,65.1,70.9,18.6,89.1,78.6,68.7,First Class,Good Standing
+STU1069,Aarav Menon,Computer Applications,3,86.6,84.9,83.9,65.6,85.8,17.9,91.5,83.0,77.1,First Class,Good Standing
+STU1070,Divya Reddy,Computer Applications,6,72.1,67.5,69.0,66.5,67.9,13.8,83.4,56.4,70.5,First Class,Good Standing
+STU1071,Harini Balaji,Software Engineering,6,80.2,66.2,65.2,54.6,67.8,11.0,76.4,83.1,68.7,First Class,Good Standing
+STU1072,Meera Natarajan,Information Technology,3,62.7,52.7,53.0,40.4,47.2,8.9,75.1,49.7,50.3,Pass / Average,Moderate Monitoring
+STU1073,Pranav Subramanian,Artificial Intelligence & Data Science,2,73.2,81.7,66.7,54.7,66.8,16.1,90.5,71.0,77.2,First Class,Good Standing
+STU1074,Madhav Sundaram,Computer Applications,5,69.1,64.0,62.2,58.8,52.5,12.9,75.8,59.9,63.5,First Class,Good Standing
+STU1075,Sanjay Murugan,Information Technology,5,72.0,79.1,65.9,64.7,74.3,17.2,77.6,65.9,71.1,First Class,Good Standing
+STU1076,Divya Murugan,Computer Science,6,85.5,84.3,85.2,75.0,83.9,15.5,91.1,66.8,85.1,Distinction,Good Standing
+STU1077,Swetha Chopra,Information Technology,6,81.2,64.3,73.7,54.2,69.2,22.6,100.0,62.0,76.9,First Class,Good Standing
+STU1078,Sanjay Ramesh,Information Technology,6,70.8,39.8,55.3,50.1,44.9,3.1,62.3,38.1,49.5,Pass / Average,Moderate Monitoring
+STU1079,Pooja Sharma,Software Engineering,5,73.7,39.7,54.7,46.9,40.0,8.3,79.0,39.4,56.3,Pass / Average,Moderate Monitoring
+STU1080,Varun Ramachandran,Software Engineering,2,83.0,82.1,91.9,69.8,73.2,20.0,98.8,74.9,89.5,Distinction,Good Standing
+STU1081,Meera Venkatesh,Computer Science,4,74.6,64.7,84.5,56.9,68.0,12.0,92.9,91.1,68.0,First Class,Good Standing
+STU1082,Pranav Reddy,Computer Applications,4,78.8,76.6,80.3,87.8,67.5,20.2,91.4,78.5,89.8,Distinction,Good Standing
+STU1083,Pranav Sundaram,Information Technology,4,78.4,70.3,74.7,72.7,54.4,19.7,100.0,54.9,75.1,First Class,Good Standing
+STU1084,Keerthana Ramachandran,Information Technology,4,95.7,96.4,95.9,69.4,71.5,24.0,100.0,92.0,90.3,Distinction,Good Standing
+STU1085,Keerthana Sharma,Artificial Intelligence & Data Science,3,79.3,51.5,66.6,51.0,45.4,15.8,72.5,43.3,57.2,Pass / Average,Moderate Monitoring
+STU1086,Rahul Balaji,Artificial Intelligence & Data Science,1,90.5,74.9,84.4,64.1,85.2,20.4,100.0,82.4,89.9,Distinction,Good Standing
+STU1087,Aditi Patel,Information Technology,5,66.0,53.1,64.8,50.6,41.3,8.4,79.4,72.9,58.5,Pass / Average,Moderate Monitoring
+STU1088,Meera Reddy,Information Technology,2,80.5,79.5,60.1,73.3,63.7,21.6,82.1,64.8,71.3,First Class,Good Standing
+STU1089,Surya Ramesh,Computer Applications,4,71.9,72.2,90.8,74.7,78.5,18.0,93.4,87.3,74.7,First Class,Good Standing
+STU1090,Aarav Devi,Software Engineering,1,91.0,89.2,100.0,71.5,76.3,24.9,100.0,78.1,89.3,Distinction,Good Standing
+STU1091,Aditi Pillai,Artificial Intelligence & Data Science,6,81.8,88.0,88.5,80.6,63.4,19.2,71.9,90.5,81.2,Distinction,Good Standing
+STU1092,Rhea Iyer,Software Engineering,4,75.8,76.8,82.9,78.2,85.4,14.9,86.9,76.6,81.0,Distinction,Good Standing
+STU1093,Pranav Chopra,Computer Science,5,80.4,79.6,88.5,75.3,69.3,20.3,100.0,67.8,82.5,Distinction,Good Standing
+STU1094,Deepak Pillai,Computer Science,3,90.7,75.9,89.0,77.5,73.0,19.8,89.6,78.2,83.3,Distinction,Good Standing
+STU1095,Harini Rao,Artificial Intelligence & Data Science,5,67.8,65.5,85.8,53.3,57.9,13.3,74.5,56.4,62.8,First Class,Good Standing
+STU1096,Swetha Kumar,Computer Applications,2,99.5,80.8,96.9,59.3,82.4,24.2,100.0,98.8,89.5,Distinction,Good Standing
+STU1097,Keerthana Kumar,Artificial Intelligence & Data Science,5,73.5,83.8,78.4,70.9,86.9,19.6,84.6,81.7,89.0,Distinction,Good Standing
+STU1098,Meera Patel,Software Engineering,4,75.0,74.7,82.2,79.1,83.4,13.9,74.9,76.2,73.7,First Class,Good Standing
+STU1099,Divya Menon,Information Technology,2,79.3,73.5,93.0,73.4,50.7,19.7,94.1,60.7,76.3,First Class,Good Standing
+STU1100,Surya Murugan,Computer Science,2,69.9,59.7,71.9,49.7,64.6,18.1,98.6,55.1,66.1,First Class,Good Standing
+STU1101,Ananya Sharma,Information Technology,3,60.4,57.6,51.3,55.6,45.2,13.0,62.3,56.0,48.7,Pass / Average,Moderate Monitoring
+STU1102,Pranav Balaji,Information Technology,3,85.0,77.8,97.1,66.5,75.3,24.8,95.8,76.1,85.2,Distinction,Good Standing
+STU1103,Pooja Ramesh,Software Engineering,5,80.6,58.6,77.3,76.8,74.1,11.6,73.8,82.6,72.2,First Class,Good Standing
+STU1104,Yamini Devi,Software Engineering,1,72.2,64.3,66.5,47.0,70.7,18.9,82.5,62.9,68.6,First Class,Good Standing
+STU1105,Yamini Devi,Information Technology,5,69.2,74.1,75.5,55.4,70.1,22.1,79.6,70.9,67.2,First Class,Good Standing
+STU1106,Ananya Devi,Information Technology,4,83.8,81.3,91.1,70.3,76.7,20.1,100.0,85.6,87.7,Distinction,Good Standing
+STU1107,Rhea Reddy,Computer Science,2,75.7,88.2,75.3,68.2,90.9,20.0,95.9,71.8,84.1,Distinction,Good Standing
+STU1108,Rohit Ramesh,Software Engineering,1,76.4,74.5,65.2,57.5,69.8,19.3,88.0,59.9,73.1,First Class,Good Standing
+STU1109,Yamini Ramesh,Software Engineering,3,79.6,93.8,84.7,65.2,77.0,12.9,89.5,70.7,79.1,First Class,Good Standing
+STU1110,Rohit Pillai,Software Engineering,2,78.6,64.8,85.0,71.8,65.6,15.5,100.0,66.7,72.3,First Class,Good Standing
+STU1111,Rhea Balaji,Computer Applications,3,75.7,77.9,89.0,58.6,57.5,21.9,93.0,76.0,80.0,Distinction,Good Standing
+STU1112,Ananya Menon,Software Engineering,4,62.7,54.7,57.1,53.0,47.6,10.9,72.9,53.0,53.9,Pass / Average,Moderate Monitoring
+STU1113,Pooja Pillai,Computer Science,4,74.7,72.1,76.3,42.7,64.6,14.8,81.9,53.3,64.9,First Class,Good Standing
+STU1114,Pooja Iyer,Computer Applications,1,82.4,71.4,77.7,64.1,73.2,17.9,87.1,62.6,66.6,First Class,Good Standing
+STU1115,Arun Kumar,Software Engineering,5,78.9,65.1,59.1,41.3,57.3,15.5,96.4,58.7,61.0,First Class,Good Standing
+STU1116,Yamini Krishnan,Computer Science,4,83.8,68.8,73.1,51.0,69.6,15.1,91.0,69.4,68.3,First Class,Good Standing
+STU1117,Sanjay Pillai,Computer Science,3,59.1,45.4,54.5,37.6,40.0,13.3,71.4,50.6,45.1,Pass / Average,Moderate Monitoring
+STU1118,Keerthana Pillai,Information Technology,4,87.4,83.0,74.6,64.3,66.1,24.7,100.0,71.1,83.4,Distinction,Good Standing
+STU1119,Pranav Patel,Computer Applications,2,76.5,48.5,59.7,61.5,59.0,6.5,75.1,46.7,56.2,Pass / Average,Moderate Monitoring
+STU1120,Swetha Gopal,Computer Science,5,76.2,60.1,81.4,66.5,60.5,18.2,91.6,80.2,73.1,First Class,Good Standing
+STU1121,Nithya Iyer,Computer Science,4,64.1,43.7,39.1,52.9,43.0,7.5,69.8,36.4,51.7,Pass / Average,Moderate Monitoring
+STU1122,Rohit Ramachandran,Artificial Intelligence & Data Science,1,63.3,65.7,77.6,55.7,51.3,14.0,76.9,69.2,59.7,Pass / Average,Moderate Monitoring
+STU1123,Sneha Ramesh,Information Technology,4,78.4,59.6,73.8,46.0,58.8,15.1,83.0,51.2,64.7,First Class,Good Standing
+STU1124,Rhea Menon,Computer Applications,5,74.9,84.5,100.0,77.4,72.7,23.2,86.2,79.3,83.4,Distinction,Good Standing
+STU1125,Ishaan Chopra,Computer Applications,1,79.9,66.7,61.7,70.1,67.1,10.4,76.7,58.2,58.1,Pass / Average,Moderate Monitoring
+STU1126,Deepak Krishnan,Information Technology,6,74.5,59.6,63.1,52.8,67.6,12.0,65.6,57.2,64.0,First Class,Good Standing
+STU1127,Harini Iyer,Software Engineering,1,64.0,72.3,74.9,71.2,61.3,12.8,74.5,66.3,67.0,First Class,Good Standing
+STU1128,Meera Natarajan,Information Technology,6,75.2,78.6,79.4,62.8,65.4,15.7,82.9,76.7,79.3,First Class,Good Standing
+STU1129,Sneha Ramesh,Software Engineering,4,71.5,66.6,57.3,69.9,68.9,16.1,88.6,51.4,65.5,First Class,Good Standing
+STU1130,Vikram Venkatesh,Software Engineering,1,80.5,87.6,99.6,74.4,83.5,22.1,91.3,94.0,88.3,Distinction,Good Standing
+STU1131,Sai Patel,Artificial Intelligence & Data Science,4,74.1,65.8,78.9,51.7,63.8,12.5,80.3,51.9,62.1,First Class,Good Standing
+STU1132,Ishaan Devi,Computer Applications,1,93.0,75.9,93.4,78.9,75.9,22.7,100.0,92.9,89.9,Distinction,Good Standing
+STU1133,Naveen Patel,Information Technology,2,89.0,85.6,95.2,71.0,76.0,23.1,97.5,84.1,91.2,Distinction,Good Standing
+STU1134,Kavya Natarajan,Software Engineering,5,70.8,69.5,87.6,61.3,70.2,16.0,84.3,66.9,72.8,First Class,Good Standing
+STU1135,Arun Devi,Information Technology,2,69.0,77.7,85.4,58.8,63.8,17.7,76.8,70.8,72.6,First Class,Good Standing
+STU1136,Yamini Gopal,Artificial Intelligence & Data Science,1,84.6,69.2,82.6,58.0,68.3,16.0,100.0,88.4,74.6,First Class,Good Standing
+STU1137,Keerthana Kumar,Computer Applications,4,87.9,72.7,82.7,64.5,64.2,15.1,96.4,87.0,77.4,First Class,Good Standing
+STU1138,Surya Patel,Artificial Intelligence & Data Science,1,88.5,75.4,91.9,78.1,83.2,15.3,96.1,73.5,82.2,Distinction,Good Standing
+STU1139,Sneha Reddy,Software Engineering,3,74.4,65.9,68.1,64.8,71.7,12.1,74.3,71.0,69.7,First Class,Good Standing
+STU1140,Madhav Venkatesh,Computer Science,2,76.0,65.0,69.6,58.2,70.5,18.4,85.5,70.5,64.2,First Class,Good Standing
+STU1141,Ananya Pillai,Computer Applications,5,63.5,71.2,69.2,52.6,50.3,15.3,64.6,64.6,60.0,First Class,Good Standing
+STU1142,Rohit Natarajan,Software Engineering,2,83.6,92.5,100.0,83.1,88.1,22.7,100.0,86.2,92.5,Distinction,Good Standing
+STU1143,Rhea Ramachandran,Artificial Intelligence & Data Science,4,87.5,95.1,94.9,100.0,77.3,25.7,100.0,89.7,99.5,Distinction,Good Standing
+STU1144,Sanjay Pillai,Computer Science,2,88.4,83.0,76.8,63.2,78.9,19.3,78.0,71.2,85.7,Distinction,Good Standing
+STU1145,Nithya Iyer,Software Engineering,2,83.4,72.3,93.0,65.1,60.2,16.3,88.4,61.1,72.7,First Class,Good Standing
+STU1146,Harini Menon,Artificial Intelligence & Data Science,3,97.6,82.5,80.4,62.0,79.4,20.9,92.5,83.5,86.2,Distinction,Good Standing
+STU1147,Keerthana Gopal,Computer Science,5,72.2,67.1,61.1,58.9,70.1,15.0,79.2,81.8,66.0,First Class,Good Standing
+STU1148,Aarav Sharma,Information Technology,2,83.3,69.8,80.8,49.4,67.5,21.2,95.4,70.1,71.9,First Class,Good Standing
+STU1149,Rohit Ramesh,Artificial Intelligence & Data Science,1,69.1,55.4,48.6,47.2,50.5,13.4,78.3,57.3,52.2,Pass / Average,Moderate Monitoring
+STU1150,Surya Subramanian,Software Engineering,3,75.3,72.2,83.5,56.6,57.6,20.3,80.3,83.4,66.7,First Class,Good Standing
+STU1151,Harini Ramachandran,Computer Applications,4,92.6,79.2,85.8,70.2,89.4,14.9,91.9,80.7,84.2,Distinction,Good Standing
+STU1152,Rhea Rao,Artificial Intelligence & Data Science,3,78.1,89.3,100.0,80.8,83.5,19.5,98.3,76.7,88.2,Distinction,Good Standing
+STU1153,Pooja Iyer,Information Technology,3,75.9,63.8,72.6,50.0,68.7,15.1,81.2,67.2,66.7,First Class,Good Standing
+STU1154,Sanjay Subramanian,Software Engineering,6,63.1,77.3,52.8,50.6,57.3,14.4,70.4,53.1,65.4,First Class,Good Standing
+STU1155,Aditi Iyer,Computer Applications,2,94.2,92.6,100.0,89.8,88.8,24.5,100.0,97.9,96.6,Distinction,Good Standing
+STU1156,Ananya Chopra,Computer Science,5,88.1,98.8,100.0,85.7,87.3,21.9,91.9,73.1,99.5,Distinction,Good Standing
+STU1157,Naveen Sharma,Artificial Intelligence & Data Science,5,69.6,62.8,72.4,58.5,69.5,14.9,77.3,43.9,65.7,First Class,Good Standing
+STU1158,Arun Subramanian,Computer Applications,2,56.8,73.8,74.6,57.3,77.5,20.4,80.6,66.3,71.4,First Class,Good Standing
+STU1159,Arun Venkatesh,Artificial Intelligence & Data Science,3,61.9,60.5,54.4,70.9,48.2,10.2,72.6,65.0,60.5,First Class,Good Standing
+STU1160,Harini Balaji,Computer Science,5,85.6,81.4,90.3,90.3,82.3,15.5,85.0,88.9,81.5,Distinction,Good Standing
+STU1161,Deepak Kumar,Computer Applications,4,78.1,88.8,100.0,67.4,82.0,28.4,100.0,91.7,95.9,Distinction,Good Standing
+STU1162,Vignesh Ramesh,Computer Applications,5,73.5,61.5,75.9,63.3,68.0,19.3,87.4,53.9,73.3,First Class,Good Standing
+STU1163,Surya Menon,Information Technology,4,64.2,68.9,72.5,59.0,62.7,15.5,86.7,53.1,67.0,First Class,Good Standing
+STU1164,Sanjay Ramachandran,Information Technology,3,75.2,86.3,93.1,77.7,64.0,22.2,93.2,68.1,93.4,Distinction,Good Standing
+STU1165,Deepak Natarajan,Software Engineering,5,62.4,59.0,73.0,59.1,53.0,13.5,74.9,67.1,60.4,First Class,Good Standing
+STU1166,Nithya Sharma,Computer Applications,1,88.0,79.2,76.4,65.2,57.4,24.7,100.0,63.0,83.6,Distinction,Good Standing
+STU1167,Rohit Devi,Computer Applications,4,60.8,39.8,38.4,34.9,42.3,8.4,68.8,22.6,44.8,Needs Support,High Academic Priority
+STU1168,Aditi Gopal,Computer Science,4,88.2,76.3,95.9,79.0,72.9,20.3,91.0,73.1,89.3,Distinction,Good Standing
+STU1169,Keerthana Sharma,Artificial Intelligence & Data Science,4,97.6,99.0,100.0,90.8,96.3,20.5,98.8,95.8,99.5,Distinction,Good Standing
+STU1170,Aditi Menon,Software Engineering,6,87.6,89.7,80.6,58.2,68.8,18.2,92.1,73.3,77.1,First Class,Good Standing
+STU1171,Keerthana Murugan,Computer Applications,3,55.3,63.2,54.4,56.8,47.7,11.2,58.0,66.1,59.4,Pass / Average,Moderate Monitoring
+STU1172,Rohit Krishnan,Artificial Intelligence & Data Science,6,76.0,64.6,73.9,65.5,77.3,18.6,76.4,66.9,77.3,First Class,Good Standing
+STU1173,Swetha Krishnan,Information Technology,6,87.5,80.4,76.3,71.8,76.7,11.3,80.0,76.5,77.2,First Class,Good Standing
+STU1174,Surya Murugan,Computer Applications,4,68.9,68.1,85.7,73.2,79.8,16.7,79.7,68.5,69.4,First Class,Good Standing
+STU1175,Naveen Pillai,Information Technology,4,63.9,69.2,87.8,69.6,61.8,20.1,83.7,70.9,77.6,First Class,Good Standing
+STU1176,Meera Iyer,Computer Applications,2,64.4,41.0,60.0,64.6,51.8,10.9,62.2,50.8,52.1,Pass / Average,Moderate Monitoring
+STU1177,Swetha Subramanian,Software Engineering,5,65.1,70.5,67.7,49.4,65.3,19.4,89.7,59.9,62.3,First Class,Good Standing
+STU1178,Pooja Devi,Information Technology,5,65.2,73.4,69.3,57.1,65.9,15.9,80.1,60.8,67.9,First Class,Good Standing
+STU1179,Ananya Sharma,Artificial Intelligence & Data Science,1,99.5,97.9,95.7,94.7,91.4,18.6,92.0,76.0,99.5,Distinction,Good Standing
+STU1180,Aarav Chopra,Computer Science,2,68.6,40.7,70.3,51.7,45.8,11.8,93.7,49.2,57.3,Pass / Average,Moderate Monitoring
+STU1181,Vignesh Venkatesh,Information Technology,6,82.8,93.4,84.8,75.8,63.2,20.3,86.9,80.0,87.4,Distinction,Good Standing
+STU1182,Surya Krishnan,Information Technology,6,63.5,44.1,35.1,40.7,40.0,8.7,76.8,26.2,44.8,Needs Support,High Academic Priority
+STU1183,Sanjay Iyer,Artificial Intelligence & Data Science,3,82.2,99.0,100.0,78.4,88.0,32.6,100.0,88.7,98.8,Distinction,Good Standing
+STU1184,Rahul Patel,Software Engineering,6,85.9,67.5,77.2,81.6,77.5,14.8,82.4,70.9,77.8,First Class,Good Standing
+STU1185,Yamini Gopal,Computer Applications,6,69.8,49.3,49.5,61.0,58.3,10.3,70.8,36.9,56.4,Pass / Average,Moderate Monitoring
+STU1186,Ishaan Menon,Software Engineering,6,81.7,54.3,69.1,53.7,56.4,15.1,90.3,58.1,61.1,First Class,Good Standing
+STU1187,Divya Subramanian,Computer Science,1,80.1,73.8,81.6,75.2,56.9,16.0,72.3,62.1,66.3,First Class,Good Standing
+STU1188,Arun Krishnan,Information Technology,1,77.7,67.5,92.7,62.4,68.7,16.8,99.7,48.8,77.3,First Class,Good Standing
+STU1189,Bhavya Gopal,Artificial Intelligence & Data Science,6,83.6,67.5,88.3,69.2,77.6,17.3,100.0,75.0,75.5,First Class,Good Standing
+STU1190,Sanjay Balaji,Information Technology,5,61.0,60.5,62.7,48.1,64.0,16.3,83.9,59.6,65.3,First Class,Good Standing
+STU1191,Sai Sundaram,Information Technology,3,68.4,60.4,69.2,60.8,48.8,18.0,92.8,56.8,59.7,Pass / Average,Moderate Monitoring
+STU1192,Sai Devi,Artificial Intelligence & Data Science,2,79.3,62.3,77.1,53.3,66.1,15.8,89.2,62.9,67.3,First Class,Good Standing
+STU1193,Ananya Murugan,Information Technology,3,72.3,52.0,62.4,49.7,55.0,9.8,73.2,71.1,61.0,First Class,Good Standing
+STU1194,Naveen Ramesh,Artificial Intelligence & Data Science,1,72.3,95.4,84.9,76.0,86.7,25.2,95.6,97.3,95.1,Distinction,Good Standing
+STU1195,Surya Iyer,Software Engineering,4,85.8,85.0,78.1,82.8,74.4,18.5,98.6,83.8,79.7,First Class,Good Standing
+STU1196,Ishaan Chopra,Computer Applications,3,77.0,71.4,67.2,80.9,74.0,16.3,95.5,62.7,77.8,First Class,Good Standing
+STU1197,Rhea Iyer,Computer Science,5,74.3,61.2,72.2,76.3,69.5,15.8,94.9,58.0,67.6,First Class,Good Standing
+STU1198,Pranav Subramanian,Computer Applications,3,84.9,89.5,81.3,63.7,62.8,17.4,89.5,73.9,81.1,Distinction,Good Standing
+STU1199,Vignesh Sundaram,Artificial Intelligence & Data Science,4,65.1,68.3,90.2,77.8,67.4,22.0,80.1,60.7,78.6,First Class,Good Standing
+STU1200,Kavya Iyer,Software Engineering,4,78.9,54.8,57.1,67.3,50.1,4.5,73.3,64.9,59.6,Pass / Average,Moderate Monitoring
+STU1201,Rahul Balaji,Software Engineering,2,91.9,46.0,50.3,56.1,60.0,9.9,90.8,64.3,57.4,Pass / Average,Moderate Monitoring
+STU1202,Bhavya Krishnan,Information Technology,3,75.7,59.6,47.1,56.6,53.1,10.8,79.9,54.4,51.6,Pass / Average,Moderate Monitoring
+STU1203,Yamini Pillai,Artificial Intelligence & Data Science,3,85.0,99.0,92.5,83.0,71.8,20.0,100.0,82.5,95.3,Distinction,Good Standing
+STU1204,Sai Sundaram,Computer Science,3,82.6,74.5,86.8,65.5,68.1,20.4,86.9,70.6,77.7,First Class,Good Standing
+STU1205,Rahul Patel,Software Engineering,4,80.4,66.5,88.8,57.9,67.9,17.8,94.1,75.2,66.1,First Class,Good Standing
+STU1206,Aarav Ramesh,Artificial Intelligence & Data Science,4,75.7,76.1,71.4,63.4,64.6,14.2,73.5,67.3,70.8,First Class,Good Standing
+STU1207,Pooja Venkatesh,Artificial Intelligence & Data Science,5,76.3,85.4,93.8,81.0,89.4,21.9,94.5,89.1,95.0,Distinction,Good Standing
+STU1208,Sneha Sundaram,Artificial Intelligence & Data Science,5,84.5,65.6,78.4,57.4,61.8,21.7,96.3,81.7,73.8,First Class,Good Standing
+STU1209,Rahul Gopal,Information Technology,1,78.6,71.6,72.0,59.8,63.0,19.8,86.3,64.0,75.2,First Class,Good Standing
+STU1210,Vikram Murugan,Artificial Intelligence & Data Science,3,89.1,64.0,67.9,65.0,73.0,16.4,90.4,70.1,73.5,First Class,Good Standing
+STU1211,Aditi Menon,Computer Science,1,74.9,85.0,96.9,76.7,74.2,21.8,96.6,78.3,92.3,Distinction,Good Standing
+STU1212,Pooja Balaji,Artificial Intelligence & Data Science,2,62.3,57.3,68.3,60.5,64.0,20.2,71.4,70.1,63.2,First Class,Good Standing
+STU1213,Ishaan Natarajan,Artificial Intelligence & Data Science,4,68.6,63.7,64.4,57.3,70.6,11.8,70.5,71.6,64.1,First Class,Good Standing
+STU1214,Keerthana Kumar,Computer Science,4,79.8,77.2,55.8,80.0,63.7,12.1,86.1,60.6,74.2,First Class,Good Standing
+STU1215,Yamini Iyer,Software Engineering,3,86.9,83.8,84.2,79.8,80.7,15.0,95.0,74.7,84.0,Distinction,Good Standing
+STU1216,Ganesh Sundaram,Artificial Intelligence & Data Science,2,79.5,77.6,74.1,65.7,69.0,12.0,87.2,75.7,73.8,First Class,Good Standing
+STU1217,Kavya Sundaram,Artificial Intelligence & Data Science,1,86.7,85.7,85.9,87.1,82.7,17.8,89.2,65.9,87.5,Distinction,Good Standing
+STU1218,Nithya Balaji,Information Technology,4,70.2,59.4,69.7,42.6,56.5,12.7,67.0,58.5,56.5,Pass / Average,Moderate Monitoring
+STU1219,Rahul Kumar,Information Technology,4,73.3,50.4,60.7,37.5,50.1,10.0,77.1,63.1,54.6,Pass / Average,Moderate Monitoring
+STU1220,Rhea Subramanian,Computer Science,3,78.6,85.4,88.3,75.7,78.9,18.9,84.6,84.3,84.7,Distinction,Good Standing
+STU1221,Aarav Patel,Software Engineering,1,66.9,71.3,62.9,51.6,41.9,21.3,90.8,67.4,68.7,First Class,Good Standing
+STU1222,Aditi Krishnan,Information Technology,5,75.0,73.8,75.8,55.5,69.7,14.3,86.6,78.3,75.9,First Class,Good Standing
+STU1223,Nithya Iyer,Computer Applications,6,87.3,80.5,88.1,71.2,70.3,16.0,94.7,73.1,78.3,First Class,Good Standing
+STU1224,Sanjay Sharma,Computer Science,4,85.3,61.3,72.3,55.3,63.6,18.5,93.1,78.2,60.3,First Class,Good Standing
+STU1225,Bhavya Ramachandran,Software Engineering,2,65.1,63.5,67.8,68.5,53.9,19.1,74.0,56.9,67.2,First Class,Good Standing
+STU1226,Deepak Ramesh,Computer Applications,4,75.7,70.0,65.8,59.6,77.8,16.9,73.3,61.7,67.7,First Class,Good Standing
+STU1227,Ishaan Murugan,Artificial Intelligence & Data Science,3,99.5,98.7,100.0,87.0,93.0,21.8,92.4,85.4,99.5,Distinction,Good Standing
+STU1228,Varun Chopra,Artificial Intelligence & Data Science,5,56.3,29.2,43.9,32.0,40.0,2.5,43.0,27.6,33.3,Needs Support,High Academic Priority
+STU1229,Madhav Iyer,Computer Science,5,95.7,98.9,99.3,84.5,88.2,23.3,100.0,83.9,97.1,Distinction,Good Standing
+STU1230,Sneha Balaji,Software Engineering,3,92.3,70.1,93.8,68.3,88.1,19.2,100.0,91.4,79.2,First Class,Good Standing
+STU1231,Vikram Natarajan,Software Engineering,4,69.6,62.7,68.0,67.6,60.8,11.9,80.9,59.9,61.6,First Class,Good Standing
+STU1232,Naveen Iyer,Computer Science,2,83.1,84.3,84.6,81.1,74.0,19.8,94.4,71.1,85.0,Distinction,Good Standing
+STU1233,Meera Chopra,Artificial Intelligence & Data Science,4,66.1,53.7,64.7,39.4,63.0,15.4,83.8,50.0,60.3,First Class,Good Standing
+STU1234,Naveen Sharma,Computer Science,5,68.6,77.0,76.6,57.7,71.8,19.7,89.1,81.7,74.6,First Class,Good Standing
+STU1235,Ganesh Subramanian,Information Technology,2,72.0,58.8,71.3,49.7,57.9,21.7,82.3,65.0,63.3,First Class,Good Standing
+STU1236,Varun Menon,Computer Applications,2,83.3,85.0,81.7,69.7,92.4,14.1,72.7,78.3,87.2,Distinction,Good Standing
+STU1237,Arun Reddy,Computer Applications,2,60.5,69.5,64.6,62.8,56.2,14.0,71.7,62.4,59.2,Pass / Average,Moderate Monitoring
+STU1238,Sneha Reddy,Artificial Intelligence & Data Science,3,81.8,54.3,60.4,52.9,43.2,11.3,83.8,57.2,59.2,Pass / Average,Moderate Monitoring
+STU1239,Nithya Menon,Computer Applications,2,77.6,70.3,61.8,47.2,52.8,20.7,87.1,55.6,65.1,First Class,Good Standing
+STU1240,Surya Devi,Computer Science,5,78.9,73.1,81.3,49.3,61.1,11.6,90.8,66.3,67.0,First Class,Good Standing
+STU1241,Keerthana Patel,Software Engineering,4,99.0,99.0,97.5,79.8,77.8,24.5,100.0,79.1,97.3,Distinction,Good Standing
+STU1242,Varun Gopal,Information Technology,5,69.9,74.2,68.2,67.9,67.6,16.4,80.5,52.2,68.2,First Class,Good Standing
+STU1243,Sanjay Devi,Computer Science,4,56.4,38.0,62.8,50.8,51.0,10.7,69.8,31.7,46.0,Pass / Average,Moderate Monitoring
+STU1244,Ganesh Patel,Computer Science,2,63.6,53.0,45.8,44.1,50.4,2.5,69.3,34.1,46.5,Pass / Average,Moderate Monitoring
+STU1245,Ananya Subramanian,Artificial Intelligence & Data Science,6,78.5,73.9,85.1,69.4,67.4,26.0,98.7,90.2,84.7,Distinction,Good Standing
+STU1246,Madhav Venkatesh,Software Engineering,1,76.0,85.6,70.9,80.5,75.2,19.8,87.0,78.9,84.9,Distinction,Good Standing
+STU1247,Pooja Venkatesh,Computer Applications,6,99.5,87.6,91.7,86.0,98.0,21.2,92.8,82.7,94.0,Distinction,Good Standing
+STU1248,Madhav Ramesh,Computer Applications,2,89.3,88.4,100.0,85.7,92.5,23.2,100.0,83.6,99.5,Distinction,Good Standing
+STU1249,Vignesh Ramesh,Computer Applications,6,56.9,76.7,67.5,71.2,69.5,16.4,71.8,70.9,68.0,First Class,Good Standing
+STU1250,Ananya Murugan,Computer Applications,4,64.5,61.7,68.4,43.9,48.8,18.0,79.1,69.6,55.3,Pass / Average,Moderate Monitoring
+STU1251,Madhav Murugan,Computer Applications,6,62.2,65.0,76.5,69.2,60.2,10.9,70.4,59.6,65.7,First Class,Good Standing
+STU1252,Sneha Gopal,Computer Science,5,90.7,84.1,91.1,80.0,74.7,24.7,100.0,80.8,91.1,Distinction,Good Standing
+STU1253,Pooja Ramesh,Software Engineering,1,78.9,62.6,68.7,54.9,68.2,16.3,96.8,69.2,67.8,First Class,Good Standing
+STU1254,Swetha Patel,Software Engineering,3,74.0,78.5,77.6,76.0,67.4,20.4,86.3,48.7,79.0,First Class,Good Standing
+STU1255,Ananya Patel,Software Engineering,4,62.4,52.9,64.1,41.4,42.1,13.0,81.9,45.4,51.4,Pass / Average,Moderate Monitoring
+STU1256,Pranav Natarajan,Software Engineering,4,73.7,80.9,86.5,78.9,72.4,18.5,80.8,80.7,81.2,Distinction,Good Standing
+STU1257,Rhea Pillai,Software Engineering,1,71.1,72.5,73.9,57.6,68.2,16.0,81.9,65.4,66.4,First Class,Good Standing
+STU1258,Ananya Rao,Artificial Intelligence & Data Science,5,77.5,57.9,47.7,45.1,51.6,2.8,67.3,42.3,50.3,Pass / Average,Moderate Monitoring
+STU1259,Rohit Krishnan,Information Technology,3,64.8,72.9,73.1,65.9,63.5,9.7,79.7,59.5,67.5,First Class,Good Standing
+STU1260,Kavya Ramachandran,Information Technology,4,80.5,78.4,79.9,45.6,70.6,19.0,100.0,76.0,70.8,First Class,Good Standing
+STU1261,Vikram Murugan,Software Engineering,6,74.5,77.6,92.2,80.4,85.4,16.0,79.0,81.9,77.7,First Class,Good Standing
+STU1262,Keerthana Ramachandran,Computer Science,3,60.3,68.1,59.7,53.9,53.8,20.9,87.8,59.2,75.5,First Class,Good Standing
+STU1263,Ishaan Reddy,Artificial Intelligence & Data Science,4,72.6,73.7,91.4,86.7,72.4,18.2,87.1,76.5,80.8,Distinction,Good Standing
+STU1264,Aarav Iyer,Software Engineering,4,65.1,50.2,61.6,45.9,47.7,13.6,68.1,50.3,53.1,Pass / Average,Moderate Monitoring
+STU1265,Pooja Iyer,Artificial Intelligence & Data Science,3,83.3,59.6,69.3,45.5,52.7,15.5,83.3,61.2,60.4,First Class,Good Standing
+STU1266,Ganesh Iyer,Computer Applications,5,74.0,72.4,71.8,56.7,74.9,21.1,89.3,70.6,77.7,First Class,Good Standing
+STU1267,Sai Gopal,Computer Applications,6,49.3,51.0,49.0,55.7,40.0,8.6,65.4,56.2,42.2,Needs Support,High Academic Priority
+STU1268,Bhavya Sharma,Software Engineering,4,82.4,88.7,90.1,72.5,75.0,17.2,76.5,69.0,83.5,Distinction,Good Standing
+STU1269,Ganesh Devi,Information Technology,3,77.3,62.3,63.4,53.2,49.3,9.3,80.7,61.4,58.9,Pass / Average,Moderate Monitoring
+STU1270,Aditi Kumar,Computer Applications,4,77.6,59.9,71.0,48.6,57.1,9.8,87.8,56.9,67.6,First Class,Good Standing
+STU1271,Surya Sharma,Information Technology,5,92.5,74.7,88.3,70.3,73.3,17.9,99.5,78.7,81.0,Distinction,Good Standing
+STU1272,Swetha Kumar,Software Engineering,6,76.5,60.1,67.4,59.2,60.1,13.8,67.6,63.3,60.3,First Class,Good Standing
+STU1273,Pooja Balaji,Software Engineering,3,60.0,40.2,49.6,47.5,55.3,5.3,63.3,45.2,42.1,Needs Support,High Academic Priority
+STU1274,Divya Gopal,Artificial Intelligence & Data Science,1,77.7,68.8,70.7,52.0,55.6,18.5,93.7,66.0,65.8,First Class,Good Standing
+STU1275,Vikram Balaji,Artificial Intelligence & Data Science,2,84.9,69.6,72.2,68.7,79.8,10.5,90.7,70.2,75.9,First Class,Good Standing
+STU1276,Bhavya Menon,Information Technology,3,75.3,50.5,62.4,40.6,44.2,12.0,75.3,42.5,56.4,Pass / Average,Moderate Monitoring
+STU1277,Swetha Iyer,Software Engineering,1,84.5,70.6,88.6,63.9,72.5,8.4,77.9,88.3,69.4,First Class,Good Standing
+STU1278,Rohit Sharma,Information Technology,4,72.9,72.8,84.5,70.9,54.6,19.4,83.1,76.9,73.8,First Class,Good Standing
+STU1279,Deepak Murugan,Computer Science,3,74.1,68.1,75.4,66.6,64.6,17.1,88.0,62.7,73.7,First Class,Good Standing
+STU1280,Varun Murugan,Computer Applications,4,73.0,65.4,63.8,62.1,62.3,13.4,75.9,40.6,71.1,First Class,Good Standing
+STU1281,Ganesh Ramachandran,Information Technology,1,73.0,68.4,68.2,60.6,52.6,14.5,81.6,78.8,67.8,First Class,Good Standing
+STU1282,Aarav Murugan,Computer Applications,4,68.4,32.7,46.8,42.5,44.7,2.5,61.5,51.0,38.4,Needs Support,High Academic Priority
+STU1283,Surya Rao,Computer Applications,5,85.2,94.9,100.0,74.1,89.0,19.2,93.9,89.7,87.8,Distinction,Good Standing
+STU1284,Pranav Ramesh,Information Technology,4,80.4,91.0,82.9,73.9,74.3,19.7,92.2,74.4,78.5,First Class,Good Standing
+STU1285,Rahul Kumar,Computer Applications,3,82.1,70.3,76.3,59.5,60.9,21.5,92.5,63.2,71.9,First Class,Good Standing
+STU1286,Nithya Subramanian,Artificial Intelligence & Data Science,4,82.0,66.2,79.5,48.6,61.6,15.1,86.0,47.7,62.4,First Class,Good Standing
+STU1287,Rahul Kumar,Computer Applications,3,74.9,99.0,76.7,66.0,82.2,14.1,84.2,90.1,79.8,First Class,Good Standing
+STU1288,Rhea Subramanian,Computer Applications,4,90.4,84.8,95.7,75.6,92.3,23.1,91.0,86.8,99.5,Distinction,Good Standing
+STU1289,Surya Chopra,Computer Science,3,83.3,77.9,86.5,82.4,76.6,16.8,100.0,87.3,74.2,First Class,Good Standing
+STU1290,Yamini Sundaram,Software Engineering,2,57.1,64.8,65.9,40.3,57.8,13.2,76.0,49.2,52.0,Pass / Average,Moderate Monitoring
+STU1291,Aarav Ramesh,Software Engineering,5,81.6,55.1,49.6,57.8,62.2,5.0,81.6,54.8,58.0,Pass / Average,Moderate Monitoring
+STU1292,Vikram Pillai,Software Engineering,4,99.5,96.6,100.0,68.6,70.8,23.2,100.0,85.9,91.1,Distinction,Good Standing
+STU1293,Rohit Kumar,Computer Applications,6,80.3,45.2,53.6,32.0,44.2,6.4,66.1,42.6,43.5,Needs Support,High Academic Priority
+STU1294,Sanjay Menon,Artificial Intelligence & Data Science,4,80.1,78.9,76.4,80.7,64.1,25.3,100.0,73.5,79.8,First Class,Good Standing
+STU1295,Rahul Patel,Computer Science,3,76.7,77.7,86.3,65.1,73.7,19.5,88.2,65.4,77.0,First Class,Good Standing
+STU1296,Ganesh Chopra,Software Engineering,4,84.8,97.0,100.0,89.6,98.5,20.8,93.1,85.5,96.2,Distinction,Good Standing
+STU1297,Yamini Ramesh,Software Engineering,5,84.8,76.3,73.0,66.2,69.2,17.9,87.3,75.4,78.6,First Class,Good Standing
+STU1298,Arun Balaji,Computer Applications,4,85.6,74.1,97.7,59.4,82.1,18.1,98.0,92.2,79.3,First Class,Good Standing
+STU1299,Nithya Balaji,Software Engineering,6,75.2,52.7,53.2,58.3,57.9,4.7,63.7,46.8,51.3,Pass / Average,Moderate Monitoring
+STU1300,Naveen Subramanian,Computer Applications,4,75.3,47.9,58.6,49.1,44.4,15.3,81.7,53.9,55.9,Pass / Average,Moderate Monitoring
+STU1301,Keerthana Reddy,Computer Science,2,70.7,63.0,53.8,71.4,63.6,11.5,75.2,45.7,70.9,First Class,Good Standing
+STU1302,Vikram Balaji,Artificial Intelligence & Data Science,5,57.9,63.0,80.8,60.4,51.9,20.8,68.0,54.8,62.8,First Class,Good Standing
+STU1303,Rhea Gopal,Computer Applications,1,68.9,65.7,68.5,52.3,64.7,10.3,72.4,43.6,62.7,First Class,Good Standing
+STU1304,Kavya Sundaram,Software Engineering,2,76.4,70.9,87.4,61.9,67.5,18.7,89.7,86.9,73.2,First Class,Good Standing
+STU1305,Kavya Venkatesh,Artificial Intelligence & Data Science,3,80.8,70.5,86.0,69.3,69.6,17.9,90.0,64.5,79.3,First Class,Good Standing
+STU1306,Varun Patel,Software Engineering,6,75.1,65.1,60.5,67.8,59.9,12.9,92.4,68.0,69.8,First Class,Good Standing
+STU1307,Pranav Menon,Computer Science,5,70.9,87.4,79.9,65.5,62.0,19.6,78.3,56.9,75.3,First Class,Good Standing
+STU1308,Vignesh Sundaram,Software Engineering,6,68.1,61.2,63.9,52.8,58.0,17.3,82.7,59.1,64.5,First Class,Good Standing
+STU1309,Vikram Menon,Artificial Intelligence & Data Science,5,64.3,70.6,65.7,48.1,55.5,20.5,79.3,65.2,68.1,First Class,Good Standing
+STU1310,Sanjay Natarajan,Artificial Intelligence & Data Science,3,73.6,85.8,80.3,76.2,80.6,22.3,100.0,86.1,79.6,First Class,Good Standing
+STU1311,Divya Balaji,Information Technology,4,58.2,53.8,48.8,46.9,58.4,8.2,73.0,51.3,49.7,Pass / Average,Moderate Monitoring
+STU1312,Naveen Murugan,Computer Applications,4,94.9,95.5,90.6,78.2,83.7,25.9,100.0,99.4,92.2,Distinction,Good Standing
+STU1313,Sai Sundaram,Computer Applications,1,62.4,50.9,54.4,48.7,47.4,14.5,73.3,49.1,50.7,Pass / Average,Moderate Monitoring
+STU1314,Pooja Menon,Artificial Intelligence & Data Science,4,84.5,93.8,99.0,85.8,77.7,25.3,100.0,95.6,90.4,Distinction,Good Standing
+STU1315,Pooja Pillai,Computer Science,1,89.1,70.7,73.6,52.4,76.8,16.3,93.0,87.5,72.3,First Class,Good Standing
+STU1316,Meera Menon,Information Technology,5,51.7,53.4,58.7,47.8,40.0,12.6,75.3,53.4,41.3,Needs Support,High Academic Priority
+STU1317,Sneha Sundaram,Computer Science,1,67.9,65.8,89.0,53.5,78.6,14.0,82.1,68.5,67.1,First Class,Good Standing
+STU1318,Aarav Iyer,Software Engineering,2,83.2,84.2,78.8,60.6,64.7,18.9,81.3,64.8,74.2,First Class,Good Standing
+STU1319,Arun Ramachandran,Information Technology,1,60.3,54.0,57.5,48.8,46.9,7.4,70.2,58.3,52.4,Pass / Average,Moderate Monitoring
+STU1320,Meera Gopal,Computer Applications,3,80.6,53.8,80.2,67.3,55.7,15.8,86.7,70.9,65.3,First Class,Good Standing
+STU1321,Kavya Natarajan,Computer Applications,4,87.7,82.7,72.5,78.7,80.2,17.6,97.3,83.1,82.6,Distinction,Good Standing
+STU1322,Vikram Balaji,Information Technology,6,63.2,65.0,63.5,36.3,40.7,11.9,74.6,62.1,49.3,Pass / Average,Moderate Monitoring
+STU1323,Arun Chopra,Artificial Intelligence & Data Science,1,74.8,72.7,79.4,64.1,64.8,15.8,73.4,63.7,69.5,First Class,Good Standing
+STU1324,Arun Murugan,Artificial Intelligence & Data Science,5,76.0,84.2,100.0,69.4,87.6,20.6,90.6,71.4,87.0,Distinction,Good Standing
+STU1325,Sanjay Subramanian,Computer Science,4,66.6,64.7,66.9,50.1,71.4,14.5,58.9,66.5,66.4,First Class,Good Standing
+STU1326,Rhea Sharma,Information Technology,2,87.4,99.0,96.2,77.9,82.0,22.6,88.5,84.7,92.3,Distinction,Good Standing
+STU1327,Pranav Chopra,Artificial Intelligence & Data Science,6,78.7,62.5,52.6,62.4,76.4,9.6,84.8,56.1,63.2,First Class,Good Standing
+STU1328,Varun Gopal,Computer Science,1,72.0,51.3,58.5,46.1,46.6,12.9,78.9,61.1,55.6,Pass / Average,Moderate Monitoring
+STU1329,Keerthana Chopra,Artificial Intelligence & Data Science,5,81.3,91.2,94.2,77.4,79.1,19.4,83.5,84.1,83.0,Distinction,Good Standing
+STU1330,Harini Reddy,Information Technology,5,77.4,93.2,100.0,77.5,87.3,23.0,90.3,92.9,94.1,Distinction,Good Standing
+STU1331,Sanjay Gopal,Artificial Intelligence & Data Science,1,71.7,64.7,71.9,60.7,71.4,14.5,76.9,64.7,68.1,First Class,Good Standing
+STU1332,Vignesh Pillai,Software Engineering,3,83.4,99.0,99.0,78.2,75.2,27.7,97.0,74.4,96.6,Distinction,Good Standing
+STU1333,Harini Ramachandran,Artificial Intelligence & Data Science,6,79.4,69.2,77.2,81.9,74.1,16.7,93.9,76.4,78.0,First Class,Good Standing
+STU1334,Arun Natarajan,Computer Applications,4,94.9,84.2,73.8,60.6,75.4,21.2,100.0,70.2,79.9,First Class,Good Standing
+STU1335,Nithya Sharma,Software Engineering,2,59.9,54.7,54.9,63.6,40.1,12.2,77.5,69.0,52.7,Pass / Average,Moderate Monitoring
+STU1336,Harini Krishnan,Information Technology,6,90.9,76.2,65.6,66.8,70.2,16.6,100.0,80.2,68.3,First Class,Good Standing
+STU1337,Madhav Patel,Computer Applications,3,56.0,25.0,52.8,36.0,40.0,6.7,63.9,42.4,40.1,Needs Support,High Academic Priority
+STU1338,Naveen Gopal,Artificial Intelligence & Data Science,3,93.4,89.8,84.0,76.8,91.3,21.4,97.0,67.2,89.9,Distinction,Good Standing
+STU1339,Divya Natarajan,Information Technology,3,69.7,52.2,80.4,52.2,47.3,17.5,89.4,45.9,69.0,First Class,Good Standing
+STU1340,Ishaan Subramanian,Computer Science,6,61.0,85.2,78.6,68.8,83.5,14.6,67.3,76.1,73.4,First Class,Good Standing
+STU1341,Harini Ramachandran,Computer Applications,5,72.5,58.7,79.4,51.7,65.7,14.3,71.8,64.5,68.1,First Class,Good Standing
+STU1342,Rahul Rao,Information Technology,6,72.0,74.7,78.7,76.7,52.3,16.0,98.4,59.1,71.5,First Class,Good Standing
+STU1343,Deepak Natarajan,Software Engineering,5,73.8,72.3,70.6,65.0,61.6,16.1,68.9,59.0,72.4,First Class,Good Standing
+STU1344,Rhea Sundaram,Artificial Intelligence & Data Science,2,48.0,48.5,57.2,53.6,48.1,11.1,63.5,60.5,48.4,Pass / Average,Moderate Monitoring
+STU1345,Divya Krishnan,Information Technology,1,75.1,82.9,94.0,86.1,75.2,12.6,81.2,69.0,84.0,Distinction,Good Standing
+STU1346,Vignesh Sharma,Information Technology,3,68.5,49.7,57.1,35.7,48.9,16.8,80.6,51.7,50.4,Pass / Average,Moderate Monitoring
+STU1347,Keerthana Venkatesh,Information Technology,5,86.7,99.0,89.5,88.4,98.5,25.9,100.0,100.0,97.7,Distinction,Good Standing
+STU1348,Deepak Chopra,Artificial Intelligence & Data Science,3,69.6,70.3,84.9,56.4,53.9,14.1,73.9,55.4,63.9,First Class,Good Standing
+STU1349,Bhavya Murugan,Computer Science,2,63.6,48.6,50.8,50.1,54.1,6.0,53.2,52.3,51.3,Pass / Average,Moderate Monitoring
+STU1350,Meera Iyer,Computer Applications,4,67.8,64.1,65.7,49.4,63.4,12.4,74.4,63.0,63.0,First Class,Good Standing
+STU1351,Keerthana Natarajan,Software Engineering,5,66.8,99.0,87.2,91.5,75.0,31.0,98.3,84.9,92.2,Distinction,Good Standing
+STU1352,Rhea Ramesh,Computer Applications,1,69.2,54.3,71.2,61.9,62.2,10.5,62.4,66.2,63.6,First Class,Good Standing
+STU1353,Varun Reddy,Information Technology,6,70.5,58.3,76.4,48.7,50.6,21.7,93.7,61.5,70.9,First Class,Good Standing
+STU1354,Ishaan Patel,Information Technology,3,99.5,64.7,82.4,65.5,59.8,14.1,100.0,77.7,70.0,First Class,Good Standing
+STU1355,Vikram Iyer,Computer Applications,2,80.1,87.6,67.1,80.4,71.9,19.7,92.6,77.9,81.9,Distinction,Good Standing
+STU1356,Divya Krishnan,Computer Applications,5,83.6,99.0,97.9,83.3,78.7,27.2,100.0,74.8,97.2,Distinction,Good Standing
+STU1357,Aarav Kumar,Software Engineering,1,80.6,85.4,85.1,82.7,90.9,19.0,90.7,69.1,89.3,Distinction,Good Standing
+STU1358,Sai Menon,Computer Science,6,89.4,85.6,91.1,86.3,85.6,22.8,92.5,84.6,90.4,Distinction,Good Standing
+STU1359,Madhav Gopal,Computer Applications,1,79.4,89.2,80.5,73.9,69.7,22.6,100.0,87.4,80.2,Distinction,Good Standing
+STU1360,Naveen Murugan,Artificial Intelligence & Data Science,4,79.4,63.0,72.4,53.8,62.4,17.3,88.8,52.3,67.4,First Class,Good Standing
+STU1361,Varun Iyer,Information Technology,3,88.4,82.8,89.0,80.2,81.9,17.5,86.3,85.1,81.5,Distinction,Good Standing
+STU1362,Varun Sundaram,Information Technology,3,56.2,58.0,59.5,49.7,55.6,7.7,77.4,53.5,53.2,Pass / Average,Moderate Monitoring
+STU1363,Aarav Menon,Computer Applications,6,81.0,68.5,71.6,72.2,62.3,15.4,87.0,66.2,70.0,First Class,Good Standing
+STU1364,Ananya Krishnan,Computer Applications,4,79.3,57.4,74.8,40.4,68.8,13.1,75.0,52.4,57.1,Pass / Average,Moderate Monitoring
+STU1365,Sanjay Venkatesh,Computer Applications,3,83.8,80.5,72.3,62.7,65.6,17.5,95.4,54.2,79.9,First Class,Good Standing
+STU1366,Ananya Gopal,Software Engineering,1,72.3,69.6,65.0,58.5,66.0,12.7,86.2,71.6,73.8,First Class,Good Standing
+STU1367,Rohit Krishnan,Software Engineering,4,91.9,92.4,97.6,66.6,80.0,20.0,100.0,80.6,86.7,Distinction,Good Standing
+STU1368,Rahul Natarajan,Information Technology,3,56.4,64.5,73.1,51.9,49.5,21.1,78.8,60.6,59.6,Pass / Average,Moderate Monitoring
+STU1369,Vikram Chopra,Computer Science,2,87.8,93.4,82.8,93.7,82.6,16.4,81.1,80.0,89.4,Distinction,Good Standing
+STU1370,Swetha Gopal,Computer Science,5,67.3,68.7,71.1,58.6,68.8,13.5,75.3,66.3,72.7,First Class,Good Standing
+STU1371,Pranav Sharma,Artificial Intelligence & Data Science,5,63.1,57.3,71.7,57.7,67.7,13.5,67.1,57.0,64.6,First Class,Good Standing
+STU1372,Meera Natarajan,Information Technology,1,87.4,67.4,78.9,52.7,64.0,17.7,98.6,74.7,69.4,First Class,Good Standing
+STU1373,Sneha Subramanian,Computer Applications,3,68.2,51.6,72.3,37.3,54.4,16.9,76.6,60.7,53.6,Pass / Average,Moderate Monitoring
+STU1374,Aditi Patel,Computer Science,2,85.0,81.8,100.0,63.6,78.9,25.3,100.0,88.9,90.8,Distinction,Good Standing
+STU1375,Aarav Rao,Artificial Intelligence & Data Science,5,70.7,84.2,74.5,69.5,77.2,17.1,91.3,82.1,77.0,First Class,Good Standing
+STU1376,Aarav Kumar,Computer Science,3,64.8,81.7,80.6,68.5,55.8,13.9,85.3,79.5,77.4,First Class,Good Standing
+STU1377,Ganesh Murugan,Computer Science,3,81.1,89.9,83.7,59.0,69.0,17.3,90.3,66.1,76.8,First Class,Good Standing
+STU1378,Madhav Pillai,Information Technology,5,78.4,58.8,79.2,51.2,58.1,13.1,83.1,68.4,58.3,Pass / Average,Moderate Monitoring
+STU1379,Ananya Chopra,Computer Science,2,75.7,62.9,73.2,40.9,54.7,15.5,78.5,62.5,64.9,First Class,Good Standing
+STU1380,Meera Balaji,Software Engineering,2,77.6,63.8,69.5,64.5,60.0,18.9,88.8,78.7,71.8,First Class,Good Standing
+STU1381,Nithya Sundaram,Artificial Intelligence & Data Science,4,75.3,58.4,57.9,64.5,57.2,7.7,71.1,63.8,60.2,First Class,Good Standing
+STU1382,Varun Ramachandran,Information Technology,6,83.9,77.2,90.3,70.9,69.0,20.9,87.2,90.1,86.3,Distinction,Good Standing
+STU1383,Bhavya Rao,Software Engineering,4,66.8,50.7,53.1,47.6,41.4,11.1,77.2,54.7,55.3,Pass / Average,Moderate Monitoring
+STU1384,Surya Ramesh,Computer Science,5,61.3,57.1,67.3,44.8,54.1,12.6,72.2,42.4,57.4,Pass / Average,Moderate Monitoring
+STU1385,Naveen Balaji,Software Engineering,6,55.3,47.3,55.1,32.7,40.0,8.0,57.0,40.2,40.0,Needs Support,High Academic Priority
+STU1386,Harini Ramachandran,Information Technology,1,81.5,76.6,79.3,78.2,75.3,19.0,86.4,69.5,83.1,Distinction,Good Standing
+STU1387,Arun Natarajan,Software Engineering,2,78.9,52.6,63.8,52.2,52.6,13.0,73.2,44.3,53.5,Pass / Average,Moderate Monitoring
+STU1388,Vikram Devi,Computer Applications,5,80.1,99.0,98.4,77.6,78.9,18.5,92.1,86.6,96.1,Distinction,Good Standing
+STU1389,Surya Krishnan,Information Technology,2,74.8,74.2,62.3,46.7,57.2,17.7,91.2,73.6,66.1,First Class,Good Standing
+STU1390,Arun Gopal,Computer Science,2,62.8,39.2,57.8,32.0,44.7,10.6,69.8,48.5,45.4,Pass / Average,Moderate Monitoring
+STU1391,Madhav Ramesh,Artificial Intelligence & Data Science,5,88.4,79.8,77.9,66.6,64.8,17.1,92.3,66.5,75.7,First Class,Good Standing
+STU1392,Nithya Iyer,Computer Applications,3,84.1,80.7,72.0,70.0,61.0,20.5,99.4,57.0,79.9,First Class,Good Standing
+STU1393,Keerthana Patel,Computer Applications,3,76.7,80.5,89.1,65.9,64.0,24.3,100.0,68.1,81.6,Distinction,Good Standing
+STU1394,Vikram Kumar,Artificial Intelligence & Data Science,5,84.0,90.1,80.8,75.4,68.0,14.9,82.8,80.3,79.8,First Class,Good Standing
+STU1395,Pranav Iyer,Artificial Intelligence & Data Science,2,56.4,35.5,50.2,56.3,40.0,6.8,69.9,36.0,41.2,Needs Support,High Academic Priority
+STU1396,Aditi Patel,Artificial Intelligence & Data Science,2,79.8,59.2,74.0,61.8,65.9,18.5,86.7,56.0,73.4,First Class,Good Standing
+STU1397,Aditi Kumar,Information Technology,1,70.2,52.1,51.0,62.7,49.5,6.7,65.5,50.4,55.8,Pass / Average,Moderate Monitoring
+STU1398,Divya Patel,Information Technology,2,76.9,85.0,82.4,67.5,67.4,23.0,100.0,85.9,84.5,Distinction,Good Standing
+STU1399,Ananya Sharma,Information Technology,6,60.1,56.3,72.2,65.4,52.7,11.5,63.7,36.7,57.9,Pass / Average,Moderate Monitoring
+STU1400,Harini Gopal,Artificial Intelligence & Data Science,5,64.1,73.4,56.1,71.7,59.7,16.4,86.0,60.8,70.2,First Class,Good Standing
+STU1401,Ishaan Rao,Computer Applications,2,87.8,85.7,91.6,70.1,76.0,19.9,100.0,86.5,87.8,Distinction,Good Standing
+STU1402,Aarav Patel,Software Engineering,4,75.6,68.7,80.4,65.5,63.1,22.8,86.1,67.4,75.1,First Class,Good Standing
+STU1403,Sanjay Balaji,Information Technology,6,79.2,83.7,83.1,81.6,81.3,18.2,84.6,70.4,73.6,First Class,Good Standing
+STU1404,Pooja Reddy,Artificial Intelligence & Data Science,3,75.5,86.0,77.3,61.9,78.6,9.6,70.1,70.7,74.9,First Class,Good Standing
+STU1405,Rohit Natarajan,Information Technology,4,69.7,74.8,64.1,63.1,49.9,19.3,76.9,54.7,68.9,First Class,Good Standing
+STU1406,Surya Kumar,Software Engineering,3,78.5,69.6,82.3,79.3,73.7,16.4,77.9,83.9,78.1,First Class,Good Standing
+STU1407,Arun Devi,Artificial Intelligence & Data Science,6,86.7,96.6,96.6,65.5,84.9,25.5,100.0,89.6,94.6,Distinction,Good Standing
+STU1408,Arun Sharma,Computer Science,4,71.9,50.0,60.8,50.8,56.1,15.1,86.5,59.5,54.6,Pass / Average,Moderate Monitoring
+STU1409,Meera Iyer,Artificial Intelligence & Data Science,4,85.5,91.5,94.9,82.0,82.5,26.1,99.0,98.6,92.0,Distinction,Good Standing
+STU1410,Rhea Sundaram,Computer Science,6,71.5,70.3,76.5,62.5,54.6,9.7,76.6,63.8,67.8,First Class,Good Standing
+STU1411,Deepak Subramanian,Artificial Intelligence & Data Science,2,67.4,60.1,63.0,57.7,53.0,16.9,83.4,67.7,64.8,First Class,Good Standing
+STU1412,Deepak Sharma,Computer Applications,1,84.7,89.3,79.8,64.1,74.9,13.2,86.5,70.7,80.6,Distinction,Good Standing
+STU1413,Surya Sharma,Artificial Intelligence & Data Science,5,74.6,99.0,100.0,87.8,89.5,31.3,100.0,83.4,99.5,Distinction,Good Standing
+STU1414,Sai Sharma,Information Technology,1,91.0,99.0,97.5,100.0,91.7,24.4,100.0,90.2,99.5,Distinction,Good Standing
+STU1415,Yamini Menon,Software Engineering,4,76.6,72.8,73.5,67.2,71.3,10.2,93.7,75.6,74.6,First Class,Good Standing
+STU1416,Ananya Chopra,Artificial Intelligence & Data Science,4,71.4,85.9,96.0,65.7,62.9,19.2,74.3,69.7,74.4,First Class,Good Standing
+STU1417,Surya Venkatesh,Information Technology,5,76.0,71.0,78.8,64.5,63.3,16.0,88.0,53.5,70.9,First Class,Good Standing
+STU1418,Madhav Ramesh,Computer Science,2,67.9,67.4,62.4,63.9,60.7,11.9,76.0,58.7,64.0,First Class,Good Standing
+STU1419,Deepak Kumar,Artificial Intelligence & Data Science,1,82.3,88.8,77.7,64.6,79.5,25.7,100.0,88.1,90.2,Distinction,Good Standing
+STU1420,Aarav Iyer,Artificial Intelligence & Data Science,4,63.6,55.6,71.2,65.5,51.8,19.5,74.6,40.1,65.9,First Class,Good Standing
+STU1421,Surya Venkatesh,Software Engineering,3,78.2,75.7,84.7,74.5,68.3,14.3,85.8,73.4,79.2,First Class,Good Standing
+STU1422,Sai Reddy,Computer Science,3,68.5,75.1,82.5,57.2,54.2,22.0,85.0,68.9,70.5,First Class,Good Standing
+STU1423,Pooja Ramachandran,Computer Science,4,65.9,41.8,50.5,32.0,40.0,16.2,80.0,45.2,54.0,Pass / Average,Moderate Monitoring
+STU1424,Harini Patel,Information Technology,2,87.0,68.4,72.4,77.1,73.1,10.2,78.8,80.7,72.1,First Class,Good Standing
+STU1425,Aarav Iyer,Information Technology,6,65.3,80.1,67.0,67.7,69.1,13.7,66.0,58.6,71.5,First Class,Good Standing
+STU1426,Kavya Patel,Artificial Intelligence & Data Science,6,75.5,74.4,78.1,55.7,75.0,20.7,86.7,65.4,76.1,First Class,Good Standing
+STU1427,Kavya Sundaram,Information Technology,3,69.0,77.2,71.3,66.5,66.5,20.3,76.5,64.6,77.0,First Class,Good Standing
+STU1428,Nithya Iyer,Information Technology,1,99.5,68.7,77.6,62.5,83.2,17.5,100.0,83.1,79.2,First Class,Good Standing
+STU1429,Keerthana Patel,Information Technology,5,77.7,91.7,100.0,95.1,94.8,24.3,99.0,75.5,95.5,Distinction,Good Standing
+STU1430,Aditi Reddy,Computer Science,5,65.8,38.6,61.4,50.9,47.9,10.6,69.9,47.7,53.4,Pass / Average,Moderate Monitoring
+STU1431,Nithya Natarajan,Computer Science,6,79.1,84.8,83.4,66.5,67.2,20.0,91.5,73.2,81.5,Distinction,Good Standing
+STU1432,Sneha Krishnan,Artificial Intelligence & Data Science,4,84.9,84.3,93.2,80.3,79.8,21.6,84.7,74.8,84.5,Distinction,Good Standing
+STU1433,Sanjay Sharma,Computer Science,2,84.2,76.2,78.2,75.5,66.4,14.2,90.6,55.5,71.8,First Class,Good Standing
+STU1434,Rohit Krishnan,Software Engineering,3,84.9,82.8,83.6,80.6,78.6,16.9,66.1,83.6,78.3,First Class,Good Standing
+STU1435,Ishaan Pillai,Information Technology,5,73.6,66.5,76.2,51.8,73.7,22.2,88.9,71.1,75.1,First Class,Good Standing
+STU1436,Kavya Menon,Computer Science,1,92.6,99.0,100.0,75.0,76.5,28.1,100.0,99.7,98.3,Distinction,Good Standing
+STU1437,Aditi Natarajan,Computer Science,2,79.0,70.8,84.2,67.9,64.3,23.9,88.5,74.0,79.0,First Class,Good Standing
+STU1438,Madhav Patel,Artificial Intelligence & Data Science,2,69.0,62.9,82.9,76.1,62.5,18.7,95.1,77.8,75.7,First Class,Good Standing
+STU1439,Yamini Pillai,Computer Applications,5,85.1,55.5,63.1,72.2,65.4,9.4,93.6,71.9,63.0,First Class,Good Standing
+STU1440,Nithya Ramachandran,Computer Applications,4,55.8,49.7,53.1,36.4,40.0,11.6,67.4,32.9,47.7,Pass / Average,Moderate Monitoring
+STU1441,Ganesh Pillai,Information Technology,2,89.0,97.7,100.0,86.7,85.2,23.1,100.0,100.0,97.7,Distinction,Good Standing
+STU1442,Meera Ramesh,Computer Science,6,66.6,57.6,58.3,61.3,52.8,7.2,64.3,55.6,61.0,First Class,Good Standing
+STU1443,Rohit Sharma,Artificial Intelligence & Data Science,1,88.2,78.7,95.4,65.3,65.0,20.1,98.4,91.4,85.1,Distinction,Good Standing
+STU1444,Arun Sharma,Computer Science,4,66.6,42.0,59.4,48.5,43.3,16.4,90.7,64.6,52.1,Pass / Average,Moderate Monitoring
+STU1445,Aarav Reddy,Artificial Intelligence & Data Science,1,70.4,74.8,72.2,53.5,68.3,14.7,92.5,61.3,64.6,First Class,Good Standing
+STU1446,Pooja Rao,Computer Science,6,80.5,95.5,92.2,91.7,86.9,20.2,95.4,81.4,93.5,Distinction,Good Standing
+STU1447,Yamini Devi,Computer Science,4,77.8,99.0,100.0,92.5,82.1,23.6,92.4,83.6,99.5,Distinction,Good Standing
+STU1448,Ananya Subramanian,Software Engineering,4,89.6,84.8,90.3,61.6,65.1,20.3,87.5,69.4,80.0,First Class,Good Standing
+STU1449,Ananya Pillai,Information Technology,2,84.6,89.9,100.0,85.2,87.8,25.6,100.0,81.6,95.4,Distinction,Good Standing
+STU1450,Keerthana Reddy,Software Engineering,3,84.2,67.3,94.5,65.3,62.0,14.9,93.5,89.7,66.0,First Class,Good Standing
+STU1451,Rhea Sharma,Artificial Intelligence & Data Science,3,69.2,58.9,54.8,54.1,57.8,15.2,87.1,59.6,63.5,First Class,Good Standing
+STU1452,Sai Chopra,Computer Science,3,60.8,42.0,40.4,34.4,40.0,14.5,88.6,39.7,39.6,Needs Support,High Academic Priority
+STU1453,Aditi Murugan,Computer Applications,3,71.1,57.6,71.8,63.1,54.9,16.5,79.4,50.4,64.5,First Class,Good Standing
+STU1454,Ishaan Pillai,Computer Applications,1,75.5,83.9,83.4,55.4,63.7,19.8,93.8,77.4,74.3,First Class,Good Standing
+STU1455,Divya Natarajan,Computer Applications,3,78.5,75.3,74.2,66.0,64.7,11.7,73.8,64.9,73.3,First Class,Good Standing
+STU1456,Yamini Sundaram,Computer Science,3,80.8,88.1,82.6,77.2,78.0,16.1,93.0,72.8,89.0,Distinction,Good Standing
+STU1457,Rhea Ramesh,Computer Science,4,87.3,60.5,70.1,61.9,50.3,17.1,89.0,38.1,69.3,First Class,Good Standing
+STU1458,Rhea Pillai,Artificial Intelligence & Data Science,5,71.2,36.4,36.6,37.9,40.4,7.4,69.8,34.1,45.5,Pass / Average,Moderate Monitoring
+STU1459,Rohit Rao,Information Technology,6,60.6,67.6,61.4,37.2,53.0,23.2,70.3,56.9,58.5,Pass / Average,Moderate Monitoring
+STU1460,Deepak Ramachandran,Computer Applications,1,82.7,79.5,84.6,59.7,77.0,23.0,95.5,85.9,87.5,Distinction,Good Standing
+STU1461,Divya Murugan,Computer Science,6,60.1,60.8,76.5,53.7,50.7,12.0,65.2,48.2,57.6,Pass / Average,Moderate Monitoring
+STU1462,Arun Kumar,Artificial Intelligence & Data Science,4,73.3,64.4,67.4,60.4,64.8,12.6,74.9,59.5,58.5,Pass / Average,Moderate Monitoring
+STU1463,Ananya Reddy,Information Technology,5,83.8,72.0,71.7,55.0,70.2,16.0,90.4,65.5,64.7,First Class,Good Standing
+STU1464,Kavya Chopra,Computer Applications,2,60.5,67.1,61.3,54.8,56.1,15.1,57.6,44.2,55.7,Pass / Average,Moderate Monitoring
+STU1465,Arun Ramesh,Information Technology,3,75.8,76.8,87.5,50.2,59.4,18.5,91.4,93.0,73.1,First Class,Good Standing
+STU1466,Ganesh Menon,Computer Science,3,78.3,79.9,80.5,54.7,63.5,19.4,99.4,60.8,76.5,First Class,Good Standing
+STU1467,Vikram Menon,Computer Science,1,68.4,80.1,86.0,69.4,79.9,17.7,96.1,67.8,88.0,Distinction,Good Standing
+STU1468,Vikram Patel,Computer Applications,2,83.3,82.7,80.7,72.4,67.2,16.1,94.2,67.5,75.6,First Class,Good Standing
+STU1469,Divya Krishnan,Computer Applications,2,77.7,99.0,100.0,81.3,71.2,21.7,100.0,87.1,91.1,Distinction,Good Standing
+STU1470,Pooja Iyer,Information Technology,2,93.3,78.5,92.2,67.6,57.9,21.1,85.0,61.6,78.3,First Class,Good Standing
+STU1471,Nithya Ramesh,Information Technology,4,59.7,67.7,78.1,56.9,73.1,14.4,71.3,67.8,66.8,First Class,Good Standing
+STU1472,Pranav Chopra,Computer Applications,2,95.2,93.2,95.2,70.0,95.0,18.0,100.0,76.6,90.2,Distinction,Good Standing
+STU1473,Sai Natarajan,Computer Applications,2,67.7,78.8,73.7,91.8,58.0,13.5,69.8,60.7,72.6,First Class,Good Standing
+STU1474,Keerthana Murugan,Artificial Intelligence & Data Science,2,80.4,62.0,69.9,49.0,69.9,15.3,82.9,70.0,65.0,First Class,Good Standing
+STU1475,Aarav Balaji,Computer Applications,2,74.4,50.4,72.3,59.9,51.4,10.7,89.8,69.4,56.2,Pass / Average,Moderate Monitoring
+STU1476,Kavya Pillai,Information Technology,2,72.4,85.5,78.7,81.1,75.7,21.5,87.7,67.3,81.0,Distinction,Good Standing
+STU1477,Madhav Subramanian,Computer Science,5,72.5,92.3,91.2,68.4,65.2,22.3,90.4,71.9,85.8,Distinction,Good Standing
+STU1478,Madhav Iyer,Computer Science,5,75.3,83.0,75.6,78.1,67.0,21.7,91.3,73.6,85.0,Distinction,Good Standing
+STU1479,Arun Ramesh,Artificial Intelligence & Data Science,1,76.8,78.2,64.1,68.3,71.9,13.3,75.8,63.3,74.6,First Class,Good Standing
+STU1480,Keerthana Sundaram,Information Technology,5,86.5,80.1,96.0,75.7,81.8,17.4,100.0,77.9,79.0,First Class,Good Standing
+STU1481,Surya Patel,Computer Applications,3,76.8,60.8,75.1,60.8,56.5,15.0,87.3,77.0,64.6,First Class,Good Standing
+STU1482,Vikram Subramanian,Computer Science,5,83.0,91.9,77.4,89.9,75.8,17.3,86.4,64.7,84.0,Distinction,Good Standing
+STU1483,Madhav Krishnan,Information Technology,5,67.2,61.9,69.0,61.1,61.4,16.1,85.1,65.9,66.6,First Class,Good Standing
+STU1484,Rhea Devi,Computer Science,5,88.8,90.2,100.0,98.8,89.9,25.3,100.0,100.0,98.2,Distinction,Good Standing
+STU1485,Varun Sundaram,Computer Science,3,67.5,68.1,86.1,69.7,63.9,17.9,78.0,73.0,71.3,First Class,Good Standing
+STU1486,Vikram Venkatesh,Computer Science,2,69.1,55.4,51.2,63.0,59.4,11.5,69.4,55.2,60.7,First Class,Good Standing
+STU1487,Ganesh Natarajan,Software Engineering,2,83.4,84.5,83.8,65.3,69.8,25.3,100.0,60.0,87.5,Distinction,Good Standing
+STU1488,Ananya Natarajan,Computer Applications,1,68.6,72.8,83.1,80.4,76.2,14.7,72.6,64.1,75.9,First Class,Good Standing
+STU1489,Harini Devi,Information Technology,5,80.9,93.1,90.9,80.6,85.8,22.7,94.5,90.3,94.7,Distinction,Good Standing
+STU1490,Bhavya Menon,Computer Science,4,69.9,70.7,78.7,61.4,65.6,20.7,91.9,59.0,72.6,First Class,Good Standing
+STU1491,Ganesh Balaji,Computer Applications,3,75.6,67.2,87.1,67.2,60.0,25.3,92.2,72.0,73.5,First Class,Good Standing
+STU1492,Naveen Sundaram,Computer Science,3,95.9,78.3,93.2,74.5,81.0,16.1,95.3,74.5,76.3,First Class,Good Standing
+STU1493,Meera Murugan,Artificial Intelligence & Data Science,1,67.8,54.0,65.0,56.8,57.1,16.0,73.2,72.5,59.2,Pass / Average,Moderate Monitoring
+STU1494,Rahul Kumar,Software Engineering,3,85.7,83.6,81.6,76.4,68.5,20.4,90.8,74.3,78.4,First Class,Good Standing
+STU1495,Harini Ramesh,Computer Science,1,95.9,68.9,71.8,72.3,69.1,12.2,100.0,76.9,74.1,First Class,Good Standing
+STU1496,Vikram Venkatesh,Computer Science,3,69.8,87.7,84.2,73.8,80.1,20.6,85.0,80.3,83.4,Distinction,Good Standing
+STU1497,Bhavya Venkatesh,Computer Applications,3,84.5,69.5,73.7,75.1,60.2,20.1,92.7,89.8,78.5,First Class,Good Standing
+STU1498,Varun Rao,Artificial Intelligence & Data Science,2,82.7,99.0,100.0,84.3,84.8,20.1,87.3,88.8,90.1,Distinction,Good Standing
+STU1499,Vignesh Ramesh,Computer Science,4,78.2,76.2,89.3,64.5,72.3,15.2,76.0,55.9,68.9,First Class,Good Standing
+STU1500,Rhea Chopra,Software Engineering,1,88.9,92.5,100.0,82.6,98.5,25.7,100.0,100.0,99.5,Distinction,Good Standing
+STU1501,Rahul Gopal,Information Technology,1,82.5,75.7,80.7,71.3,67.2,23.1,94.6,68.3,84.9,Distinction,Good Standing
+STU1502,Keerthana Murugan,Information Technology,3,81.4,99.0,100.0,87.9,98.5,32.0,100.0,100.0,99.5,Distinction,Good Standing
+STU1503,Madhav Balaji,Computer Applications,6,86.0,99.0,99.9,96.1,98.0,21.8,97.4,92.5,99.5,Distinction,Good Standing
+STU1504,Rohit Devi,Computer Applications,4,68.6,66.5,64.0,64.4,64.8,11.0,57.7,61.7,60.7,First Class,Good Standing
+STU1505,Sanjay Iyer,Computer Applications,4,67.0,62.3,73.4,56.5,57.5,12.7,77.1,67.6,61.7,First Class,Good Standing
+STU1506,Sanjay Iyer,Software Engineering,3,92.8,60.7,52.4,69.1,60.8,13.6,82.6,54.1,64.5,First Class,Good Standing
+STU1507,Yamini Sharma,Information Technology,6,92.8,70.8,78.4,59.9,70.3,15.0,90.9,92.1,71.1,First Class,Good Standing
+STU1508,Bhavya Rao,Information Technology,2,73.5,66.5,72.5,68.8,67.7,14.9,77.6,76.9,72.2,First Class,Good Standing
+STU1509,Varun Ramachandran,Software Engineering,3,90.0,86.4,81.7,76.3,70.1,18.3,100.0,86.1,82.7,Distinction,Good Standing
+STU1510,Ananya Gopal,Computer Applications,3,68.0,82.9,99.0,74.6,84.2,24.9,90.9,78.1,92.9,Distinction,Good Standing
+STU1511,Madhav Krishnan,Computer Applications,3,61.7,41.8,57.3,40.0,50.9,8.2,58.4,36.6,53.4,Pass / Average,Moderate Monitoring
+STU1512,Rahul Reddy,Information Technology,5,73.4,61.9,78.5,67.4,74.7,11.3,76.0,65.6,67.3,First Class,Good Standing
+STU1513,Naveen Subramanian,Information Technology,4,78.3,65.5,79.5,78.4,62.7,14.2,82.2,59.3,71.0,First Class,Good Standing
+STU1514,Surya Sharma,Artificial Intelligence & Data Science,5,59.3,42.4,51.4,47.9,59.2,11.2,72.9,50.6,48.8,Pass / Average,Moderate Monitoring
+STU1515,Aarav Ramesh,Artificial Intelligence & Data Science,3,81.2,82.0,72.6,73.3,82.1,11.6,84.8,85.6,69.8,First Class,Good Standing
+STU1516,Sanjay Subramanian,Information Technology,2,75.1,57.1,58.0,55.7,49.0,9.4,81.9,57.6,58.8,Pass / Average,Moderate Monitoring
+STU1517,Rhea Kumar,Information Technology,6,76.7,64.3,59.4,65.4,67.3,14.7,88.9,48.3,67.0,First Class,Good Standing
+STU1518,Kavya Murugan,Computer Science,3,91.0,95.3,92.8,71.8,78.1,17.8,93.8,88.8,84.7,Distinction,Good Standing
+STU1519,Arun Rao,Information Technology,5,90.0,76.2,77.2,68.8,64.5,18.6,100.0,70.6,75.1,First Class,Good Standing
+STU1520,Ishaan Rao,Information Technology,3,71.2,86.8,83.4,65.5,67.5,17.8,87.6,67.4,81.9,Distinction,Good Standing
+STU1521,Kavya Reddy,Computer Applications,6,57.8,63.3,69.4,56.9,61.3,12.2,82.1,70.4,59.1,Pass / Average,Moderate Monitoring
+STU1522,Pranav Ramachandran,Computer Applications,2,73.8,49.8,57.9,32.0,43.4,15.8,85.5,53.1,55.3,Pass / Average,Moderate Monitoring
+STU1523,Bhavya Chopra,Information Technology,3,88.4,89.4,87.0,89.3,70.5,16.3,84.7,75.1,83.3,Distinction,Good Standing
+STU1524,Surya Ramesh,Information Technology,5,72.3,79.2,83.2,63.9,68.2,20.0,90.3,66.4,72.0,First Class,Good Standing
+STU1525,Swetha Balaji,Computer Science,3,67.3,82.1,75.0,60.2,69.9,13.8,78.4,85.0,74.0,First Class,Good Standing
+STU1526,Bhavya Krishnan,Information Technology,1,81.5,78.6,98.1,75.4,91.3,16.1,88.9,92.4,82.6,Distinction,Good Standing
+STU1527,Vignesh Chopra,Information Technology,4,92.8,78.3,99.9,88.7,82.6,19.7,100.0,76.6,86.7,Distinction,Good Standing
+STU1528,Divya Murugan,Artificial Intelligence & Data Science,3,63.1,82.9,70.8,63.6,58.6,24.0,94.9,76.2,77.7,First Class,Good Standing
+STU1529,Pranav Krishnan,Software Engineering,1,77.2,89.6,90.7,65.5,86.0,21.7,92.9,85.1,85.1,Distinction,Good Standing
+STU1530,Sai Subramanian,Computer Applications,3,65.2,70.0,69.2,54.9,68.7,7.3,62.2,69.2,65.5,First Class,Good Standing
+STU1531,Keerthana Devi,Computer Science,4,74.0,69.2,78.2,58.8,69.3,10.4,86.3,64.8,73.1,First Class,Good Standing
+STU1532,Ganesh Kumar,Computer Science,3,70.6,84.7,85.8,76.8,74.9,21.1,91.8,76.0,83.9,Distinction,Good Standing
+STU1533,Keerthana Reddy,Computer Applications,5,83.2,93.8,100.0,79.1,92.5,22.4,100.0,96.6,99.5,Distinction,Good Standing
+STU1534,Harini Menon,Computer Applications,2,67.6,33.1,42.9,44.8,49.9,4.9,56.3,46.2,35.1,Needs Support,High Academic Priority
+STU1535,Madhav Rao,Software Engineering,5,80.6,99.0,100.0,79.8,96.2,26.4,100.0,92.2,96.9,Distinction,Good Standing
+STU1536,Ganesh Gopal,Artificial Intelligence & Data Science,3,60.7,76.0,69.3,58.6,79.2,20.3,65.9,56.1,69.8,First Class,Good Standing
+STU1537,Rhea Ramachandran,Computer Applications,5,71.9,67.9,73.6,64.8,64.7,13.3,76.7,63.3,68.5,First Class,Good Standing
+STU1538,Ganesh Reddy,Artificial Intelligence & Data Science,3,65.0,76.1,68.7,54.8,63.1,16.7,76.7,72.4,74.1,First Class,Good Standing
+STU1539,Ganesh Gopal,Computer Science,5,67.8,54.1,78.5,55.1,67.7,15.7,81.6,67.7,62.6,First Class,Good Standing
+STU1540,Varun Venkatesh,Computer Applications,4,93.8,85.8,85.3,67.0,78.8,25.0,100.0,66.9,85.4,Distinction,Good Standing
+STU1541,Varun Sharma,Artificial Intelligence & Data Science,1,70.3,49.5,48.2,36.8,43.4,11.8,77.8,45.4,43.9,Needs Support,High Academic Priority
+STU1542,Naveen Gopal,Information Technology,4,80.7,87.0,99.3,73.6,73.9,23.3,88.6,65.1,87.6,Distinction,Good Standing
+STU1543,Naveen Natarajan,Artificial Intelligence & Data Science,3,78.4,54.9,57.6,56.9,40.0,11.9,88.8,64.7,58.3,Pass / Average,Moderate Monitoring
+STU1544,Rohit Balaji,Computer Science,3,65.3,63.4,66.0,38.0,46.8,14.0,82.9,61.5,59.1,Pass / Average,Moderate Monitoring
+STU1545,Sanjay Sharma,Artificial Intelligence & Data Science,1,82.6,62.6,63.6,57.6,47.7,20.5,97.7,68.7,70.3,First Class,Good Standing
+STU1546,Kavya Kumar,Artificial Intelligence & Data Science,6,70.5,62.7,72.4,68.3,55.7,20.3,83.7,69.1,67.0,First Class,Good Standing
+STU1547,Pranav Sharma,Artificial Intelligence & Data Science,2,68.3,66.0,64.7,59.9,57.6,13.4,87.0,57.2,62.9,First Class,Good Standing
+STU1548,Deepak Krishnan,Artificial Intelligence & Data Science,5,89.6,95.7,100.0,89.3,74.8,32.9,100.0,88.0,95.4,Distinction,Good Standing
+STU1549,Sai Patel,Computer Applications,2,88.3,92.8,89.3,74.6,76.2,21.3,96.7,86.1,88.7,Distinction,Good Standing
+STU1550,Divya Ramachandran,Computer Applications,3,82.1,78.5,90.4,68.9,71.4,17.3,94.8,72.6,81.1,Distinction,Good Standing
+STU1551,Sneha Iyer,Artificial Intelligence & Data Science,4,78.8,65.4,94.8,71.9,62.4,28.2,100.0,70.6,83.6,Distinction,Good Standing
+STU1552,Aditi Ramesh,Computer Science,3,52.9,52.5,54.4,64.4,40.0,12.7,79.9,46.2,52.6,Pass / Average,Moderate Monitoring
+STU1553,Sanjay Chopra,Computer Applications,6,70.1,71.1,85.7,60.4,63.6,12.5,80.2,53.8,72.1,First Class,Good Standing
+STU1554,Vignesh Rao,Software Engineering,4,78.9,76.7,82.1,73.0,77.5,13.7,89.5,60.9,74.9,First Class,Good Standing
+STU1555,Sai Subramanian,Computer Science,4,82.0,81.7,73.9,83.3,76.0,19.3,92.7,78.9,84.0,Distinction,Good Standing
+STU1556,Rahul Ramachandran,Computer Science,1,83.4,84.4,88.2,81.4,77.5,17.5,98.9,82.0,80.4,Distinction,Good Standing
+STU1557,Kavya Iyer,Computer Applications,5,76.1,59.1,66.1,62.5,62.1,9.4,71.3,49.9,67.9,First Class,Good Standing
+STU1558,Yamini Patel,Information Technology,5,76.3,73.6,79.3,59.3,77.0,15.9,89.2,75.7,75.3,First Class,Good Standing
+STU1559,Sai Murugan,Computer Applications,2,66.8,57.2,74.5,56.9,52.6,10.7,77.1,54.0,56.9,Pass / Average,Moderate Monitoring
+STU1560,Pooja Patel,Artificial Intelligence & Data Science,5,87.0,59.2,67.0,65.6,61.1,15.0,84.9,72.7,65.5,First Class,Good Standing
+STU1561,Rhea Iyer,Artificial Intelligence & Data Science,4,70.4,62.0,61.9,54.9,61.3,2.5,77.2,53.3,57.5,Pass / Average,Moderate Monitoring
+STU1562,Naveen Chopra,Computer Science,2,69.5,85.6,83.4,56.5,63.1,23.2,84.5,58.0,75.7,First Class,Good Standing
+STU1563,Nithya Iyer,Computer Applications,1,68.5,50.6,46.2,52.9,45.9,15.3,70.2,44.2,55.2,Pass / Average,Moderate Monitoring
+STU1564,Nithya Kumar,Artificial Intelligence & Data Science,4,79.7,70.6,91.6,75.0,66.7,22.6,90.4,67.7,85.4,Distinction,Good Standing
+STU1565,Madhav Ramesh,Software Engineering,2,72.4,72.4,79.8,65.5,80.8,18.3,99.1,72.2,75.2,First Class,Good Standing
+STU1566,Rahul Reddy,Computer Science,3,85.0,84.8,87.1,69.7,77.2,17.2,81.9,82.9,85.3,Distinction,Good Standing
+STU1567,Madhav Sharma,Information Technology,1,65.4,57.4,85.4,61.1,59.4,13.3,74.9,68.6,67.7,First Class,Good Standing
+STU1568,Deepak Subramanian,Software Engineering,3,60.1,50.9,64.7,51.3,48.5,11.2,87.3,40.3,54.3,Pass / Average,Moderate Monitoring
+STU1569,Aditi Iyer,Computer Applications,1,82.7,65.2,74.1,82.0,77.2,10.0,86.2,77.9,77.0,First Class,Good Standing
+STU1570,Surya Subramanian,Computer Applications,4,59.1,59.8,55.4,64.3,48.4,14.2,81.1,43.2,54.5,Pass / Average,Moderate Monitoring
+STU1571,Naveen Krishnan,Software Engineering,1,76.4,73.2,90.8,66.0,74.3,18.1,85.0,84.9,79.1,First Class,Good Standing
+STU1572,Vikram Krishnan,Information Technology,4,75.3,61.0,92.0,68.3,74.4,22.4,90.2,81.7,84.9,Distinction,Good Standing
+STU1573,Sanjay Gopal,Computer Applications,4,71.6,92.7,88.4,86.1,74.4,26.8,100.0,70.3,89.7,Distinction,Good Standing
+STU1574,Harini Gopal,Information Technology,4,82.7,74.4,79.0,68.2,80.7,18.3,76.9,73.5,70.9,First Class,Good Standing
+STU1575,Rohit Iyer,Computer Science,3,79.1,72.7,86.4,48.6,61.4,15.3,83.5,65.3,67.3,First Class,Good Standing
+STU1576,Sneha Reddy,Computer Science,1,68.3,57.6,49.2,59.1,56.9,16.1,66.3,35.9,56.1,Pass / Average,Moderate Monitoring
+STU1577,Swetha Rao,Computer Science,1,74.2,37.9,38.3,32.0,40.0,10.4,65.5,39.2,49.4,Pass / Average,Moderate Monitoring
+STU1578,Rohit Krishnan,Information Technology,3,77.3,81.7,84.1,63.4,67.5,22.9,97.5,68.3,79.8,First Class,Good Standing
+STU1579,Divya Patel,Artificial Intelligence & Data Science,5,85.3,88.4,90.0,81.9,74.7,23.6,97.0,81.3,85.0,Distinction,Good Standing
+STU1580,Kavya Rao,Information Technology,5,77.0,72.0,87.5,67.0,69.5,23.5,100.0,77.9,78.1,First Class,Good Standing
+STU1581,Bhavya Rao,Artificial Intelligence & Data Science,3,81.8,96.4,91.2,65.5,72.4,21.5,95.4,79.3,87.1,Distinction,Good Standing
+STU1582,Nithya Ramesh,Computer Science,5,81.6,57.2,68.7,62.1,56.3,4.7,71.5,45.3,63.7,First Class,Good Standing
+STU1583,Varun Ramachandran,Software Engineering,2,70.4,59.5,57.8,64.6,52.5,4.6,70.2,42.2,60.1,First Class,Good Standing
+STU1584,Vignesh Sundaram,Computer Applications,4,64.9,75.5,67.9,47.8,73.7,8.2,61.1,47.0,58.4,Pass / Average,Moderate Monitoring
+STU1585,Aditi Venkatesh,Computer Science,2,73.2,81.4,97.3,68.1,86.5,22.8,85.9,71.9,87.2,Distinction,Good Standing
+STU1586,Meera Rao,Computer Science,6,74.5,70.7,75.2,66.5,65.6,19.3,85.4,66.8,70.2,First Class,Good Standing
+STU1587,Rahul Gopal,Artificial Intelligence & Data Science,1,67.0,48.5,53.2,48.7,40.0,4.4,78.2,47.7,51.0,Pass / Average,Moderate Monitoring
+STU1588,Meera Gopal,Computer Applications,3,78.3,79.1,69.6,80.0,76.5,15.4,97.4,72.5,72.3,First Class,Good Standing
+STU1589,Deepak Ramachandran,Artificial Intelligence & Data Science,4,68.3,41.6,30.0,32.0,40.0,11.7,82.8,40.8,42.6,Needs Support,High Academic Priority
+STU1590,Ananya Balaji,Software Engineering,6,86.6,94.8,91.3,74.6,87.3,21.6,100.0,98.4,96.8,Distinction,Good Standing
+STU1591,Sai Reddy,Information Technology,3,82.3,71.8,61.0,55.3,59.4,11.7,86.1,68.4,68.0,First Class,Good Standing
+STU1592,Deepak Rao,Computer Applications,5,90.6,75.0,74.8,62.6,64.9,12.2,88.4,62.2,70.0,First Class,Good Standing
+STU1593,Meera Chopra,Information Technology,4,72.0,63.1,75.5,59.2,57.2,17.2,87.0,72.2,72.0,First Class,Good Standing
+STU1594,Sneha Murugan,Software Engineering,5,64.7,80.0,88.0,64.3,78.3,18.9,78.9,61.3,79.2,First Class,Good Standing
+STU1595,Varun Ramachandran,Artificial Intelligence & Data Science,2,74.5,69.8,72.2,67.6,71.4,23.2,100.0,74.0,81.7,Distinction,Good Standing
+STU1596,Kavya Menon,Computer Applications,3,82.9,72.6,80.3,62.4,74.4,13.7,75.6,73.4,75.6,First Class,Good Standing
+STU1597,Surya Natarajan,Artificial Intelligence & Data Science,4,70.9,78.3,79.6,49.6,78.2,13.3,74.7,74.7,66.5,First Class,Good Standing
+STU1598,Aarav Gopal,Computer Applications,1,85.9,84.4,85.3,75.6,79.6,18.6,100.0,78.4,87.3,Distinction,Good Standing
+STU1599,Sneha Rao,Information Technology,4,90.7,86.7,78.6,78.6,75.8,21.4,98.4,83.5,82.6,Distinction,Good Standing
+STU1600,Aarav Venkatesh,Information Technology,1,68.4,75.7,74.4,62.3,75.9,18.4,85.0,58.6,76.3,First Class,Good Standing
+STU1601,Yamini Menon,Software Engineering,3,73.3,65.7,74.3,58.9,69.6,11.7,79.2,62.0,67.0,First Class,Good Standing
+STU1602,Surya Devi,Computer Science,1,89.9,81.4,82.6,59.3,78.1,18.0,100.0,73.0,79.0,First Class,Good Standing
+STU1603,Bhavya Chopra,Software Engineering,2,62.0,53.7,71.0,47.6,46.5,17.4,68.6,49.2,55.8,Pass / Average,Moderate Monitoring
+STU1604,Harini Chopra,Artificial Intelligence & Data Science,2,74.6,72.4,79.4,75.3,59.3,18.8,90.9,74.9,72.6,First Class,Good Standing
+STU1605,Arun Sundaram,Software Engineering,3,76.8,39.6,49.4,34.8,40.0,9.9,75.8,41.7,43.7,Needs Support,High Academic Priority
+STU1606,Ishaan Pillai,Artificial Intelligence & Data Science,5,98.0,99.0,100.0,100.0,87.1,24.7,100.0,100.0,99.5,Distinction,Good Standing
+STU1607,Varun Chopra,Software Engineering,4,79.3,58.6,62.9,46.3,54.6,15.2,91.8,58.1,58.2,Pass / Average,Moderate Monitoring
+STU1608,Madhav Sharma,Computer Applications,2,83.0,54.2,57.1,58.5,54.1,6.3,75.5,69.3,63.2,First Class,Good Standing
+STU1609,Nithya Balaji,Artificial Intelligence & Data Science,2,53.1,50.7,51.7,61.1,47.7,7.3,69.8,68.9,49.4,Pass / Average,Moderate Monitoring
+STU1610,Rohit Patel,Software Engineering,1,67.3,86.9,89.1,78.7,63.6,25.9,91.3,66.4,85.3,Distinction,Good Standing
+STU1611,Aditi Sundaram,Software Engineering,3,79.0,79.8,91.3,74.3,76.6,17.6,92.0,68.1,76.9,First Class,Good Standing
+STU1612,Ganesh Iyer,Information Technology,3,75.3,80.5,89.8,67.4,78.4,16.0,89.3,58.1,77.5,First Class,Good Standing
+STU1613,Naveen Chopra,Software Engineering,3,73.0,81.9,84.0,65.0,79.5,16.0,87.3,69.5,77.2,First Class,Good Standing
+STU1614,Nithya Iyer,Artificial Intelligence & Data Science,3,74.5,77.1,86.1,65.1,76.0,13.6,87.7,78.5,74.4,First Class,Good Standing
+STU1615,Pranav Balaji,Computer Science,4,74.5,72.3,60.2,69.5,59.4,13.4,80.9,84.2,68.2,First Class,Good Standing
+STU1616,Sneha Patel,Information Technology,6,69.9,53.0,64.6,56.0,63.3,8.6,67.9,42.3,62.4,First Class,Good Standing
+STU1617,Rahul Rao,Artificial Intelligence & Data Science,4,62.5,80.2,72.8,37.6,52.9,21.2,81.0,55.5,65.3,First Class,Good Standing
+STU1618,Meera Devi,Software Engineering,4,58.9,33.0,43.6,42.7,40.0,9.2,74.4,36.0,41.7,Needs Support,High Academic Priority
+STU1619,Arun Rao,Computer Applications,3,88.3,62.2,72.9,57.7,59.1,12.6,95.9,62.6,64.7,First Class,Good Standing
+STU1620,Pooja Subramanian,Information Technology,3,61.4,57.1,61.9,62.0,44.1,11.7,68.7,44.6,57.1,Pass / Average,Moderate Monitoring
+STU1621,Swetha Ramachandran,Computer Science,4,81.2,73.4,68.1,76.2,61.7,12.2,79.8,86.4,72.6,First Class,Good Standing
+STU1622,Ananya Ramachandran,Software Engineering,3,75.3,97.5,100.0,68.0,90.2,21.7,100.0,88.4,97.7,Distinction,Good Standing
+STU1623,Deepak Sharma,Computer Applications,2,85.7,86.4,82.4,64.7,68.3,20.2,92.1,89.6,82.2,Distinction,Good Standing
+STU1624,Pranav Ramachandran,Software Engineering,3,78.7,54.0,65.3,45.2,41.5,16.9,88.5,54.7,52.8,Pass / Average,Moderate Monitoring
+STU1625,Pooja Pillai,Software Engineering,3,91.7,99.0,100.0,83.4,96.9,26.6,100.0,96.9,98.5,Distinction,Good Standing
+STU1626,Arun Murugan,Computer Applications,5,66.3,63.4,75.0,35.9,57.8,13.8,72.0,66.8,55.2,Pass / Average,Moderate Monitoring
+STU1627,Ishaan Gopal,Computer Applications,6,65.3,81.8,93.1,69.9,61.1,21.6,81.6,62.7,76.0,First Class,Good Standing
+STU1628,Nithya Rao,Information Technology,3,84.3,83.2,81.7,70.9,76.1,22.7,100.0,83.9,87.7,Distinction,Good Standing
+STU1629,Naveen Subramanian,Artificial Intelligence & Data Science,1,66.0,51.8,53.7,47.9,41.0,13.1,82.0,44.7,50.3,Pass / Average,Moderate Monitoring
+STU1630,Pranav Rao,Information Technology,2,65.1,42.2,42.5,38.3,40.0,7.1,68.1,44.3,41.0,Needs Support,High Academic Priority
+STU1631,Madhav Devi,Artificial Intelligence & Data Science,2,82.1,87.6,86.6,68.8,78.8,22.4,100.0,59.1,84.4,Distinction,Good Standing
+STU1632,Swetha Subramanian,Computer Applications,5,57.7,65.1,77.2,58.4,50.6,22.3,97.5,61.2,65.2,First Class,Good Standing
+STU1633,Naveen Sundaram,Computer Science,5,79.7,80.2,88.3,63.4,77.4,12.1,86.6,66.5,75.2,First Class,Good Standing
+STU1634,Aditi Chopra,Information Technology,4,85.6,62.5,75.7,71.9,63.5,20.3,100.0,78.8,79.3,First Class,Good Standing
+STU1635,Ishaan Ramesh,Software Engineering,4,68.5,55.9,68.1,68.0,61.1,16.2,80.2,63.0,66.8,First Class,Good Standing
+STU1636,Arun Devi,Software Engineering,3,76.5,67.3,88.1,67.0,58.7,19.5,83.9,69.6,74.3,First Class,Good Standing
+STU1637,Deepak Menon,Computer Science,1,79.4,63.8,79.0,59.8,52.8,22.1,96.2,64.7,74.3,First Class,Good Standing
+STU1638,Deepak Menon,Computer Applications,5,81.7,79.2,68.8,66.4,72.8,19.8,91.0,68.4,74.5,First Class,Good Standing
+STU1639,Ganesh Venkatesh,Software Engineering,1,82.1,55.3,78.0,54.1,64.5,16.5,93.2,56.4,66.2,First Class,Good Standing
+STU1640,Vikram Menon,Software Engineering,1,74.7,79.7,83.5,81.0,77.2,14.3,83.9,80.5,81.5,Distinction,Good Standing
+STU1641,Sanjay Natarajan,Software Engineering,3,60.7,25.0,31.0,34.9,41.4,2.8,56.4,30.6,31.9,Needs Support,High Academic Priority
+STU1642,Madhav Gopal,Software Engineering,5,72.1,83.9,79.9,86.1,84.4,20.5,100.0,81.8,95.7,Distinction,Good Standing
+STU1643,Meera Reddy,Computer Science,3,67.5,69.5,65.9,52.4,53.6,17.2,89.1,75.8,67.3,First Class,Good Standing
+STU1644,Pooja Krishnan,Computer Science,4,64.9,60.5,79.4,77.2,60.4,26.0,93.3,63.2,83.8,Distinction,Good Standing
+STU1645,Madhav Rao,Computer Applications,4,84.0,74.8,97.2,72.0,77.5,15.1,87.6,68.7,78.3,First Class,Good Standing
+STU1646,Keerthana Krishnan,Computer Science,1,78.4,94.0,93.9,87.3,77.5,27.8,90.9,84.6,96.9,Distinction,Good Standing
+STU1647,Varun Devi,Software Engineering,3,50.3,56.7,73.0,55.6,54.0,11.4,50.1,58.1,48.7,Pass / Average,Moderate Monitoring
+STU1648,Vikram Venkatesh,Information Technology,3,79.7,81.9,70.9,82.9,69.7,18.9,70.7,73.0,74.8,First Class,Good Standing
+STU1649,Deepak Patel,Computer Applications,1,84.6,67.7,89.8,47.3,65.7,21.6,86.8,64.5,81.9,Distinction,Good Standing
+STU1650,Rahul Patel,Software Engineering,1,68.6,49.4,60.2,63.2,47.5,11.2,72.8,60.1,53.8,Pass / Average,Moderate Monitoring
+STU1651,Kavya Balaji,Software Engineering,5,86.3,77.9,95.4,79.6,80.6,18.5,94.1,81.8,84.7,Distinction,Good Standing
+STU1652,Yamini Iyer,Artificial Intelligence & Data Science,4,81.4,85.2,79.0,64.5,68.0,10.8,85.8,74.1,69.1,First Class,Good Standing
+STU1653,Bhavya Ramachandran,Computer Applications,4,77.9,76.8,82.6,58.8,68.4,18.5,83.2,55.2,73.6,First Class,Good Standing
+STU1654,Rahul Subramanian,Computer Science,6,71.5,76.2,77.4,69.7,76.8,16.5,100.0,86.7,80.8,Distinction,Good Standing
+STU1655,Aarav Iyer,Computer Science,6,93.6,86.3,100.0,77.7,83.5,18.9,95.2,83.5,85.7,Distinction,Good Standing
+STU1656,Sai Gopal,Information Technology,6,80.8,94.9,99.6,84.0,89.8,21.5,90.9,87.9,98.4,Distinction,Good Standing
+STU1657,Sai Ramesh,Artificial Intelligence & Data Science,6,81.1,68.3,77.0,58.5,56.3,19.4,96.0,70.7,75.9,First Class,Good Standing
+STU1658,Aditi Ramachandran,Software Engineering,1,69.5,79.2,73.5,55.6,66.2,21.2,93.6,52.3,77.5,First Class,Good Standing
+STU1659,Vignesh Iyer,Information Technology,1,81.5,78.9,56.2,51.1,56.0,8.1,72.4,57.1,68.1,First Class,Good Standing
+STU1660,Surya Balaji,Artificial Intelligence & Data Science,5,78.1,67.6,62.0,65.5,57.9,13.2,71.0,43.6,69.0,First Class,Good Standing
+STU1661,Aarav Subramanian,Computer Science,2,74.4,77.9,72.2,60.9,70.3,13.8,94.6,71.4,73.2,First Class,Good Standing
+STU1662,Rohit Sharma,Artificial Intelligence & Data Science,3,68.3,85.7,71.2,50.9,54.6,22.0,98.7,60.9,80.5,Distinction,Good Standing
+STU1663,Pranav Kumar,Information Technology,2,70.9,63.4,89.3,69.8,64.9,22.0,81.8,55.0,73.7,First Class,Good Standing
+STU1664,Ananya Krishnan,Information Technology,2,86.9,77.9,100.0,68.5,70.2,20.7,100.0,78.0,78.8,First Class,Good Standing
+STU1665,Kavya Krishnan,Artificial Intelligence & Data Science,4,74.6,79.5,99.8,57.9,82.8,20.8,87.8,74.0,83.3,Distinction,Good Standing
+STU1666,Harini Iyer,Artificial Intelligence & Data Science,3,59.9,64.5,77.8,68.8,54.9,11.3,71.2,58.6,63.7,First Class,Good Standing
+STU1667,Rahul Menon,Software Engineering,3,65.4,56.6,69.7,58.1,54.6,17.4,83.1,50.4,62.7,First Class,Good Standing
+STU1668,Rahul Devi,Computer Science,2,79.4,63.2,82.7,76.1,62.5,14.1,80.1,57.7,63.6,First Class,Good Standing
+STU1669,Sanjay Gopal,Computer Science,4,71.9,63.8,77.4,64.4,71.5,7.2,78.9,77.9,68.3,First Class,Good Standing
+STU1670,Deepak Krishnan,Computer Applications,1,91.1,82.7,81.7,54.0,66.2,18.5,91.1,67.3,78.8,First Class,Good Standing
+STU1671,Harini Rao,Information Technology,4,81.4,60.2,64.9,58.0,58.2,13.4,84.2,55.7,65.8,First Class,Good Standing
+STU1672,Madhav Reddy,Software Engineering,3,77.4,62.7,84.0,68.6,66.6,14.7,89.1,73.3,71.5,First Class,Good Standing
+STU1673,Naveen Iyer,Information Technology,3,62.4,65.5,53.1,45.5,43.6,11.5,76.4,49.5,50.8,Pass / Average,Moderate Monitoring
+STU1674,Ganesh Pillai,Information Technology,4,61.2,48.7,60.2,32.0,43.0,11.4,66.5,48.4,49.5,Pass / Average,Moderate Monitoring
+STU1675,Vignesh Devi,Software Engineering,1,72.5,51.0,63.3,53.5,42.0,11.7,69.4,54.5,56.7,Pass / Average,Moderate Monitoring
+STU1676,Nithya Patel,Computer Applications,1,75.1,48.8,48.5,58.0,51.6,6.5,62.3,60.2,54.8,Pass / Average,Moderate Monitoring
+STU1677,Sai Sharma,Information Technology,4,76.0,59.8,69.6,50.3,41.9,19.0,90.7,51.4,62.8,First Class,Good Standing
+STU1678,Pranav Sundaram,Computer Science,6,82.8,86.9,66.9,83.4,68.1,22.5,84.7,65.7,81.0,Distinction,Good Standing
+STU1679,Rohit Reddy,Information Technology,4,86.7,88.9,81.7,92.1,88.8,19.7,89.2,84.6,94.2,Distinction,Good Standing
+STU1680,Rhea Sharma,Computer Science,1,60.6,54.9,68.8,51.2,51.1,12.2,67.8,57.2,56.0,Pass / Average,Moderate Monitoring
+STU1681,Sneha Sharma,Software Engineering,5,83.6,77.0,67.6,64.6,61.4,16.0,84.5,76.5,69.3,First Class,Good Standing
+STU1682,Pranav Chopra,Computer Science,6,81.9,82.4,88.1,60.1,66.6,15.2,78.0,63.7,74.0,First Class,Good Standing
+STU1683,Arun Venkatesh,Computer Science,1,73.0,67.7,62.9,52.4,55.0,14.5,73.1,68.9,58.2,Pass / Average,Moderate Monitoring
+STU1684,Aarav Murugan,Artificial Intelligence & Data Science,4,83.7,77.3,66.7,72.9,61.3,12.0,78.8,62.7,71.3,First Class,Good Standing
+STU1685,Meera Ramachandran,Artificial Intelligence & Data Science,3,74.4,48.4,73.3,73.4,61.0,16.5,81.3,74.4,65.1,First Class,Good Standing
+STU1686,Bhavya Sharma,Computer Applications,2,87.9,91.2,95.8,82.3,76.0,22.4,95.2,87.8,90.5,Distinction,Good Standing
+STU1687,Kavya Sundaram,Artificial Intelligence & Data Science,2,61.1,61.9,63.9,65.0,62.1,16.1,83.2,60.1,57.9,Pass / Average,Moderate Monitoring
+STU1688,Rhea Natarajan,Computer Applications,5,83.1,82.9,81.0,66.1,78.1,26.0,100.0,79.4,92.4,Distinction,Good Standing
+STU1689,Arun Pillai,Computer Applications,2,62.1,82.5,76.1,86.7,74.8,19.4,89.1,80.4,83.8,Distinction,Good Standing
+STU1690,Naveen Reddy,Information Technology,3,67.3,65.0,55.6,36.2,41.7,9.1,55.0,46.9,49.2,Pass / Average,Moderate Monitoring
+STU1691,Ishaan Chopra,Computer Applications,2,96.0,92.4,97.2,80.8,77.3,22.1,100.0,86.3,93.1,Distinction,Good Standing
+STU1692,Madhav Rao,Information Technology,1,99.5,87.8,89.3,77.2,85.3,15.5,100.0,77.8,87.3,Distinction,Good Standing
+STU1693,Pooja Murugan,Information Technology,1,87.7,76.7,83.6,60.2,70.6,9.6,66.7,75.5,70.6,First Class,Good Standing
+STU1694,Kavya Kumar,Artificial Intelligence & Data Science,4,77.9,64.9,84.1,72.4,63.1,17.1,98.3,67.6,75.2,First Class,Good Standing
+STU1695,Ananya Murugan,Computer Science,4,66.2,53.8,57.2,40.5,59.5,10.5,79.9,45.9,50.7,Pass / Average,Moderate Monitoring
+STU1696,Ananya Kumar,Information Technology,3,58.5,59.8,54.7,41.5,51.3,9.3,77.7,58.3,52.6,Pass / Average,Moderate Monitoring
+STU1697,Kavya Chopra,Software Engineering,2,86.0,77.2,95.2,71.3,66.2,18.4,94.6,96.4,75.3,First Class,Good Standing
+STU1698,Deepak Pillai,Artificial Intelligence & Data Science,5,76.6,57.3,57.7,57.8,56.6,8.3,75.5,58.3,58.3,Pass / Average,Moderate Monitoring
+STU1699,Naveen Natarajan,Computer Applications,6,84.4,84.9,77.0,71.5,94.3,20.4,93.0,76.2,91.0,Distinction,Good Standing
+STU1700,Divya Murugan,Artificial Intelligence & Data Science,6,83.8,79.4,90.4,88.9,71.9,19.6,84.0,72.7,79.3,First Class,Good Standing
+STU1701,Deepak Venkatesh,Computer Applications,3,69.6,63.7,81.0,52.8,53.4,13.5,81.6,43.9,61.6,First Class,Good Standing
+STU1702,Bhavya Sundaram,Computer Science,1,87.1,81.3,84.5,69.5,60.8,14.8,75.3,55.4,75.2,First Class,Good Standing
+STU1703,Arun Sharma,Computer Applications,6,85.7,85.7,99.3,82.7,82.1,20.8,76.0,71.6,79.9,First Class,Good Standing
+STU1704,Rohit Ramachandran,Computer Applications,4,88.8,86.3,99.5,94.4,90.4,21.4,100.0,98.0,95.6,Distinction,Good Standing
+STU1705,Deepak Subramanian,Computer Applications,1,84.9,70.1,87.5,65.7,60.5,23.4,95.9,81.8,80.2,Distinction,Good Standing
+STU1706,Keerthana Gopal,Artificial Intelligence & Data Science,3,82.4,60.3,76.2,64.8,48.0,16.9,88.5,55.8,69.0,First Class,Good Standing
+STU1707,Ananya Murugan,Software Engineering,3,90.8,73.7,85.9,78.4,72.9,14.9,96.3,83.8,76.9,First Class,Good Standing
+STU1708,Naveen Chopra,Computer Applications,5,82.7,69.0,86.5,75.8,64.5,17.6,87.3,66.5,78.8,First Class,Good Standing
+STU1709,Sai Reddy,Computer Science,2,74.8,60.7,67.3,55.4,59.9,13.8,86.3,63.3,63.9,First Class,Good Standing
+STU1710,Vikram Pillai,Computer Applications,2,71.3,92.1,85.1,77.6,72.6,28.3,100.0,88.4,92.3,Distinction,Good Standing
+STU1711,Nithya Krishnan,Artificial Intelligence & Data Science,4,84.7,73.7,62.8,76.9,74.1,12.8,89.2,72.6,73.7,First Class,Good Standing
+STU1712,Sneha Gopal,Artificial Intelligence & Data Science,2,78.8,63.1,60.6,58.5,59.0,18.5,82.8,54.1,68.3,First Class,Good Standing
+STU1713,Swetha Iyer,Computer Applications,1,76.2,59.6,73.6,49.9,42.5,19.1,85.2,75.5,56.1,Pass / Average,Moderate Monitoring
+STU1714,Ananya Subramanian,Computer Applications,3,57.0,50.6,56.0,34.2,48.2,14.8,62.9,49.4,47.9,Pass / Average,Moderate Monitoring
+STU1715,Harini Menon,Artificial Intelligence & Data Science,1,74.7,88.7,76.0,87.1,71.0,18.9,84.3,79.4,84.8,Distinction,Good Standing
+STU1716,Meera Natarajan,Artificial Intelligence & Data Science,1,67.3,63.5,53.4,58.0,49.3,14.2,82.2,51.1,57.6,Pass / Average,Moderate Monitoring
+STU1717,Rhea Subramanian,Artificial Intelligence & Data Science,5,77.2,60.6,47.3,55.9,66.8,6.6,72.3,61.7,56.7,Pass / Average,Moderate Monitoring
+STU1718,Aarav Ramesh,Software Engineering,1,70.1,55.3,63.8,54.5,48.6,15.9,86.8,53.5,59.2,Pass / Average,Moderate Monitoring
+STU1719,Varun Ramachandran,Computer Science,5,73.9,72.7,83.5,52.2,52.8,22.5,93.8,53.0,72.9,First Class,Good Standing
+STU1720,Meera Reddy,Computer Applications,2,80.0,71.6,83.1,82.2,59.7,19.6,95.5,91.8,78.0,First Class,Good Standing
+STU1721,Kavya Devi,Computer Applications,6,83.2,72.7,81.4,71.5,60.2,17.0,100.0,71.8,79.3,First Class,Good Standing
+STU1722,Naveen Kumar,Computer Applications,2,78.6,73.2,73.3,71.2,55.3,21.4,90.5,51.6,75.7,First Class,Good Standing
+STU1723,Keerthana Ramesh,Information Technology,2,69.0,75.1,62.6,65.2,71.8,16.2,80.5,76.6,66.5,First Class,Good Standing
+STU1724,Ishaan Iyer,Artificial Intelligence & Data Science,3,64.0,66.6,64.7,53.7,60.3,15.1,79.6,61.9,66.7,First Class,Good Standing
+STU1725,Divya Pillai,Computer Science,3,62.5,65.4,75.3,63.5,59.1,12.3,83.6,57.6,67.4,First Class,Good Standing
+STU1726,Meera Devi,Information Technology,1,78.9,85.7,99.1,79.8,95.0,29.3,100.0,89.1,97.3,Distinction,Good Standing
+STU1727,Naveen Ramesh,Software Engineering,6,76.9,85.0,100.0,69.5,86.9,28.2,100.0,82.4,86.0,Distinction,Good Standing
+STU1728,Rhea Ramachandran,Software Engineering,3,67.1,53.6,73.4,50.3,65.1,10.2,67.3,64.4,61.1,First Class,Good Standing
+STU1729,Madhav Murugan,Computer Applications,1,90.7,89.1,100.0,86.9,81.1,20.8,100.0,99.0,87.7,Distinction,Good Standing
+STU1730,Kavya Krishnan,Computer Applications,4,80.1,72.2,79.9,71.7,72.9,12.4,82.3,64.1,73.4,First Class,Good Standing
+STU1731,Sai Sundaram,Computer Science,6,78.4,50.7,56.7,52.3,52.6,18.1,85.3,54.7,62.5,First Class,Good Standing
+STU1732,Rhea Reddy,Software Engineering,3,79.0,81.6,98.9,75.7,77.2,21.2,99.1,65.5,83.5,Distinction,Good Standing
+STU1733,Kavya Patel,Computer Science,2,67.8,70.4,86.6,50.9,51.1,19.5,92.7,56.7,67.2,First Class,Good Standing
+STU1734,Swetha Patel,Software Engineering,3,79.2,75.5,76.5,75.8,74.3,7.3,87.5,82.0,74.7,First Class,Good Standing
+STU1735,Rohit Devi,Artificial Intelligence & Data Science,3,90.1,72.9,82.9,64.2,71.7,17.5,100.0,71.0,75.8,First Class,Good Standing
+STU1736,Divya Balaji,Computer Applications,1,76.9,72.0,79.9,75.9,55.8,19.8,84.4,55.8,73.6,First Class,Good Standing
+STU1737,Meera Krishnan,Computer Applications,4,73.1,86.8,91.3,66.1,72.0,20.0,88.2,84.2,80.4,Distinction,Good Standing
+STU1738,Nithya Patel,Computer Science,6,69.1,73.4,72.4,53.1,67.2,20.1,81.0,57.5,73.1,First Class,Good Standing
+STU1739,Yamini Chopra,Computer Science,2,69.0,78.6,83.0,55.3,54.2,23.1,78.4,79.4,76.6,First Class,Good Standing
+STU1740,Madhav Menon,Computer Science,6,67.9,69.6,72.0,59.7,68.5,21.2,85.9,62.3,78.0,First Class,Good Standing
+STU1741,Meera Iyer,Information Technology,5,71.4,60.0,76.1,65.1,50.7,14.4,80.7,61.0,63.8,First Class,Good Standing
+STU1742,Arun Devi,Computer Science,4,68.7,69.3,85.3,55.3,54.8,13.4,74.0,62.2,60.6,First Class,Good Standing
+STU1743,Rhea Subramanian,Information Technology,5,70.1,72.7,69.2,50.9,68.0,12.9,94.9,70.5,68.6,First Class,Good Standing
+STU1744,Sanjay Patel,Information Technology,3,66.4,62.8,65.4,40.2,53.7,15.2,85.6,69.4,55.7,Pass / Average,Moderate Monitoring
+STU1745,Aditi Ramesh,Artificial Intelligence & Data Science,2,71.8,72.3,78.5,46.0,63.7,13.0,76.1,54.7,66.6,First Class,Good Standing
+STU1746,Deepak Kumar,Information Technology,3,91.5,99.0,94.4,69.4,84.8,19.7,100.0,100.0,88.3,Distinction,Good Standing
+STU1747,Aarav Venkatesh,Computer Science,3,79.4,74.6,85.9,56.7,76.9,20.1,94.6,92.0,77.2,First Class,Good Standing
+STU1748,Pooja Chopra,Software Engineering,6,74.7,65.2,75.0,73.0,68.4,19.5,95.3,73.8,72.2,First Class,Good Standing
+STU1749,Rhea Gopal,Software Engineering,3,83.8,90.7,83.4,71.0,81.2,22.2,93.5,66.7,84.9,Distinction,Good Standing
+STU1750,Meera Krishnan,Artificial Intelligence & Data Science,4,94.0,68.3,62.7,63.0,63.7,12.8,90.1,58.7,74.7,First Class,Good Standing
+STU1751,Sanjay Iyer,Artificial Intelligence & Data Science,1,69.8,57.7,73.7,60.2,57.9,11.0,77.8,68.0,63.8,First Class,Good Standing
+STU1752,Madhav Ramachandran,Information Technology,4,83.3,80.5,86.8,60.0,68.4,21.2,96.5,56.6,82.2,Distinction,Good Standing
+STU1753,Deepak Sundaram,Computer Science,4,90.2,99.0,100.0,96.9,93.7,22.0,100.0,81.0,92.6,Distinction,Good Standing
+STU1754,Swetha Ramachandran,Software Engineering,5,88.4,92.6,95.3,83.4,97.2,19.5,93.4,94.2,86.5,Distinction,Good Standing
+STU1755,Aditi Patel,Computer Applications,1,60.4,44.4,52.9,54.2,40.0,9.5,62.9,49.2,50.1,Pass / Average,Moderate Monitoring
+STU1756,Sai Patel,Artificial Intelligence & Data Science,1,87.9,80.3,92.3,64.2,81.9,19.8,99.3,90.6,85.9,Distinction,Good Standing
+STU1757,Rohit Krishnan,Artificial Intelligence & Data Science,5,71.3,41.5,51.8,43.5,57.0,10.6,85.0,53.0,49.2,Pass / Average,Moderate Monitoring
+STU1758,Sai Sharma,Computer Applications,2,76.2,73.0,76.7,62.4,49.6,19.2,95.0,66.5,72.1,First Class,Good Standing
+STU1759,Aditi Sharma,Computer Applications,2,79.2,58.5,86.1,59.4,70.5,13.7,98.6,81.5,66.1,First Class,Good Standing
+STU1760,Surya Krishnan,Computer Applications,2,75.1,67.9,75.0,62.7,69.2,20.9,89.1,66.2,73.0,First Class,Good Standing
+STU1761,Vignesh Subramanian,Computer Applications,2,72.9,64.4,75.5,66.3,63.9,18.6,81.0,70.7,70.2,First Class,Good Standing
+STU1762,Naveen Murugan,Information Technology,3,78.0,63.0,68.7,64.3,60.5,16.9,85.4,63.9,69.5,First Class,Good Standing
+STU1763,Pranav Gopal,Artificial Intelligence & Data Science,6,75.4,50.1,63.6,39.7,67.0,14.2,82.5,63.8,63.7,First Class,Good Standing
+STU1764,Varun Subramanian,Computer Applications,2,81.7,83.9,79.9,80.3,61.1,22.3,93.3,71.0,81.4,Distinction,Good Standing
+STU1765,Nithya Balaji,Computer Science,2,85.5,74.6,90.3,54.8,70.2,14.8,77.7,58.0,73.4,First Class,Good Standing
+STU1766,Ananya Ramesh,Computer Applications,4,72.8,56.5,70.2,70.9,69.7,19.5,85.3,69.5,65.4,First Class,Good Standing
+STU1767,Harini Iyer,Information Technology,4,68.2,35.3,49.5,47.8,40.0,12.8,85.7,43.3,51.7,Pass / Average,Moderate Monitoring
+STU1768,Ananya Chopra,Artificial Intelligence & Data Science,2,83.8,64.2,74.3,72.9,75.8,17.0,87.4,64.4,77.0,First Class,Good Standing
+STU1769,Rohit Murugan,Computer Science,6,75.0,78.1,96.2,78.2,66.4,20.3,85.6,71.0,80.5,Distinction,Good Standing
+STU1770,Pranav Balaji,Software Engineering,2,83.1,99.0,97.8,81.6,87.5,21.6,97.3,95.6,99.5,Distinction,Good Standing
+STU1771,Ishaan Sharma,Information Technology,5,80.6,60.7,81.2,57.1,68.4,10.4,85.3,68.5,60.1,First Class,Good Standing
+STU1772,Naveen Chopra,Information Technology,4,85.9,69.8,93.9,66.7,69.9,18.5,91.7,74.4,74.6,First Class,Good Standing
+STU1773,Sneha Gopal,Computer Science,4,72.9,67.9,70.8,63.6,78.9,16.7,90.6,62.5,71.6,First Class,Good Standing
+STU1774,Rahul Sundaram,Artificial Intelligence & Data Science,4,81.7,86.5,80.0,75.2,79.4,19.7,94.9,70.9,85.6,Distinction,Good Standing
+STU1775,Swetha Balaji,Computer Applications,6,86.2,62.9,66.8,54.2,54.7,22.1,88.4,60.6,75.1,First Class,Good Standing
+STU1776,Ganesh Menon,Computer Science,5,64.9,63.6,68.0,63.3,44.9,10.0,72.2,56.0,58.1,Pass / Average,Moderate Monitoring
+STU1777,Harini Krishnan,Artificial Intelligence & Data Science,1,85.1,92.1,100.0,81.8,89.5,23.6,86.5,91.3,95.6,Distinction,Good Standing
+STU1778,Keerthana Menon,Artificial Intelligence & Data Science,2,81.2,96.6,93.0,89.7,86.0,21.0,100.0,91.3,94.9,Distinction,Good Standing
+STU1779,Rhea Kumar,Computer Science,5,71.2,85.6,93.7,81.5,76.9,19.5,89.5,65.7,78.7,First Class,Good Standing
+STU1780,Pooja Kumar,Information Technology,3,80.1,88.9,75.7,62.4,64.2,18.1,84.2,69.5,78.2,First Class,Good Standing
+STU1781,Naveen Patel,Computer Applications,3,72.4,54.1,67.1,53.0,56.6,7.0,71.7,49.9,49.6,Pass / Average,Moderate Monitoring
+STU1782,Sanjay Patel,Information Technology,3,73.1,57.4,51.7,48.6,53.5,13.9,83.0,67.8,58.3,Pass / Average,Moderate Monitoring
+STU1783,Madhav Natarajan,Computer Applications,6,73.3,61.1,70.8,52.0,46.6,15.4,65.3,54.8,64.7,First Class,Good Standing
+STU1784,Swetha Kumar,Computer Science,2,64.2,61.5,77.5,48.5,59.1,14.1,77.2,64.9,64.6,First Class,Good Standing
+STU1785,Rohit Gopal,Information Technology,4,48.8,32.7,52.5,37.2,40.0,8.6,60.8,43.3,36.9,Needs Support,High Academic Priority
+STU1786,Divya Sharma,Computer Science,1,94.7,74.2,61.7,63.4,72.7,11.2,86.8,86.9,74.3,First Class,Good Standing
+STU1787,Divya Natarajan,Software Engineering,4,85.6,70.2,73.8,52.2,65.0,17.5,90.8,84.5,69.2,First Class,Good Standing
+STU1788,Aarav Murugan,Artificial Intelligence & Data Science,4,75.7,87.5,87.3,66.2,83.9,21.2,80.6,73.8,81.0,Distinction,Good Standing
+STU1789,Arun Iyer,Computer Science,4,69.6,71.8,86.5,78.4,55.3,13.3,80.0,53.1,74.0,First Class,Good Standing
+STU1790,Aarav Patel,Information Technology,5,77.5,71.4,95.3,79.8,81.9,23.6,89.4,63.1,85.2,Distinction,Good Standing
+STU1791,Vikram Chopra,Computer Science,4,58.6,51.6,62.7,52.0,46.8,10.5,66.7,48.8,47.2,Pass / Average,Moderate Monitoring
+STU1792,Ananya Natarajan,Information Technology,5,84.4,63.3,68.0,47.9,59.9,10.4,93.6,61.5,65.5,First Class,Good Standing
+STU1793,Yamini Natarajan,Computer Science,2,76.3,84.9,83.3,71.3,74.9,21.8,90.4,63.8,82.0,Distinction,Good Standing
+STU1794,Harini Krishnan,Artificial Intelligence & Data Science,4,77.6,77.4,80.1,59.9,57.7,15.2,83.3,65.9,68.2,First Class,Good Standing
+STU1795,Sai Subramanian,Information Technology,1,93.8,89.6,100.0,90.2,88.7,26.4,99.2,93.6,99.5,Distinction,Good Standing
+STU1796,Kavya Natarajan,Computer Science,5,73.0,91.3,92.1,81.3,68.3,17.3,86.5,83.7,82.1,Distinction,Good Standing
+STU1797,Deepak Reddy,Computer Science,4,54.8,39.2,48.4,35.3,41.4,9.9,65.8,53.9,39.2,Needs Support,High Academic Priority
+STU1798,Sai Balaji,Computer Applications,2,81.2,81.5,89.0,61.7,75.2,16.4,75.0,68.0,82.4,Distinction,Good Standing
+STU1799,Sanjay Sundaram,Computer Applications,3,60.4,43.4,45.1,32.0,44.5,6.3,57.1,41.1,43.4,Needs Support,High Academic Priority
+STU1800,Sai Sundaram,Software Engineering,4,85.7,75.1,95.1,88.4,82.8,20.9,92.9,72.7,87.6,Distinction,Good Standing
+STU1801,Ishaan Kumar,Artificial Intelligence & Data Science,2,86.2,78.5,80.5,62.3,64.5,16.9,88.6,68.2,75.2,First Class,Good Standing
+STU1802,Madhav Ramachandran,Information Technology,3,59.5,67.0,60.2,58.2,56.7,11.6,68.1,53.4,61.8,First Class,Good Standing
+STU1803,Meera Venkatesh,Artificial Intelligence & Data Science,4,67.7,37.9,45.6,37.2,44.9,7.2,70.0,55.7,42.3,Needs Support,High Academic Priority
+STU1804,Deepak Reddy,Artificial Intelligence & Data Science,2,81.1,60.5,60.2,62.4,59.8,14.2,93.1,59.9,67.2,First Class,Good Standing
+STU1805,Keerthana Rao,Software Engineering,6,85.5,96.6,95.3,92.6,85.9,25.5,95.5,91.7,97.0,Distinction,Good Standing
+STU1806,Aarav Murugan,Information Technology,5,76.5,62.8,73.8,55.4,60.9,23.2,100.0,63.8,73.0,First Class,Good Standing
+STU1807,Keerthana Pillai,Artificial Intelligence & Data Science,6,80.3,70.6,77.2,76.3,77.1,20.2,82.1,66.3,74.9,First Class,Good Standing
+STU1808,Vignesh Rao,Information Technology,5,91.7,88.3,98.3,82.0,72.6,23.8,100.0,91.4,93.8,Distinction,Good Standing
+STU1809,Bhavya Natarajan,Software Engineering,5,77.5,86.4,80.5,89.5,71.3,19.0,80.1,78.9,88.0,Distinction,Good Standing
+STU1810,Keerthana Devi,Computer Science,2,92.2,72.8,87.4,64.0,78.9,16.8,91.5,80.0,82.3,Distinction,Good Standing
+STU1811,Sanjay Patel,Artificial Intelligence & Data Science,1,78.1,63.1,68.6,71.4,71.7,11.5,76.8,68.7,70.6,First Class,Good Standing
+STU1812,Rahul Sundaram,Artificial Intelligence & Data Science,3,67.2,64.9,74.2,60.2,58.0,22.0,89.8,56.8,68.3,First Class,Good Standing
+STU1813,Sai Subramanian,Artificial Intelligence & Data Science,2,67.2,50.3,60.8,36.6,44.5,14.3,77.7,41.3,52.5,Pass / Average,Moderate Monitoring
+STU1814,Rhea Sharma,Computer Science,6,74.5,60.2,58.9,67.1,63.2,12.2,64.9,61.1,60.3,First Class,Good Standing
+STU1815,Varun Rao,Artificial Intelligence & Data Science,2,69.3,66.6,80.4,67.2,68.1,22.3,82.3,66.5,68.5,First Class,Good Standing
+STU1816,Vignesh Menon,Computer Applications,3,76.6,84.4,83.7,69.3,73.9,12.1,83.1,73.4,80.2,Distinction,Good Standing
+STU1817,Vikram Kumar,Artificial Intelligence & Data Science,4,82.2,99.0,88.8,82.8,87.1,25.2,100.0,90.3,94.0,Distinction,Good Standing
+STU1818,Aditi Reddy,Computer Science,5,69.9,67.4,64.8,73.3,64.2,15.0,75.2,39.9,66.5,First Class,Good Standing
+STU1819,Rhea Chopra,Computer Science,5,76.5,77.1,76.1,63.0,68.2,18.1,89.1,70.8,74.2,First Class,Good Standing
+STU1820,Ishaan Gopal,Information Technology,5,85.1,80.9,86.4,82.4,60.8,17.3,98.3,77.1,80.8,Distinction,Good Standing
+STU1821,Keerthana Devi,Computer Applications,1,81.8,66.6,79.1,58.7,62.6,12.6,81.4,75.9,63.3,First Class,Good Standing
+STU1822,Keerthana Murugan,Artificial Intelligence & Data Science,6,74.7,91.0,100.0,78.2,81.9,22.9,83.7,73.0,81.4,Distinction,Good Standing
+STU1823,Divya Patel,Computer Science,6,85.7,57.9,76.3,65.4,57.1,17.4,92.4,61.3,71.1,First Class,Good Standing
+STU1824,Madhav Subramanian,Computer Science,4,75.3,75.0,72.7,60.4,60.6,15.8,79.1,68.4,74.5,First Class,Good Standing
+STU1825,Sai Reddy,Computer Applications,6,99.5,97.1,100.0,92.2,96.3,21.9,100.0,97.2,99.5,Distinction,Good Standing
+STU1826,Nithya Ramachandran,Computer Science,4,92.5,77.4,100.0,79.9,85.5,24.7,100.0,90.3,98.1,Distinction,Good Standing
+STU1827,Sai Sharma,Information Technology,2,65.4,56.3,65.2,58.7,50.5,11.9,71.7,39.7,63.2,First Class,Good Standing
+STU1828,Aarav Krishnan,Computer Applications,4,90.3,96.2,100.0,84.3,82.3,19.7,100.0,91.9,90.1,Distinction,Good Standing
+STU1829,Naveen Venkatesh,Computer Applications,5,75.4,82.2,87.6,87.0,73.4,17.4,96.5,87.3,83.6,Distinction,Good Standing
+STU1830,Vikram Menon,Computer Science,6,76.7,84.6,83.1,71.9,70.0,15.8,89.7,75.0,81.8,Distinction,Good Standing
+STU1831,Pranav Subramanian,Computer Science,2,81.1,75.8,78.2,77.6,66.6,19.3,89.9,67.6,81.5,Distinction,Good Standing
+STU1832,Vikram Murugan,Computer Science,3,66.7,76.3,57.1,42.2,60.1,12.8,77.3,66.8,62.7,First Class,Good Standing
+STU1833,Ananya Venkatesh,Information Technology,4,68.6,72.3,86.5,73.6,63.5,20.5,72.4,74.2,78.5,First Class,Good Standing
+STU1834,Sanjay Iyer,Computer Applications,6,72.2,67.1,66.7,49.2,56.4,8.3,79.4,49.1,58.1,Pass / Average,Moderate Monitoring
+STU1835,Pranav Murugan,Software Engineering,4,64.4,68.8,67.4,59.7,56.9,17.6,80.3,58.5,63.8,First Class,Good Standing
+STU1836,Pranav Kumar,Artificial Intelligence & Data Science,3,80.5,56.1,67.7,52.2,65.5,17.6,89.0,65.6,60.5,First Class,Good Standing
+STU1837,Vikram Menon,Computer Applications,3,69.0,79.9,74.3,62.1,57.2,17.9,79.1,60.4,74.9,First Class,Good Standing
+STU1838,Vikram Menon,Software Engineering,4,78.4,74.0,82.5,68.0,70.7,22.3,99.8,69.1,79.7,First Class,Good Standing
+STU1839,Keerthana Murugan,Information Technology,3,80.4,86.5,87.0,78.8,86.3,15.9,88.5,67.7,82.5,Distinction,Good Standing
+STU1840,Arun Balaji,Information Technology,1,92.3,81.1,100.0,80.7,87.5,20.3,91.3,97.6,91.2,Distinction,Good Standing
+STU1841,Ganesh Kumar,Information Technology,2,71.6,69.0,64.6,68.9,60.0,14.4,71.7,66.4,72.7,First Class,Good Standing
+STU1842,Ananya Balaji,Computer Applications,2,93.1,83.6,78.9,69.1,64.5,18.2,100.0,71.5,75.2,First Class,Good Standing
+STU1843,Surya Devi,Artificial Intelligence & Data Science,5,81.0,80.6,99.1,67.0,71.9,22.7,97.1,83.9,86.4,Distinction,Good Standing
+STU1844,Sanjay Gopal,Information Technology,1,76.6,61.4,66.4,54.0,48.3,12.1,81.0,53.5,62.7,First Class,Good Standing
+STU1845,Vikram Gopal,Artificial Intelligence & Data Science,4,69.8,59.6,70.6,44.6,45.6,13.6,87.2,46.7,64.8,First Class,Good Standing
+STU1846,Arun Murugan,Computer Applications,4,80.1,86.7,91.8,64.2,83.1,14.6,79.9,70.0,79.4,First Class,Good Standing
+STU1847,Harini Ramachandran,Software Engineering,4,83.5,93.0,88.6,85.6,76.5,12.8,82.7,73.8,81.4,Distinction,Good Standing
+STU1848,Bhavya Iyer,Software Engineering,5,92.1,93.6,100.0,75.4,96.5,24.7,100.0,80.8,98.4,Distinction,Good Standing
+STU1849,Deepak Natarajan,Computer Science,1,67.5,83.0,69.8,73.7,60.0,15.8,71.4,60.7,70.3,First Class,Good Standing
+STU1850,Aarav Sharma,Artificial Intelligence & Data Science,4,96.6,83.6,93.2,94.0,80.7,23.5,100.0,100.0,90.3,Distinction,Good Standing
+STU1851,Aditi Patel,Computer Science,6,77.0,76.2,86.6,71.6,69.0,16.9,90.0,78.3,79.7,First Class,Good Standing
+STU1852,Varun Chopra,Artificial Intelligence & Data Science,5,78.9,66.1,70.5,55.9,72.8,14.1,72.8,58.3,63.3,First Class,Good Standing
+STU1853,Ganesh Chopra,Computer Science,3,76.1,60.4,76.6,59.3,63.4,16.7,93.7,83.0,68.0,First Class,Good Standing
+STU1854,Pranav Venkatesh,Computer Applications,1,91.8,96.4,92.3,76.3,93.4,18.7,86.8,84.7,86.4,Distinction,Good Standing
+STU1855,Vignesh Venkatesh,Information Technology,3,75.4,67.5,72.0,56.9,62.2,21.8,93.1,54.8,75.5,First Class,Good Standing
+STU1856,Rahul Pillai,Artificial Intelligence & Data Science,4,80.7,87.5,91.8,74.5,73.2,21.2,96.9,79.6,82.3,Distinction,Good Standing
+STU1857,Varun Krishnan,Information Technology,4,71.5,82.6,81.9,66.7,79.9,19.7,83.7,74.1,74.3,First Class,Good Standing
+STU1858,Varun Ramesh,Computer Applications,6,72.4,68.6,78.6,68.7,70.5,19.3,84.8,57.1,68.4,First Class,Good Standing
+STU1859,Divya Chopra,Information Technology,3,81.2,76.7,75.7,59.5,73.7,17.5,84.5,77.9,74.9,First Class,Good Standing
+STU1860,Naveen Pillai,Computer Applications,3,80.5,77.4,78.3,80.4,68.2,16.2,100.0,66.2,71.8,First Class,Good Standing
+STU1861,Pranav Venkatesh,Software Engineering,6,75.0,99.0,100.0,74.7,90.3,19.5,89.7,92.2,91.1,Distinction,Good Standing
+STU1862,Meera Ramesh,Software Engineering,5,56.7,52.2,68.4,55.4,54.1,9.6,61.7,50.4,42.5,Needs Support,High Academic Priority
+STU1863,Aarav Patel,Artificial Intelligence & Data Science,3,81.3,56.6,69.7,52.1,40.3,16.1,80.4,53.1,60.3,First Class,Good Standing
+STU1864,Pooja Devi,Computer Science,1,80.5,85.0,94.9,79.3,71.9,22.3,80.8,71.3,86.6,Distinction,Good Standing
+STU1865,Vikram Gopal,Information Technology,2,80.1,63.4,81.2,68.1,69.2,15.0,78.4,73.9,64.2,First Class,Good Standing
+STU1866,Pooja Reddy,Software Engineering,1,82.8,79.3,76.6,47.8,74.8,18.3,84.6,61.6,74.4,First Class,Good Standing
+STU1867,Sai Iyer,Software Engineering,4,70.2,84.9,86.9,76.7,76.8,20.4,89.7,87.6,85.2,Distinction,Good Standing
+STU1868,Harini Rao,Information Technology,3,60.8,63.5,62.8,70.4,64.8,16.5,76.0,46.3,62.4,First Class,Good Standing
+STU1869,Naveen Reddy,Information Technology,3,77.0,90.6,95.5,78.3,74.1,21.8,99.8,98.9,92.0,Distinction,Good Standing
+STU1870,Aditi Patel,Computer Science,3,66.7,62.3,69.8,58.6,57.8,18.5,89.5,67.2,61.8,First Class,Good Standing
+STU1871,Bhavya Gopal,Computer Science,3,83.3,72.9,82.0,64.0,74.6,17.5,95.4,75.8,73.9,First Class,Good Standing
+STU1872,Aarav Venkatesh,Information Technology,3,80.7,98.9,96.4,70.8,75.4,20.3,100.0,94.9,91.0,Distinction,Good Standing
+STU1873,Aarav Pillai,Information Technology,6,77.6,70.2,84.8,74.2,60.8,22.7,95.8,76.9,82.0,Distinction,Good Standing
+STU1874,Varun Kumar,Information Technology,3,73.4,81.5,73.5,78.2,65.4,15.6,80.7,60.4,76.9,First Class,Good Standing
+STU1875,Vignesh Devi,Information Technology,5,73.9,63.0,73.1,58.7,67.4,19.0,84.5,60.6,66.8,First Class,Good Standing
+STU1876,Nithya Krishnan,Information Technology,2,87.0,89.1,91.1,82.7,81.9,17.4,100.0,100.0,89.7,Distinction,Good Standing
+STU1877,Aarav Murugan,Computer Applications,5,87.5,90.1,94.8,75.0,81.0,21.9,97.3,85.1,97.0,Distinction,Good Standing
+STU1878,Nithya Rao,Computer Science,6,85.7,62.0,66.8,58.2,49.4,17.2,79.3,73.0,64.8,First Class,Good Standing
+STU1879,Bhavya Murugan,Computer Applications,4,88.5,98.0,91.2,84.6,71.1,23.1,91.2,78.8,95.8,Distinction,Good Standing
+STU1880,Rohit Devi,Computer Science,6,62.9,70.7,62.1,59.8,53.3,10.0,76.3,56.6,57.8,Pass / Average,Moderate Monitoring
+STU1881,Harini Murugan,Software Engineering,4,83.3,93.6,89.7,63.5,72.8,21.0,96.9,84.2,85.0,Distinction,Good Standing
+STU1882,Bhavya Ramachandran,Computer Applications,6,81.9,78.4,89.7,76.8,66.9,17.2,94.2,79.1,79.8,First Class,Good Standing
+STU1883,Nithya Gopal,Computer Applications,3,84.5,84.3,90.8,63.0,74.5,24.9,100.0,70.3,89.5,Distinction,Good Standing
+STU1884,Aditi Rao,Computer Applications,4,74.2,76.8,85.1,79.6,76.5,17.7,91.2,65.6,77.7,First Class,Good Standing
+STU1885,Nithya Kumar,Computer Applications,1,72.6,76.1,63.4,78.1,77.9,15.7,78.3,71.2,76.5,First Class,Good Standing
+STU1886,Aarav Murugan,Software Engineering,4,92.9,95.3,100.0,89.7,75.7,25.5,95.7,80.8,93.8,Distinction,Good Standing
+STU1887,Rohit Gopal,Information Technology,4,85.0,82.7,90.5,69.2,72.2,22.0,91.6,77.5,83.2,Distinction,Good Standing
+STU1888,Arun Natarajan,Information Technology,3,84.4,99.0,82.4,83.8,97.6,19.7,94.3,92.5,89.8,Distinction,Good Standing
+STU1889,Ishaan Patel,Computer Science,4,94.0,72.2,86.6,79.0,70.2,19.4,100.0,100.0,76.2,First Class,Good Standing
+STU1890,Meera Menon,Computer Applications,4,53.5,37.7,38.4,32.0,40.0,2.5,44.0,42.5,33.8,Needs Support,High Academic Priority
+STU1891,Harini Balaji,Software Engineering,1,75.9,91.1,100.0,79.0,88.5,18.3,95.9,87.0,90.1,Distinction,Good Standing
+STU1892,Rhea Venkatesh,Artificial Intelligence & Data Science,6,71.7,63.0,77.6,68.2,69.1,17.4,82.6,70.8,67.6,First Class,Good Standing
+STU1893,Rhea Pillai,Computer Applications,3,63.3,69.6,64.5,46.7,56.9,22.0,85.7,62.0,72.5,First Class,Good Standing
+STU1894,Divya Gopal,Software Engineering,3,88.0,87.7,93.6,82.8,92.6,24.5,100.0,100.0,92.8,Distinction,Good Standing
+STU1895,Sanjay Natarajan,Information Technology,2,80.2,73.6,76.9,64.2,62.7,22.9,94.4,64.8,82.8,Distinction,Good Standing
+STU1896,Bhavya Patel,Software Engineering,4,84.8,77.6,78.7,89.5,73.0,24.6,98.4,71.8,84.0,Distinction,Good Standing
+STU1897,Nithya Subramanian,Software Engineering,6,79.8,98.5,91.8,75.6,62.4,25.2,97.6,78.2,88.9,Distinction,Good Standing
+STU1898,Ishaan Pillai,Computer Applications,5,92.1,99.0,90.0,75.7,88.8,26.2,100.0,77.0,94.9,Distinction,Good Standing
+STU1899,Sneha Sharma,Software Engineering,6,83.3,66.4,69.6,53.8,60.8,13.9,71.6,67.5,67.4,First Class,Good Standing
+STU1900,Sneha Venkatesh,Software Engineering,2,69.1,65.2,73.5,41.6,47.2,20.3,100.0,63.5,67.9,First Class,Good Standing
+STU1901,Sanjay Reddy,Software Engineering,2,64.2,72.5,70.4,58.7,58.7,8.7,76.8,70.5,63.4,First Class,Good Standing
+STU1902,Sanjay Balaji,Computer Applications,5,95.4,99.0,88.5,69.3,93.0,26.1,100.0,99.1,94.2,Distinction,Good Standing
+STU1903,Ishaan Krishnan,Information Technology,5,73.6,72.3,72.4,55.7,67.9,20.8,92.8,46.9,75.9,First Class,Good Standing
+STU1904,Ananya Sharma,Computer Applications,2,88.2,83.8,93.1,67.2,74.5,17.6,99.3,84.2,80.6,Distinction,Good Standing
+STU1905,Madhav Rao,Computer Science,2,56.1,30.4,36.5,33.6,40.0,7.5,53.1,37.0,38.9,Needs Support,High Academic Priority
+STU1906,Arun Devi,Computer Applications,1,80.0,72.8,75.8,73.6,79.0,13.4,87.7,61.9,73.7,First Class,Good Standing
+STU1907,Rahul Gopal,Information Technology,4,82.4,86.9,85.5,75.2,75.8,23.5,77.7,77.8,83.9,Distinction,Good Standing
+STU1908,Sai Murugan,Computer Science,4,91.5,79.7,86.4,66.4,70.6,23.0,99.8,84.0,83.3,Distinction,Good Standing
+STU1909,Yamini Menon,Artificial Intelligence & Data Science,3,69.3,61.0,64.7,49.6,53.4,12.3,61.1,46.6,56.4,Pass / Average,Moderate Monitoring
+STU1910,Nithya Rao,Computer Science,4,95.3,99.0,100.0,86.6,84.9,25.2,96.5,84.2,98.6,Distinction,Good Standing
+STU1911,Rahul Pillai,Computer Applications,4,76.8,86.7,90.9,76.5,70.4,19.5,88.7,80.0,80.9,Distinction,Good Standing
+STU1912,Swetha Iyer,Information Technology,5,77.4,48.3,61.8,66.9,53.5,3.0,58.2,65.7,53.0,Pass / Average,Moderate Monitoring
+STU1913,Ganesh Rao,Software Engineering,5,99.5,73.0,73.7,63.1,72.2,14.9,97.8,75.3,73.3,First Class,Good Standing
+STU1914,Vignesh Reddy,Software Engineering,1,70.3,67.6,83.3,49.0,48.4,21.6,83.2,77.3,66.3,First Class,Good Standing
+STU1915,Sanjay Sharma,Software Engineering,3,52.2,39.5,54.1,45.7,48.5,12.0,66.5,48.8,40.1,Needs Support,High Academic Priority
+STU1916,Kavya Chopra,Computer Applications,3,73.6,49.8,48.9,55.8,55.0,7.1,79.5,65.0,55.2,Pass / Average,Moderate Monitoring
+STU1917,Pooja Sundaram,Computer Applications,6,66.1,54.1,58.3,53.2,47.2,6.3,65.3,38.2,54.1,Pass / Average,Moderate Monitoring
+STU1918,Surya Rao,Computer Applications,1,79.2,90.6,100.0,83.4,80.1,32.2,100.0,65.0,99.0,Distinction,Good Standing
+STU1919,Naveen Devi,Computer Applications,6,76.2,73.3,73.7,61.0,67.0,19.8,83.9,57.9,75.1,First Class,Good Standing
+STU1920,Surya Rao,Software Engineering,3,82.9,99.0,96.5,87.3,86.8,21.4,94.1,92.1,97.2,Distinction,Good Standing
+STU1921,Kavya Subramanian,Computer Science,1,78.9,78.8,78.4,55.6,76.2,19.1,82.9,100.0,77.5,First Class,Good Standing
+STU1922,Vignesh Kumar,Computer Applications,4,78.9,63.3,73.6,57.2,55.9,12.3,73.5,60.1,62.9,First Class,Good Standing
+STU1923,Naveen Venkatesh,Information Technology,3,99.5,98.6,100.0,93.1,98.2,26.9,100.0,88.7,98.8,Distinction,Good Standing
+STU1924,Sai Gopal,Computer Science,3,66.9,76.3,76.9,60.2,78.5,21.0,91.4,58.5,74.7,First Class,Good Standing
+STU1925,Nithya Gopal,Software Engineering,4,69.9,55.8,59.4,51.4,54.7,6.6,66.1,58.8,52.8,Pass / Average,Moderate Monitoring
+STU1926,Rohit Krishnan,Computer Science,1,88.6,89.0,95.7,67.4,80.8,19.9,100.0,81.4,82.2,Distinction,Good Standing
+STU1927,Sneha Ramachandran,Computer Applications,2,62.6,59.8,66.3,55.4,58.6,8.0,67.3,69.0,58.2,Pass / Average,Moderate Monitoring
+STU1928,Vignesh Devi,Software Engineering,6,72.1,57.3,68.7,63.7,67.0,9.1,72.2,70.3,54.1,Pass / Average,Moderate Monitoring
+STU1929,Yamini Pillai,Computer Science,1,72.6,44.6,67.6,36.5,43.3,16.7,84.2,52.2,55.6,Pass / Average,Moderate Monitoring
+STU1930,Vignesh Reddy,Computer Science,4,90.9,89.5,86.7,82.1,78.8,22.8,100.0,67.4,91.8,Distinction,Good Standing
+STU1931,Naveen Pillai,Software Engineering,3,71.8,76.9,93.7,60.9,76.5,22.4,90.8,65.2,82.1,Distinction,Good Standing
+STU1932,Nithya Krishnan,Computer Applications,3,84.7,90.7,86.1,84.3,78.2,20.7,93.9,78.0,90.5,Distinction,Good Standing
+STU1933,Aarav Kumar,Information Technology,5,81.9,66.4,63.4,50.5,57.7,11.3,86.6,58.3,61.5,First Class,Good Standing
+STU1934,Divya Venkatesh,Information Technology,6,64.7,81.7,68.0,56.0,76.7,13.0,69.9,78.4,69.5,First Class,Good Standing
+STU1935,Deepak Kumar,Artificial Intelligence & Data Science,5,89.9,99.0,100.0,99.3,94.7,26.9,95.1,100.0,99.5,Distinction,Good Standing
+STU1936,Surya Murugan,Information Technology,4,71.2,56.0,58.5,54.6,57.2,14.2,89.7,44.8,57.6,Pass / Average,Moderate Monitoring
+STU1937,Nithya Murugan,Information Technology,2,76.7,76.5,89.4,66.7,54.5,22.6,92.2,78.2,81.4,Distinction,Good Standing
+STU1938,Bhavya Iyer,Computer Science,6,74.7,73.1,74.9,75.9,69.2,15.8,63.0,67.2,75.4,First Class,Good Standing
+STU1939,Vignesh Ramesh,Computer Science,3,73.0,51.1,64.5,47.4,52.9,20.3,93.6,68.3,59.6,Pass / Average,Moderate Monitoring
+STU1940,Sanjay Kumar,Software Engineering,2,75.2,74.7,68.3,66.3,66.4,18.0,96.8,62.9,73.8,First Class,Good Standing
+STU1941,Sai Gopal,Software Engineering,1,69.0,78.0,74.6,65.5,66.9,18.2,87.1,62.4,75.2,First Class,Good Standing
+STU1942,Swetha Pillai,Artificial Intelligence & Data Science,6,84.4,98.8,100.0,87.3,81.5,21.6,98.1,99.6,97.2,Distinction,Good Standing
+STU1943,Naveen Menon,Software Engineering,2,84.3,95.2,85.5,83.8,90.6,18.9,91.0,77.9,93.7,Distinction,Good Standing
+STU1944,Ganesh Rao,Artificial Intelligence & Data Science,3,78.1,81.0,94.4,82.4,81.2,26.7,100.0,81.5,90.3,Distinction,Good Standing
+STU1945,Divya Rao,Software Engineering,1,70.1,47.8,54.9,51.0,42.5,11.9,87.1,42.3,50.1,Pass / Average,Moderate Monitoring
+STU1946,Arun Pillai,Information Technology,6,69.2,52.9,66.9,55.6,68.2,13.8,77.3,58.4,61.6,First Class,Good Standing
+STU1947,Arun Sundaram,Computer Applications,4,58.2,47.7,56.4,43.1,45.1,12.3,73.5,42.9,50.6,Pass / Average,Moderate Monitoring
+STU1948,Pooja Devi,Artificial Intelligence & Data Science,3,76.9,91.4,83.0,68.3,78.1,27.0,92.9,99.9,92.7,Distinction,Good Standing
+STU1949,Swetha Reddy,Information Technology,6,84.6,73.8,81.4,90.5,80.1,20.3,96.6,63.8,81.1,Distinction,Good Standing
+STU1950,Yamini Krishnan,Artificial Intelligence & Data Science,3,75.1,99.0,100.0,92.9,95.4,25.3,91.6,70.3,97.1,Distinction,Good Standing
+STU1951,Kavya Devi,Computer Science,6,87.7,92.1,93.1,65.8,74.6,23.5,98.2,75.7,82.3,Distinction,Good Standing
+STU1952,Sai Kumar,Software Engineering,5,90.9,81.8,98.0,91.8,91.0,21.1,95.9,76.6,95.6,Distinction,Good Standing
+STU1953,Keerthana Murugan,Information Technology,2,81.1,91.9,94.6,86.7,88.1,22.9,84.9,73.0,90.4,Distinction,Good Standing
+STU1954,Aarav Rao,Computer Applications,6,79.0,71.6,78.5,53.7,70.8,16.2,83.6,50.8,71.4,First Class,Good Standing
+STU1955,Ishaan Krishnan,Information Technology,3,88.8,75.3,67.0,67.7,74.7,19.2,100.0,73.9,76.8,First Class,Good Standing
+STU1956,Pooja Murugan,Artificial Intelligence & Data Science,2,89.4,64.7,82.3,64.9,58.4,16.2,100.0,77.7,71.0,First Class,Good Standing
+STU1957,Aditi Sundaram,Information Technology,1,66.8,70.0,61.7,55.6,63.6,14.8,78.0,58.5,64.4,First Class,Good Standing
+STU1958,Bhavya Pillai,Computer Science,3,67.9,56.4,65.5,40.5,53.2,12.7,83.3,64.8,53.1,Pass / Average,Moderate Monitoring
+STU1959,Sai Patel,Computer Applications,2,88.4,99.0,100.0,99.7,87.5,26.4,92.8,93.1,99.5,Distinction,Good Standing
+STU1960,Aditi Menon,Computer Applications,3,86.5,73.8,75.2,65.1,68.7,17.4,84.3,70.5,70.8,First Class,Good Standing
+STU1961,Yamini Menon,Software Engineering,4,74.4,81.7,85.0,81.8,75.5,20.6,95.4,97.1,84.6,Distinction,Good Standing
+STU1962,Sneha Menon,Artificial Intelligence & Data Science,1,76.8,60.1,82.9,62.0,59.7,14.2,95.0,53.3,62.4,First Class,Good Standing
+STU1963,Sanjay Iyer,Artificial Intelligence & Data Science,3,71.1,66.5,79.0,74.8,73.5,12.5,77.1,64.3,70.4,First Class,Good Standing
+STU1964,Bhavya Patel,Software Engineering,4,59.9,65.7,63.1,60.8,60.7,12.0,60.6,65.9,59.0,Pass / Average,Moderate Monitoring
+STU1965,Surya Balaji,Artificial Intelligence & Data Science,2,70.0,99.0,97.4,98.7,98.4,27.1,91.5,86.9,99.5,Distinction,Good Standing
+STU1966,Surya Sharma,Artificial Intelligence & Data Science,6,87.4,76.1,77.7,67.0,70.9,17.9,88.3,79.9,79.7,First Class,Good Standing
+STU1967,Harini Patel,Computer Science,6,77.4,63.6,74.0,59.0,54.0,11.8,74.0,72.1,58.0,Pass / Average,Moderate Monitoring
+STU1968,Naveen Gopal,Artificial Intelligence & Data Science,6,87.2,85.9,92.8,71.9,86.6,20.2,93.8,91.8,83.9,Distinction,Good Standing
+STU1969,Madhav Sundaram,Artificial Intelligence & Data Science,4,90.1,79.4,90.0,87.5,79.4,16.6,90.2,67.4,81.9,Distinction,Good Standing
+STU1970,Sai Kumar,Software Engineering,5,71.3,37.6,51.7,36.6,40.5,5.0,65.5,54.4,38.8,Needs Support,High Academic Priority
+STU1971,Vikram Kumar,Computer Applications,3,92.0,99.0,96.4,91.7,89.2,23.9,100.0,98.2,97.9,Distinction,Good Standing
+STU1972,Vikram Devi,Artificial Intelligence & Data Science,4,78.4,51.1,50.5,40.2,40.0,11.1,83.8,59.8,49.1,Pass / Average,Moderate Monitoring
+STU1973,Surya Venkatesh,Computer Science,5,70.6,72.4,78.8,81.1,72.6,12.0,81.9,81.6,75.3,First Class,Good Standing
+STU1974,Ananya Gopal,Computer Science,3,66.8,49.7,54.2,42.6,48.7,7.4,83.8,57.2,49.5,Pass / Average,Moderate Monitoring
+STU1975,Ishaan Sharma,Computer Science,2,65.0,85.9,100.0,74.3,85.2,27.2,85.0,76.8,84.6,Distinction,Good Standing
+STU1976,Ganesh Balaji,Information Technology,5,72.7,86.6,84.4,78.7,86.0,17.7,77.7,78.4,83.7,Distinction,Good Standing
+STU1977,Nithya Pillai,Computer Applications,6,79.3,84.0,100.0,63.6,70.9,22.1,91.1,60.7,85.6,Distinction,Good Standing
+STU1978,Varun Murugan,Computer Science,3,84.5,95.1,88.4,67.8,77.5,26.5,94.4,90.3,88.2,Distinction,Good Standing
+STU1979,Aarav Murugan,Artificial Intelligence & Data Science,4,66.8,74.0,67.1,53.0,59.9,15.2,92.9,69.1,64.6,First Class,Good Standing
+STU1980,Varun Sharma,Software Engineering,1,75.7,78.0,78.0,54.2,61.3,18.4,86.9,64.6,71.5,First Class,Good Standing
+STU1981,Keerthana Subramanian,Software Engineering,5,76.2,63.1,77.3,61.8,66.9,16.2,87.7,64.1,67.0,First Class,Good Standing
+STU1982,Vikram Krishnan,Software Engineering,2,80.1,73.2,75.9,70.1,57.1,19.9,97.1,71.9,78.1,First Class,Good Standing
+STU1983,Ishaan Menon,Information Technology,6,68.4,50.9,51.0,55.3,64.2,6.7,55.0,50.9,57.3,Pass / Average,Moderate Monitoring
+STU1984,Madhav Pillai,Computer Science,5,67.4,59.3,87.3,53.9,51.2,23.3,91.2,64.4,68.0,First Class,Good Standing
+STU1985,Yamini Murugan,Computer Science,5,62.6,73.0,67.7,60.1,58.0,20.2,85.6,55.7,70.9,First Class,Good Standing
+STU1986,Ganesh Murugan,Computer Science,5,75.3,72.6,82.3,59.5,77.7,22.6,90.8,71.9,78.5,First Class,Good Standing
+STU1987,Bhavya Venkatesh,Information Technology,3,81.8,76.4,83.2,61.8,68.7,15.9,97.9,64.7,73.5,First Class,Good Standing
+STU1988,Aarav Murugan,Computer Science,5,70.9,41.2,44.2,32.6,46.7,9.4,73.7,49.1,48.1,Pass / Average,Moderate Monitoring
+STU1989,Ishaan Krishnan,Computer Applications,2,77.0,65.5,72.5,64.8,70.3,11.7,71.8,81.5,67.0,First Class,Good Standing
+STU1990,Meera Chopra,Information Technology,6,63.8,88.1,95.8,73.2,88.8,17.8,93.0,83.9,81.9,Distinction,Good Standing
+STU1991,Aditi Gopal,Computer Applications,2,87.7,69.5,74.6,72.4,71.5,17.5,100.0,79.5,82.1,Distinction,Good Standing
+STU1992,Rohit Chopra,Computer Science,6,62.6,80.4,60.8,67.4,53.2,18.6,78.7,78.0,69.1,First Class,Good Standing
+STU1993,Nithya Devi,Artificial Intelligence & Data Science,4,78.6,61.6,83.2,62.9,63.8,12.6,79.4,63.6,72.7,First Class,Good Standing
+STU1994,Nithya Krishnan,Computer Science,2,97.6,73.4,89.9,73.3,88.8,11.6,91.8,86.7,82.2,Distinction,Good Standing
+STU1995,Kavya Chopra,Computer Applications,1,80.4,59.8,77.8,61.5,53.0,7.0,84.2,68.8,59.6,Pass / Average,Moderate Monitoring
+STU1996,Divya Murugan,Computer Applications,3,70.2,97.6,92.8,74.2,90.6,18.6,86.6,85.7,88.8,Distinction,Good Standing
+STU1997,Madhav Balaji,Computer Science,4,92.2,97.5,85.3,73.2,76.9,23.1,100.0,84.6,91.8,Distinction,Good Standing
+STU1998,Rohit Rao,Information Technology,1,81.5,75.6,87.2,59.4,65.0,19.6,92.6,61.3,76.0,First Class,Good Standing
+STU1999,Ishaan Ramesh,Computer Applications,3,71.0,74.5,68.8,65.0,74.9,14.3,63.2,51.8,67.8,First Class,Good Standing
+STU2000,Pranav Ramesh,Artificial Intelligence & Data Science,3,85.3,64.4,76.9,64.1,75.3,12.3,94.3,72.1,71.2,First Class,Good Standing
+STU2001,Nithya Krishnan,Computer Applications,2,85.0,78.6,83.8,76.6,81.7,18.8,81.1,79.4,77.7,First Class,Good Standing
+STU2002,Meera Natarajan,Artificial Intelligence & Data Science,3,75.2,71.4,74.9,70.6,71.3,16.8,85.9,61.3,73.5,First Class,Good Standing
+STU2003,Aditi Murugan,Computer Science,3,66.0,65.2,65.5,39.8,61.2,18.5,84.6,61.1,63.8,First Class,Good Standing
+STU2004,Vikram Balaji,Computer Applications,5,79.2,56.4,68.2,48.3,62.1,16.6,80.9,71.0,64.7,First Class,Good Standing
+STU2005,Madhav Patel,Software Engineering,6,88.2,81.9,87.7,86.3,76.8,24.4,93.2,84.3,91.8,Distinction,Good Standing
+STU2006,Sneha Krishnan,Artificial Intelligence & Data Science,2,74.4,75.2,75.6,73.4,57.3,16.4,85.3,76.5,72.8,First Class,Good Standing
+STU2007,Varun Rao,Software Engineering,2,80.6,99.0,90.0,85.9,87.1,21.2,100.0,80.8,93.5,Distinction,Good Standing
+STU2008,Arun Ramesh,Computer Applications,1,70.8,74.1,82.2,68.7,59.7,17.9,91.4,77.9,72.4,First Class,Good Standing
+STU2009,Keerthana Ramachandran,Information Technology,2,68.3,48.4,43.2,43.5,40.0,10.2,57.9,52.6,47.8,Pass / Average,Moderate Monitoring
+STU2010,Bhavya Natarajan,Artificial Intelligence & Data Science,5,52.9,66.4,52.3,43.7,56.9,12.7,66.7,55.6,51.0,Pass / Average,Moderate Monitoring
+STU2011,Divya Sundaram,Software Engineering,2,72.8,72.5,63.0,66.0,70.3,16.9,88.2,63.7,66.4,First Class,Good Standing
+STU2012,Vikram Natarajan,Artificial Intelligence & Data Science,2,71.1,73.2,71.7,59.3,60.4,19.0,83.0,63.6,68.6,First Class,Good Standing
+STU2013,Rhea Pillai,Information Technology,5,58.0,49.5,41.2,51.7,46.7,9.3,58.1,59.0,47.3,Pass / Average,Moderate Monitoring
+STU2014,Divya Iyer,Software Engineering,3,75.5,77.7,55.1,55.3,59.4,12.1,75.1,60.8,69.7,First Class,Good Standing
+STU2015,Yamini Sharma,Artificial Intelligence & Data Science,5,60.3,45.2,70.6,53.7,58.2,9.5,64.5,53.1,54.9,Pass / Average,Moderate Monitoring
+STU2016,Bhavya Devi,Computer Science,4,87.6,97.9,93.6,72.1,66.0,27.1,100.0,82.2,91.9,Distinction,Good Standing
+STU2017,Sanjay Balaji,Computer Science,4,75.5,73.5,82.4,50.2,71.1,19.4,91.5,73.4,71.4,First Class,Good Standing
+STU2018,Swetha Reddy,Computer Science,4,87.7,98.9,100.0,94.3,84.7,23.3,100.0,96.2,98.4,Distinction,Good Standing
+STU2019,Sai Ramesh,Software Engineering,5,65.6,38.1,48.9,37.3,46.6,12.9,81.4,52.3,48.5,Pass / Average,Moderate Monitoring
+STU2020,Varun Kumar,Software Engineering,4,77.8,93.0,71.7,77.2,82.1,18.4,90.0,82.7,79.1,First Class,Good Standing
+STU2021,Rahul Patel,Computer Applications,1,87.6,78.2,100.0,72.4,65.4,21.3,100.0,75.0,83.4,Distinction,Good Standing
+STU2022,Pranav Subramanian,Artificial Intelligence & Data Science,4,86.4,65.0,78.2,66.5,61.5,21.8,89.6,83.3,83.0,Distinction,Good Standing
+STU2023,Yamini Ramachandran,Computer Science,2,74.7,71.4,79.3,49.9,59.2,21.6,91.5,58.8,79.7,First Class,Good Standing
+STU2024,Rhea Devi,Artificial Intelligence & Data Science,3,74.1,52.0,51.4,79.4,59.1,10.4,82.4,56.1,65.2,First Class,Good Standing
+STU2025,Madhav Ramesh,Information Technology,4,61.9,56.4,55.3,52.7,60.4,13.1,76.1,50.8,50.8,Pass / Average,Moderate Monitoring
+STU2026,Naveen Ramachandran,Information Technology,5,85.1,65.8,55.9,38.8,64.0,18.9,90.0,59.8,63.4,First Class,Good Standing
+STU2027,Sneha Reddy,Software Engineering,4,75.8,55.9,60.7,62.8,45.0,17.6,81.0,53.9,59.8,Pass / Average,Moderate Monitoring
+STU2028,Aarav Subramanian,Information Technology,5,81.7,93.5,100.0,85.5,83.8,25.4,100.0,79.4,98.8,Distinction,Good Standing
+STU2029,Aditi Ramachandran,Information Technology,4,95.3,89.2,90.0,79.4,78.4,27.8,100.0,74.4,95.4,Distinction,Good Standing
+STU2030,Sai Devi,Computer Science,2,63.5,60.3,75.1,51.5,40.0,14.6,73.6,43.5,58.4,Pass / Average,Moderate Monitoring
+STU2031,Deepak Pillai,Artificial Intelligence & Data Science,5,63.2,47.6,56.6,56.6,48.7,7.6,60.1,40.8,51.6,Pass / Average,Moderate Monitoring
+STU2032,Swetha Krishnan,Information Technology,5,69.4,70.5,83.4,53.2,65.9,15.7,90.8,85.0,68.0,First Class,Good Standing
+STU2033,Pranav Menon,Software Engineering,6,84.9,68.2,77.2,64.5,59.5,16.5,86.5,66.2,72.2,First Class,Good Standing
+STU2034,Ganesh Natarajan,Information Technology,5,80.8,77.0,82.9,81.9,78.3,12.2,83.6,94.9,82.3,Distinction,Good Standing
+STU2035,Naveen Sharma,Computer Applications,5,65.4,56.6,54.9,45.8,50.2,11.8,78.1,44.6,52.4,Pass / Average,Moderate Monitoring
+STU2036,Kavya Gopal,Computer Applications,4,81.1,81.4,100.0,80.3,79.0,16.8,91.1,77.5,86.5,Distinction,Good Standing
+STU2037,Nithya Rao,Computer Science,2,84.4,81.2,85.6,85.5,79.0,21.2,100.0,83.6,90.9,Distinction,Good Standing
+STU2038,Sai Krishnan,Information Technology,3,68.9,45.0,34.8,32.0,43.4,12.5,77.5,46.4,45.3,Pass / Average,Moderate Monitoring
+STU2039,Vikram Balaji,Computer Science,3,68.4,79.5,82.3,80.9,69.3,17.9,77.4,71.1,79.6,First Class,Good Standing
+STU2040,Kavya Ramesh,Computer Applications,1,73.7,93.5,89.4,86.2,74.2,24.2,93.6,86.9,89.6,Distinction,Good Standing
+STU2041,Meera Natarajan,Computer Applications,3,73.5,88.8,99.3,58.7,63.4,25.0,93.5,78.8,83.5,Distinction,Good Standing
+STU2042,Sanjay Reddy,Software Engineering,1,69.3,42.9,50.9,41.3,56.8,8.4,73.7,46.6,46.8,Pass / Average,Moderate Monitoring
+STU2043,Pranav Kumar,Artificial Intelligence & Data Science,4,90.4,86.2,73.6,62.3,75.9,18.1,90.3,75.9,84.6,Distinction,Good Standing
+STU2044,Harini Reddy,Computer Applications,1,94.4,88.0,100.0,85.0,78.6,21.7,100.0,85.2,94.0,Distinction,Good Standing
+STU2045,Vignesh Natarajan,Software Engineering,1,77.3,86.5,85.7,72.8,77.5,20.8,84.3,75.7,85.9,Distinction,Good Standing
+STU2046,Sanjay Patel,Software Engineering,4,71.5,45.4,53.9,55.7,57.8,15.7,99.5,64.4,61.2,First Class,Good Standing
+STU2047,Divya Ramachandran,Information Technology,3,71.9,75.1,55.8,69.1,56.8,17.2,80.0,62.4,67.1,First Class,Good Standing
+STU2048,Ishaan Gopal,Computer Applications,6,76.0,72.4,78.9,52.9,63.5,18.2,81.9,68.1,67.6,First Class,Good Standing
+STU2049,Divya Gopal,Information Technology,3,81.4,68.1,79.5,79.4,64.4,22.0,100.0,69.5,75.8,First Class,Good Standing
+STU2050,Ananya Venkatesh,Computer Science,1,81.1,91.2,87.5,85.0,80.0,16.5,84.0,79.6,89.7,Distinction,Good Standing
+STU2051,Sneha Balaji,Information Technology,3,95.1,99.0,94.9,94.1,72.0,26.9,100.0,86.4,98.2,Distinction,Good Standing
+STU2052,Surya Natarajan,Information Technology,1,73.1,67.6,83.4,63.9,64.0,11.4,85.5,65.9,74.2,First Class,Good Standing
+STU2053,Deepak Sundaram,Information Technology,3,66.6,67.0,59.3,68.7,54.8,8.6,73.8,52.0,66.2,First Class,Good Standing
+STU2054,Varun Reddy,Software Engineering,3,82.3,95.2,88.1,60.1,71.6,22.3,100.0,70.7,84.0,Distinction,Good Standing
+STU2055,Ananya Gopal,Information Technology,4,80.0,58.1,79.2,61.3,54.8,11.7,75.1,78.3,65.3,First Class,Good Standing
+STU2056,Rahul Balaji,Software Engineering,3,76.8,55.1,50.9,47.5,55.2,14.5,74.7,67.6,56.4,Pass / Average,Moderate Monitoring
+STU2057,Aarav Chopra,Software Engineering,3,85.6,75.0,58.4,62.3,69.5,23.0,96.3,76.0,77.1,First Class,Good Standing
+STU2058,Varun Ramesh,Information Technology,2,69.8,73.8,79.7,70.1,60.2,22.9,94.0,86.3,80.5,Distinction,Good Standing
+STU2059,Aditi Ramesh,Information Technology,4,87.9,94.4,76.0,74.7,87.6,13.5,88.6,85.5,83.6,Distinction,Good Standing
+STU2060,Kavya Devi,Information Technology,1,82.9,81.2,65.5,60.8,75.7,8.6,81.5,65.9,67.5,First Class,Good Standing
+STU2061,Varun Ramesh,Computer Science,2,64.9,76.6,75.5,72.8,65.1,10.8,59.2,49.2,69.3,First Class,Good Standing
+STU2062,Naveen Gopal,Computer Applications,3,70.0,58.5,71.4,74.1,58.3,17.5,72.7,71.0,70.3,First Class,Good Standing
+STU2063,Bhavya Subramanian,Computer Science,5,66.2,36.3,31.8,32.7,40.0,9.1,66.8,35.5,42.5,Needs Support,High Academic Priority
+STU2064,Naveen Chopra,Information Technology,3,76.4,81.2,78.5,66.7,67.9,17.6,85.2,73.8,74.2,First Class,Good Standing
+STU2065,Kavya Rao,Computer Applications,5,72.5,65.7,59.3,45.0,46.6,12.6,92.1,69.5,57.2,Pass / Average,Moderate Monitoring
+STU2066,Pranav Iyer,Information Technology,4,69.7,47.1,49.0,42.6,40.0,14.9,82.8,61.9,48.5,Pass / Average,Moderate Monitoring
+STU2067,Swetha Kumar,Information Technology,3,72.4,50.5,60.4,36.5,45.5,15.4,90.6,53.6,57.0,Pass / Average,Moderate Monitoring
+STU2068,Kavya Sundaram,Computer Science,4,86.5,99.0,93.2,88.6,98.5,20.8,100.0,98.0,99.5,Distinction,Good Standing
+STU2069,Keerthana Pillai,Computer Science,1,83.7,65.8,59.6,56.6,60.8,14.6,86.1,57.4,65.3,First Class,Good Standing
+STU2070,Ganesh Gopal,Information Technology,1,90.6,99.0,100.0,90.4,90.6,29.3,100.0,91.8,99.5,Distinction,Good Standing
+STU2071,Aditi Balaji,Information Technology,1,68.2,62.1,73.7,55.8,59.7,13.7,78.6,76.2,62.9,First Class,Good Standing
+STU2072,Surya Ramesh,Computer Science,6,59.2,63.2,60.6,70.3,56.1,18.4,68.1,54.3,65.7,First Class,Good Standing
+STU2073,Divya Rao,Software Engineering,1,71.3,66.2,78.7,65.4,68.4,21.9,77.3,72.7,74.8,First Class,Good Standing
+STU2074,Kavya Menon,Computer Applications,2,90.7,84.2,91.9,84.3,74.3,15.1,81.8,92.3,88.1,Distinction,Good Standing
+STU2075,Sanjay Subramanian,Artificial Intelligence & Data Science,5,56.3,56.3,63.4,56.7,52.0,12.3,71.1,57.6,52.9,Pass / Average,Moderate Monitoring
+STU2076,Pranav Venkatesh,Artificial Intelligence & Data Science,6,83.6,78.1,98.1,68.7,68.3,22.9,97.0,81.2,88.6,Distinction,Good Standing
+STU2077,Pooja Pillai,Software Engineering,5,53.3,52.4,38.4,43.7,40.0,7.3,60.1,43.2,40.2,Needs Support,High Academic Priority
+STU2078,Sanjay Gopal,Computer Science,6,87.3,79.5,96.4,78.0,85.9,23.6,100.0,78.9,91.1,Distinction,Good Standing
+STU2079,Bhavya Krishnan,Computer Applications,4,68.1,80.4,98.3,77.7,74.1,22.6,83.5,76.8,82.9,Distinction,Good Standing
+STU2080,Varun Pillai,Artificial Intelligence & Data Science,3,66.0,48.0,51.8,59.0,51.8,7.9,72.4,44.4,51.9,Pass / Average,Moderate Monitoring
+STU2081,Madhav Ramesh,Computer Science,2,78.4,82.3,75.4,88.0,73.5,22.4,100.0,77.4,86.5,Distinction,Good Standing
+STU2082,Ishaan Ramesh,Computer Science,2,92.0,63.4,86.6,65.5,63.7,21.1,100.0,83.1,74.6,First Class,Good Standing
+STU2083,Madhav Ramesh,Software Engineering,3,81.5,74.4,67.7,62.9,76.6,14.2,92.1,76.9,75.0,First Class,Good Standing
+STU2084,Pooja Chopra,Computer Applications,1,99.5,78.2,72.1,66.2,75.1,18.6,96.3,79.3,78.9,First Class,Good Standing
+STU2085,Harini Sharma,Information Technology,4,76.2,72.0,77.3,70.2,61.3,15.0,85.9,83.1,79.2,First Class,Good Standing
+STU2086,Vikram Reddy,Software Engineering,1,72.6,79.3,92.0,64.1,78.9,19.8,74.7,82.2,80.9,Distinction,Good Standing
+STU2087,Rhea Krishnan,Computer Science,3,83.2,74.4,79.1,60.3,65.4,17.7,83.1,73.0,76.0,First Class,Good Standing
+STU2088,Kavya Gopal,Software Engineering,4,56.2,75.4,72.1,53.0,58.7,14.9,68.2,62.1,60.5,First Class,Good Standing
+STU2089,Vikram Subramanian,Software Engineering,5,86.8,99.0,100.0,82.6,88.0,22.2,100.0,81.9,98.9,Distinction,Good Standing
+STU2090,Naveen Natarajan,Computer Science,4,81.5,67.4,69.5,49.3,64.5,15.9,92.6,82.3,64.9,First Class,Good Standing
+STU2091,Varun Ramachandran,Artificial Intelligence & Data Science,5,89.4,99.0,100.0,81.6,74.6,25.9,100.0,83.2,90.6,Distinction,Good Standing
+STU2092,Aarav Kumar,Artificial Intelligence & Data Science,4,72.6,72.4,86.1,61.2,81.0,23.4,96.5,68.2,79.3,First Class,Good Standing
+STU2093,Pranav Menon,Computer Applications,2,75.8,76.4,74.2,71.7,61.2,15.7,77.6,73.8,72.2,First Class,Good Standing
+STU2094,Pranav Iyer,Software Engineering,2,89.1,99.0,100.0,80.0,95.7,27.5,100.0,85.2,98.8,Distinction,Good Standing
+STU2095,Divya Rao,Computer Applications,1,69.6,67.6,73.6,60.1,59.0,20.7,88.9,61.6,72.9,First Class,Good Standing
+STU2096,Yamini Kumar,Information Technology,1,94.9,99.0,100.0,81.1,93.9,28.7,100.0,91.0,98.3,Distinction,Good Standing
+STU2097,Surya Reddy,Information Technology,5,89.6,79.6,73.8,71.7,76.8,15.8,87.9,92.8,78.8,First Class,Good Standing
+STU2098,Rohit Balaji,Computer Science,6,75.9,78.0,96.8,74.6,82.1,22.0,79.5,67.0,76.5,First Class,Good Standing
+STU2099,Nithya Ramachandran,Computer Applications,5,63.6,56.1,62.5,36.6,40.0,15.6,75.8,41.2,49.6,Pass / Average,Moderate Monitoring
+STU2100,Rhea Reddy,Computer Applications,3,85.2,75.2,69.8,70.2,61.2,18.1,83.2,69.5,73.9,First Class,Good Standing
+STU2101,Pooja Chopra,Artificial Intelligence & Data Science,4,92.7,77.4,91.8,83.8,81.3,16.6,96.0,97.1,84.5,Distinction,Good Standing
+STU2102,Rahul Balaji,Artificial Intelligence & Data Science,3,78.3,76.5,70.2,71.8,74.5,15.0,78.6,57.6,75.3,First Class,Good Standing
+STU2103,Nithya Sharma,Artificial Intelligence & Data Science,2,77.3,99.0,87.3,89.0,82.5,24.5,92.0,72.2,95.8,Distinction,Good Standing
+STU2104,Meera Venkatesh,Software Engineering,4,73.2,45.2,54.3,43.8,43.3,2.5,78.7,42.9,46.2,Pass / Average,Moderate Monitoring
+STU2105,Ananya Ramesh,Artificial Intelligence & Data Science,6,64.5,62.2,58.9,48.7,45.1,15.4,61.6,59.5,59.7,Pass / Average,Moderate Monitoring
+STU2106,Deepak Murugan,Information Technology,3,91.7,88.4,83.0,67.5,72.9,24.3,100.0,78.0,87.8,Distinction,Good Standing
+STU2107,Rahul Ramachandran,Software Engineering,6,88.3,87.7,79.7,75.3,85.8,23.9,94.7,75.1,85.8,Distinction,Good Standing
+STU2108,Ishaan Balaji,Computer Applications,4,76.9,73.6,59.7,63.9,62.0,11.8,84.7,66.1,61.2,First Class,Good Standing
+STU2109,Aditi Pillai,Artificial Intelligence & Data Science,6,60.0,69.1,95.4,69.1,68.0,17.5,82.3,77.3,73.1,First Class,Good Standing
+STU2110,Harini Gopal,Information Technology,5,68.0,69.7,74.6,69.6,59.1,22.8,85.6,70.2,76.1,First Class,Good Standing
+STU2111,Surya Reddy,Information Technology,1,79.8,68.3,93.1,81.0,69.0,13.7,80.2,70.9,69.3,First Class,Good Standing
+STU2112,Madhav Kumar,Computer Science,1,59.6,65.0,74.8,57.3,63.8,10.8,76.3,52.4,55.6,Pass / Average,Moderate Monitoring
+STU2113,Aarav Pillai,Computer Science,6,95.6,74.2,72.3,59.2,64.8,10.4,83.4,83.0,73.5,First Class,Good Standing
+STU2114,Sneha Patel,Software Engineering,3,71.5,68.0,94.4,61.7,63.6,21.0,87.4,69.4,73.5,First Class,Good Standing
+STU2115,Meera Chopra,Software Engineering,5,81.8,72.2,82.6,57.3,70.7,12.5,95.6,81.4,71.9,First Class,Good Standing
+STU2116,Nithya Devi,Computer Science,3,70.4,69.0,82.0,60.4,64.2,18.2,85.3,91.4,70.9,First Class,Good Standing
+STU2117,Bhavya Menon,Computer Science,3,68.4,87.9,92.3,81.9,87.9,17.7,91.3,100.0,87.3,Distinction,Good Standing
+STU2118,Ishaan Natarajan,Computer Applications,4,88.3,97.9,100.0,82.2,88.5,27.0,98.6,88.6,99.5,Distinction,Good Standing
+STU2119,Ananya Chopra,Computer Science,5,80.6,83.1,94.6,72.4,75.7,25.3,100.0,89.3,89.7,Distinction,Good Standing
+STU2120,Vignesh Krishnan,Artificial Intelligence & Data Science,5,66.0,62.4,71.0,51.0,59.6,19.0,81.2,39.3,61.0,First Class,Good Standing
+STU2121,Madhav Balaji,Computer Applications,3,76.7,72.3,86.2,68.1,64.4,23.8,85.3,63.7,81.7,Distinction,Good Standing
+STU2122,Deepak Murugan,Artificial Intelligence & Data Science,6,65.3,36.9,38.8,33.8,44.1,2.5,74.0,57.8,39.4,Needs Support,High Academic Priority
+STU2123,Sanjay Gopal,Information Technology,3,65.9,63.0,63.9,68.3,63.2,17.5,73.8,59.0,64.9,First Class,Good Standing
+STU2124,Swetha Reddy,Software Engineering,1,79.8,73.9,71.5,75.9,65.7,20.4,100.0,69.6,80.1,Distinction,Good Standing
+STU2125,Madhav Menon,Artificial Intelligence & Data Science,1,83.5,92.0,100.0,96.8,90.2,30.6,100.0,84.4,99.5,Distinction,Good Standing
+STU2126,Pranav Patel,Software Engineering,6,75.8,79.2,85.6,66.5,66.4,25.0,98.2,62.9,81.8,Distinction,Good Standing
+STU2127,Swetha Krishnan,Information Technology,3,77.6,62.6,78.8,67.7,57.3,18.3,85.1,45.7,64.9,First Class,Good Standing
+STU2128,Arun Balaji,Artificial Intelligence & Data Science,2,78.1,79.7,77.3,72.6,77.4,13.5,83.8,72.5,76.0,First Class,Good Standing
+STU2129,Vikram Kumar,Artificial Intelligence & Data Science,2,67.8,62.1,51.3,60.7,65.6,13.8,89.3,67.0,67.7,First Class,Good Standing
+STU2130,Aarav Chopra,Computer Applications,3,83.1,66.8,55.5,50.0,54.2,13.4,84.5,73.2,59.6,Pass / Average,Moderate Monitoring
+STU2131,Sai Iyer,Computer Science,1,84.0,94.4,92.2,78.3,78.0,23.2,98.1,75.9,91.0,Distinction,Good Standing
+STU2132,Vikram Balaji,Information Technology,2,85.7,86.2,91.0,72.6,77.8,18.4,86.8,84.4,80.4,Distinction,Good Standing
+STU2133,Rhea Sundaram,Artificial Intelligence & Data Science,3,71.5,73.1,74.3,63.2,59.5,17.4,72.4,66.0,66.0,First Class,Good Standing
+STU2134,Meera Ramesh,Information Technology,4,73.4,46.3,56.5,51.9,47.0,14.2,77.8,65.6,56.9,Pass / Average,Moderate Monitoring
+STU2135,Harini Menon,Computer Applications,2,74.7,62.5,69.3,67.3,53.4,21.8,82.1,55.4,66.1,First Class,Good Standing
+STU2136,Ganesh Iyer,Information Technology,6,57.0,53.5,47.4,59.3,50.7,10.9,53.8,61.0,55.8,Pass / Average,Moderate Monitoring
+STU2137,Pooja Gopal,Computer Science,2,84.7,83.0,95.4,72.6,84.1,21.2,96.3,86.5,90.6,Distinction,Good Standing
+STU2138,Swetha Rao,Computer Applications,2,56.0,71.1,83.1,55.5,65.5,14.2,64.6,38.6,61.7,First Class,Good Standing
+STU2139,Ganesh Reddy,Computer Science,1,74.1,59.1,65.4,47.8,60.8,11.5,83.0,69.6,61.0,First Class,Good Standing
+STU2140,Naveen Ramesh,Artificial Intelligence & Data Science,5,60.4,44.3,45.6,32.0,40.0,10.0,54.7,28.2,49.1,Pass / Average,Moderate Monitoring
+STU2141,Rohit Venkatesh,Artificial Intelligence & Data Science,4,68.5,61.9,70.0,48.6,64.1,10.1,83.4,58.2,63.1,First Class,Good Standing
+STU2142,Sanjay Patel,Computer Science,5,69.5,80.3,86.9,62.0,68.8,23.9,100.0,62.7,86.1,Distinction,Good Standing
+STU2143,Bhavya Kumar,Software Engineering,3,58.4,62.6,55.1,49.4,67.0,7.6,64.5,63.2,54.8,Pass / Average,Moderate Monitoring
+STU2144,Pooja Devi,Software Engineering,1,71.0,52.7,62.2,51.9,51.2,11.1,71.2,48.7,60.6,First Class,Good Standing
+STU2145,Nithya Venkatesh,Computer Science,2,76.5,85.2,98.1,78.6,82.8,20.7,100.0,96.0,90.0,Distinction,Good Standing
+STU2146,Keerthana Sundaram,Computer Applications,3,73.6,53.7,59.2,39.9,50.1,16.1,79.4,63.2,61.7,First Class,Good Standing
+STU2147,Ganesh Rao,Computer Science,6,70.6,73.4,61.0,67.0,66.1,17.4,99.5,70.5,71.6,First Class,Good Standing
+STU2148,Yamini Menon,Artificial Intelligence & Data Science,3,74.3,75.3,67.7,61.4,57.8,18.8,88.4,65.5,73.4,First Class,Good Standing
+STU2149,Swetha Subramanian,Computer Applications,4,82.3,99.0,100.0,95.1,98.3,25.1,100.0,100.0,99.5,Distinction,Good Standing
+STU2150,Keerthana Rao,Artificial Intelligence & Data Science,5,85.8,80.9,92.7,80.4,80.2,21.9,100.0,65.7,83.6,Distinction,Good Standing
+STU2151,Ishaan Natarajan,Computer Applications,2,74.6,67.7,71.5,67.9,61.4,12.4,75.0,74.6,66.0,First Class,Good Standing
+STU2152,Harini Rao,Information Technology,2,61.9,44.1,43.6,48.1,40.0,7.7,61.5,50.7,43.9,Needs Support,High Academic Priority
+STU2153,Rohit Gopal,Software Engineering,3,88.3,99.0,96.6,80.6,82.9,32.5,100.0,79.3,97.9,Distinction,Good Standing
+STU2154,Vikram Ramesh,Computer Applications,6,72.2,74.5,80.2,64.7,72.1,20.1,82.2,66.9,75.7,First Class,Good Standing
+STU2155,Arun Venkatesh,Information Technology,4,84.0,77.6,74.7,62.2,75.8,23.3,96.1,75.0,85.8,Distinction,Good Standing
+STU2156,Madhav Pillai,Software Engineering,4,83.3,88.2,89.4,92.0,87.4,24.8,95.9,89.5,98.7,Distinction,Good Standing
+STU2157,Vikram Iyer,Artificial Intelligence & Data Science,4,78.0,70.0,83.3,67.3,72.7,18.6,84.1,77.4,80.7,Distinction,Good Standing
+STU2158,Vignesh Subramanian,Information Technology,2,92.1,86.0,86.6,76.1,83.1,17.7,99.9,85.5,87.4,Distinction,Good Standing
+STU2159,Swetha Sundaram,Computer Science,2,92.4,95.7,100.0,84.7,91.3,30.6,100.0,87.6,99.5,Distinction,Good Standing
+STU2160,Harini Sharma,Computer Applications,4,85.5,71.1,59.3,49.1,61.6,18.2,100.0,73.9,69.6,First Class,Good Standing
+STU2161,Rohit Iyer,Information Technology,3,79.1,56.9,74.4,57.3,57.3,11.8,87.5,65.4,63.6,First Class,Good Standing
+STU2162,Divya Iyer,Information Technology,2,64.6,59.1,64.7,58.0,58.2,15.6,74.0,69.9,61.9,First Class,Good Standing
+STU2163,Pranav Sharma,Computer Science,4,68.3,64.0,77.6,57.9,66.5,17.6,83.3,67.4,67.2,First Class,Good Standing
+STU2164,Deepak Natarajan,Computer Applications,4,68.3,58.0,64.5,63.6,54.2,15.6,79.2,53.5,62.8,First Class,Good Standing
+STU2165,Naveen Iyer,Computer Applications,1,71.0,75.7,84.8,66.9,51.8,19.9,82.0,57.5,73.5,First Class,Good Standing
+STU2166,Rahul Subramanian,Information Technology,3,75.8,72.2,74.6,64.2,77.5,25.9,100.0,69.1,79.2,First Class,Good Standing
+STU2167,Bhavya Reddy,Software Engineering,2,78.6,77.4,78.6,61.9,76.7,16.0,96.5,91.9,77.4,First Class,Good Standing
+STU2168,Pooja Menon,Computer Applications,5,90.1,70.8,64.9,59.0,65.0,10.2,97.3,70.7,70.4,First Class,Good Standing
+STU2169,Surya Kumar,Software Engineering,4,65.2,61.0,51.1,50.2,43.2,9.7,71.9,47.4,51.9,Pass / Average,Moderate Monitoring
+STU2170,Aarav Ramachandran,Artificial Intelligence & Data Science,3,84.1,88.8,89.3,66.0,74.6,20.8,87.6,75.1,84.9,Distinction,Good Standing
+STU2171,Naveen Sundaram,Computer Applications,4,86.9,71.8,79.0,72.1,63.0,19.4,100.0,71.0,71.0,First Class,Good Standing
+STU2172,Vignesh Rao,Computer Science,2,91.9,86.9,99.0,61.1,67.3,26.5,100.0,73.1,86.5,Distinction,Good Standing
+STU2173,Rhea Ramesh,Software Engineering,1,80.0,77.3,88.2,59.1,58.7,21.6,97.3,62.0,77.7,First Class,Good Standing
+STU2174,Pooja Pillai,Artificial Intelligence & Data Science,6,74.2,82.4,99.7,79.5,89.2,23.1,85.6,73.0,87.5,Distinction,Good Standing
+STU2175,Rohit Iyer,Artificial Intelligence & Data Science,6,82.9,91.8,96.7,77.8,83.4,23.3,100.0,92.0,94.6,Distinction,Good Standing
+STU2176,Rhea Ramachandran,Computer Applications,3,76.4,79.9,73.3,65.9,64.8,23.3,100.0,82.9,80.3,Distinction,Good Standing
+STU2177,Naveen Subramanian,Computer Applications,2,87.5,81.3,100.0,74.7,86.0,29.2,100.0,83.5,97.7,Distinction,Good Standing
+STU2178,Rohit Iyer,Information Technology,3,81.1,89.9,81.6,81.0,64.6,26.7,91.7,75.3,93.0,Distinction,Good Standing
+STU2179,Meera Reddy,Artificial Intelligence & Data Science,4,76.2,66.1,80.8,62.0,74.8,10.6,70.8,71.0,70.5,First Class,Good Standing
+STU2180,Sai Krishnan,Computer Applications,6,75.6,93.4,85.6,55.6,70.6,18.0,83.3,75.4,84.0,Distinction,Good Standing
+STU2181,Keerthana Rao,Computer Applications,2,82.1,75.8,98.2,70.9,80.5,22.9,100.0,90.7,86.5,Distinction,Good Standing
+STU2182,Naveen Venkatesh,Computer Applications,5,61.1,42.0,48.6,39.0,40.0,15.9,84.3,39.6,44.2,Needs Support,High Academic Priority
+STU2183,Harini Gopal,Computer Applications,5,69.5,53.3,61.9,47.6,57.0,6.1,69.5,53.3,48.8,Pass / Average,Moderate Monitoring
+STU2184,Ananya Iyer,Artificial Intelligence & Data Science,2,78.8,92.0,97.4,71.5,84.4,16.9,91.7,78.0,83.3,Distinction,Good Standing
+STU2185,Nithya Iyer,Computer Applications,2,71.0,68.5,69.6,77.3,71.1,16.6,87.3,68.6,65.4,First Class,Good Standing
+STU2186,Sneha Menon,Computer Science,4,71.0,60.4,61.6,37.1,55.2,18.3,80.6,66.4,63.9,First Class,Good Standing
+STU2187,Yamini Venkatesh,Computer Science,6,76.3,72.2,64.4,50.4,60.8,16.4,92.8,83.5,70.3,First Class,Good Standing
+STU2188,Swetha Reddy,Information Technology,5,84.6,63.9,79.9,54.5,63.1,22.5,97.9,62.4,78.4,First Class,Good Standing
+STU2189,Sai Iyer,Artificial Intelligence & Data Science,5,72.8,58.1,66.9,71.1,63.4,11.0,77.9,59.9,65.1,First Class,Good Standing
+STU2190,Surya Kumar,Computer Science,4,84.2,94.5,96.0,81.9,71.8,20.5,89.4,74.8,91.2,Distinction,Good Standing
+STU2191,Vikram Balaji,Computer Applications,6,83.3,71.9,89.2,73.9,67.2,18.7,86.5,88.2,75.7,First Class,Good Standing
+STU2192,Vignesh Sundaram,Information Technology,3,70.6,60.6,66.7,45.1,53.5,17.8,75.2,56.1,65.5,First Class,Good Standing
+STU2193,Ganesh Venkatesh,Artificial Intelligence & Data Science,5,81.7,75.1,72.0,50.7,67.5,11.0,79.7,66.0,70.1,First Class,Good Standing
+STU2194,Aditi Krishnan,Software Engineering,4,56.4,58.3,57.6,47.0,55.5,11.5,62.8,58.0,47.5,Pass / Average,Moderate Monitoring
+STU2195,Sai Iyer,Artificial Intelligence & Data Science,3,85.5,90.2,78.6,75.5,83.4,18.3,100.0,86.1,87.5,Distinction,Good Standing
+STU2196,Arun Kumar,Artificial Intelligence & Data Science,5,84.4,70.3,82.0,73.6,77.0,16.6,87.4,78.3,79.5,First Class,Good Standing
+STU2197,Ganesh Sundaram,Software Engineering,6,94.5,99.0,100.0,86.6,96.3,18.4,100.0,89.7,99.1,Distinction,Good Standing
+STU2198,Naveen Murugan,Software Engineering,6,79.3,79.7,83.7,66.8,67.1,23.2,92.4,71.4,76.4,First Class,Good Standing
+STU2199,Rahul Krishnan,Artificial Intelligence & Data Science,3,68.1,58.2,48.7,41.6,44.3,9.1,80.4,44.0,54.7,Pass / Average,Moderate Monitoring
+STU2200,Madhav Reddy,Information Technology,2,84.3,80.6,90.9,65.1,70.4,21.6,88.7,82.5,81.6,Distinction,Good Standing

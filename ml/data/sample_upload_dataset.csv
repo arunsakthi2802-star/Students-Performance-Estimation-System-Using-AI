@@ -1,0 +1,21 @@
+student_id,name,department,semester,attendance_percentage,internal_marks,assignment_score,practical_score,previous_semester_percentage,study_hours_per_week,assignment_completion_percentage,learning_activity_score,final_score
+STU2001,Nithyasri Sundaram,Computer Science,4,88.5,84.0,92.0,88.0,86.5,22.0,95.0,90.0,87.4
+STU2002,Aditi Krishnan,Information Technology,4,92.0,89.0,94.0,90.5,88.0,24.5,96.0,92.0,90.8
+STU2003,Arun Kumar,Computer Applications,4,74.0,62.5,70.0,68.0,65.0,14.0,78.0,65.0,66.2
+STU2004,Bhavya Ramesh,Software Engineering,4,68.0,55.0,62.0,60.0,58.0,11.0,70.0,55.0,58.4
+STU2005,Deepak Sharma,Artificial Intelligence & Data Science,4,58.5,42.0,50.0,48.0,45.0,8.0,56.0,40.0,44.8
+STU2006,Divya Natarajan,Computer Science,4,95.0,91.0,96.0,94.0,92.0,26.0,98.0,95.0,93.5
+STU2007,Ganesh Murugan,Information Technology,4,62.0,48.0,54.0,52.0,50.0,9.5,60.0,45.0,51.0
+STU2008,Harini Venkatesh,Computer Science,4,82.0,76.0,80.0,78.0,75.0,18.0,85.0,80.0,77.9
+STU2009,Ishaan Reddy,Software Engineering,4,86.0,80.0,85.0,82.0,79.0,20.0,88.0,84.0,81.3
+STU2010,Kavya Iyer,Artificial Intelligence & Data Science,4,52.0,38.0,45.0,42.0,40.0,6.0,48.0,35.0,39.2
+STU2011,Madhav Pillai,Computer Applications,4,78.0,70.0,75.0,72.0,70.0,16.0,82.0,72.0,72.1
+STU2012,Meera Gopal,Information Technology,4,90.0,85.0,88.0,87.0,84.0,21.5,92.0,88.0,86.0
+STU2013,Naveen Subramanian,Computer Science,4,64.0,50.0,58.0,55.0,52.0,10.0,65.0,50.0,53.8
+STU2014,Pooja Menon,Software Engineering,4,84.0,78.0,82.0,80.0,76.5,19.0,86.0,81.0,79.2
+STU2015,Rahul Chopra,Artificial Intelligence & Data Science,4,71.0,60.0,68.0,64.0,62.0,13.0,74.0,60.0,63.7
+STU2016,Rhea Devi,Computer Applications,4,93.0,88.0,92.0,90.0,87.0,23.0,95.0,90.0,89.4
+STU2017,Rohit Balaji,Information Technology,4,59.0,45.0,52.0,50.0,47.0,8.5,58.0,42.0,48.1
+STU2018,Sai Ramachandran,Computer Science,4,80.0,74.0,78.0,76.0,73.0,17.0,84.0,78.0,75.6
+STU2019,Sneha Patel,Software Engineering,4,87.0,82.0,86.0,84.0,81.0,21.0,90.0,85.0,83.4
+STU2020,Surya Rao,Artificial Intelligence & Data Science,4,66.0,52.0,60.0,58.0,54.0,11.5,68.0,52.0,56.5

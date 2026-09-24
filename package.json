@@ -1,0 +1,22 @@
+{
+  "name": "students-performance-estimation-system-ai",
+  "version": "1.0.0",
+  "description": "Students Performance Estimation System Using AI - Developed for Nithyasri S",
+  "scripts": {
+    "dev": "npm run dev --prefix frontend",
+    "build": "npm run build --prefix frontend",
+    "test:backend": "python -m pytest backend/tests/test_api.py -v",
+    "seed:mongo": "python backend/seed_mongodb.py",
+    "seed:sqlite": "python -m backend.seed_data"
+  },
+  "keywords": [
+    "education",
+    "machine-learning",
+    "fastapi",
+    "react",
+    "mongodb",
+    "scikit-learn"
+  ],
+  "author": "Nithyasri S",
+  "license": "MIT"
+}
